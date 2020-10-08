@@ -1,4 +1,8 @@
+
+
+
 #List of HTML Tags
+
 #HTML Structure
           <!DOCTYPE html>
 
@@ -21,60 +25,80 @@
           </html>
 
 #Headings
-    <h1></h1>
+              <h1></h1>
 
-    <h2></h2>
+              <h2></h2>
 
-    <h3></h3>
+              <h3></h3>
 
-    <h4></h4>
-  
-    <h5></h5>
+              <h4></h4>
 
-    <h6></h6>
+              <h5></h5>
+
+              <h6></h6>
 
 #Paragraph
-  <p></p>
+
+           <p></p>
 
 #Comments
-  <!-- This is the Comments -->
+<!-- 
+This is the Comments 
+-->
 
 #Horizontal Lines
+
   <hr>       
 
 #Line Breaks
+
   <br>       
 
 #Text Formatting
-  Strong: <strong></strong>
 
-#Empahsis: <em></em>
+#Strong: 
+          <strong></strong>
 
-#Underline: <u></u>
+#Empahsis: 
+          <em></em>
 
-#Italics: <i></i>
+#Underline:
+          <u></u>
 
-#Blockquote: <blockquote></blockquote>
+#Italics: 
+<i></i>
+
+#Blockquote:
+          <blockquote></blockquote>
 
 #Pre
+
   Format: <pre></pre>   
 
 #Code
-  Computer Code: <code></code>   
+
+            Computer Code: <code></code>   
 
 #Lists
-  Definition List: <dl><dt></dt><dd></dd></dl>
 
-  Ordered List: <ol><li></li></ol>
+  Definition List:
+          <dl><dt></dt><dd></dd></dl>
 
-  UnOrdered List: <ul><li></li></ul>
+  Ordered List: 
+          <ol><li></li></ol>
+
+  UnOrdered List: 
+          <ul><li></li></ul>
 
 #Link
-  Link Pages: <a href="page.html">Page 1</a>     
+  Link Pages: 
+          <a href="page.html">Page 1</a>     
 
-  Anchor Tag: <a name="top"></a>
+  Anchor Tag: 
+          <a name="top"></a>
 
-  Anchor Tag: <a href="#top"></a>
+  Anchor Tag:
+          <a href="#top"></a>
 
 #Articles
   <section>        
