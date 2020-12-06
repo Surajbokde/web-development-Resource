@@ -26,8 +26,8 @@ A well curated list of the best learning resources
 
 ## Paid courses
 
-* (React - The Complete Guide (incl Hooks, React Router, Redux))[https://www.udemy.com/course/react-the-complete-guide-incl-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-sI_ceNBLYG0R1iW3kW8__A&utm_medium=udemyads&utm_source=aff-campaign]
-* (Modern React with Redux [2020 Update])[https://www.udemy.com/course/react-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-S3edgsb5R3zQvYm7Cjy4xQ&utm_medium=udemyads&utm_source=aff-campaign]
+* (React - The Complete Guide)[https://www.udemy.com/course/react-the-complete-guide-incl-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-sI_ceNBLYG0R1iW3kW8__A&utm_medium=udemyads&utm_source=aff-campaign]
+* (Modern React with Redux)[https://www.udemy.com/course/react-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-S3edgsb5R3zQvYm7Cjy4xQ&utm_medium=udemyads&utm_source=aff-campaign]
 
 ## Routing
 
