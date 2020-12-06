@@ -38,7 +38,6 @@ Awesome list of awesome HTML resources.
 - [Pixabay](https://pixabay.com/)
 - [unDraw](https://undraw.co/)
 - [IconGram](https://icongr.am/)
-- [Tympanus](https://tympanus.net/codrops/)
 
 ## Web Sockets
 
@@ -50,3 +49,4 @@ Awesome list of awesome HTML resources.
 
 - [Mobile Vs. Desktop Users](https://www.stonetemple.com/mobile-vs-desktop-usage-mobile-grows-but-desktop-still-a-big-player/)
 - [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
+- [Tympanus](https://tympanus.net/codrops/)
