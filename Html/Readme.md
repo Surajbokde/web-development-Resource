@@ -1,5 +1,52 @@
 # Html Resources
 
-- [html Tutorial Point ](https://www.tutorialspoint.com/html/index.htm)
+<div align="center">
+		<img width="250" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="HTML">
+	</div>
+<div align="center">
 
+Awesome list of awesome HTML resources.
+
+![#](https://badgen.net/badge/tools/3+/red)
+![#](https://badgen.net/badge/educational/6+/green)
+
+</div>
+
+## Contents
+
+-[Tutorials](#beginer-tutorials)<br/> -[Awesome tools](#awesome-tools) <br> - [Websites for getting free images](#websites-for-getting-free-images) <br/> - [Web Sockets](#web-sockets) <br> - [Other](#other)
+
+## Beginer tutorials
+
+- [Mozilla Developer Network | HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [html Tutorial Point ](https://www.tutorialspoint.com/html/index.htm)
+- [Current HTML5 Specs](https://w3c.github.io/html/)
+- [Intro To web animiations](http://danielcwilson.com/blog/2015/07/animations-intro/)
+- [HTML YouTube tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+
+## Awesome tools
+
+- [Online HTML CSS editor](https://liveweave.com/)
+- [Codepen.io](https://codepen.io/)
+- [Collection of various tools](https://htmlcheatsheet.com/)
+
+## Websites for getting free images
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
+- [unDraw](https://undraw.co/)
+- [IconGram](https://icongr.am/)
+- [Tympanus](https://tympanus.net/codrops/)
+
+## Web Sockets
+
+- [Introducing Websockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
+- [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html)
+- [HTML5 Web Sockets API](http://www.tutorialspark.com/html5/HTML5_WebSockets.php)
+
+## Other
+
+- [Mobile Vs. Desktop Users](https://www.stonetemple.com/mobile-vs-desktop-usage-mobile-grows-but-desktop-still-a-big-player/)
+- [HTMLreference.io - free visual guide to HTML](http://htmlreference.io/)
