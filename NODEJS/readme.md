@@ -22,7 +22,7 @@ A curated list of awesome Node.js resources.
 - [Node.js First Application ](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm)
 - [Node.js Beginers playlist](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [Debuging a Node.js app](https://blog.heroku.com/debug-node-applications)
-- [Deploying a Node.js app on Heroky](https://devcenter.heroku.com/articles/deploying-nodejs)
+- [Deploying a Node.js app on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
 
 ## Best practices
 
