@@ -14,7 +14,8 @@ A curated list of awesome Node.js resources.
 
 ## Contents
 
--[Tutorials](#beginer-tutorials)<br/> -[Best practices](#best-practices)
+- [Tutorials](#beginer-tutorials)<br/> -[Best practices](#best-practices)
+- [Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap/blob/master/Node.js-developer-roadmap.png)
 
 ## Beginer Tutorials
 
@@ -31,3 +32,9 @@ A curated list of awesome Node.js resources.
 - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
 - [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
 - [Microsoft Node.js guidelines](https://github.com/microsoft/nodejs-guidelines)
+
+## Paid Course 
+
+- [codewithvk/web-development-Resource](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+- [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
+
