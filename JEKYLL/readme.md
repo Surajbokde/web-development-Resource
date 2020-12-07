@@ -56,12 +56,12 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 
 ## How it works - 
 
-#### Jekyll renders Markdown or Textile and Liquid templates and produces a complete, static website ready to be served, it does not uses databases to generate the pages dynamically.
+Jekyll renders Markdown or Textile and Liquid templates and produces a complete, static website ready to be served, it does not uses databases to generate the pages dynamically. Content inside the Data Files(YAML, JSON, CSV and TSV files) can be accessed via Liquid templating system
 
-#### Jekyll has everything need to run an blog efficiently like Disqus comments, Algolia search, Netlify CMS, Snipcart, RSS feed and many deploy options like on Github Pages and on Netlify & many more integrations & Plugins.
+Jekyll has everything need to run an blog efficiently like Disqus comments, Algolia search, Netlify CMS, Snipcart, RSS feed and many deploy options like on Github Pages and on Netlify & many more integrations & Plugins.
 
-#### Top sites using Jekyll are GitHub, Sentry, Razorpay, MobilePay, Babbel, New Relic etc that using Jekyll in either blog or in some other ways.
+Top sites using Jekyll are GitHub, Sentry, Razorpay, MobilePay, Babbel, New Relic etc that using Jekyll in either blog or in some other ways.
 
-#### It's community support and many themes make it to stand near to many static site generators. Start using Jekyll now and build amazing blogs and personal websites.
+It's community support and many themes make it to stand near to many static site generators. Start using Jekyll now and build amazing blogs and personal websites.
 
 _Jekyll is the engine behind GitHub Pages_ :astonished:
