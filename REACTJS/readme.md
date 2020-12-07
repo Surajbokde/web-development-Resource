@@ -4,8 +4,11 @@
 
 A well curated list of the best learning resources
 
+
+
 ## Documentation
 
+* [Roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [Official Documentation](https://reactjs.org/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 
@@ -24,10 +27,12 @@ A well curated list of the best learning resources
 * [Scrimba learn React for free](https://scrimba.com/learn/learnreact)
 * [Complete React tutorial by Net Ninja](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 
+
 ## Paid courses
 
 * [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-sI_ceNBLYG0R1iW3kW8__A&utm_medium=udemyads&utm_source=aff-campaign)
 * [Modern React with Redux](https://www.udemy.com/course/react-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-S3edgsb5R3zQvYm7Cjy4xQ&utm_medium=udemyads&utm_source=aff-campaign)
+* [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/)
 
 ## Routing
 
@@ -35,6 +40,7 @@ A well curated list of the best learning resources
 
 ## State Management
 
+* [Redux Crash-course](https://www.youtube.com/watch?v=poQXNp9ItL4)
 * [React Redux](https://redux.js.org/)
 * [Getting started with redux](https://egghead.io/courses/getting-started-with-redux)
 
