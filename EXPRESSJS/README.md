@@ -7,13 +7,14 @@
 	
 # Black Lives Matter.
 
-![#](https://badgen.net/badge/best-practices/5+/red)
-![#](https://badgen.net/badge/educational/5+/green)
+![#](https://badgen.net/badge/Tutorials/5+/red)
+![#](https://badgen.net/badge/Youtubetorials/5+/green)
+![#](https://badgen.net/badge/Certification Courses/5+/yellow)
 
 ## Contents
 
 - [Tutorials](#beginer-tutorials)<br/> 
 
-- [Youtube Tutorials](#beginer-tutorials)<br/> 
+- [ Youtubetorials](#beginer-tutorials)<br/> 
 
 - [Certification Courses](#beginer-tutorials)<br/> 
