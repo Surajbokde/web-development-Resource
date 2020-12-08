@@ -43,4 +43,11 @@
 -  [Project2](https://www.youtube.com/watch?v=AX1AP83CuK4) 
 -  [Project3](https://github.com/Ayush7614/Weather-App-Project) 
 
+## Name of the some books
+Web Development with Node and Express: Leveraging the JavaScript Stack 1st Edition(by Ethan Brown)
+
+Pro Express.js: Master Express.js: The Node.js Framework For Your Web Development 1st ed. Edition(by Azat Mardan)
+
+Getting MEAN with Mongo, Express, Angular, and Node 2nd Edition(by Simon Holmes)
+
 
