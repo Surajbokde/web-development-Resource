@@ -48,7 +48,7 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 -  [12 Best MongoDB Books For Teaching Yourself](https://whatpixel.com/best-mongodb-books/)
 
 ## Name of the some books
-MongoDB Basics- written by by Peter Membrey.
+MongoDB Basics- written by Peter Membrey.
 
 MongoDB: The Definitive Guide- by Kristina Chodorow
 
