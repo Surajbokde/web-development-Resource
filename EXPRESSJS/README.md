@@ -11,6 +11,6 @@
 
 - [Tutorials](#beginer-tutorials)<br/> 
 
-- [ Youtubetorials](#beginer-tutorials)<br/> 
+- [ Youtubetutorials](#beginer-tutorials)<br/> 
 
 - [Certification Courses](#beginer-tutorials)<br/> 
