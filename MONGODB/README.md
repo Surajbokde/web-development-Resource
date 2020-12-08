@@ -19,7 +19,7 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 
 - [MONGODB Homepage ](https://www.mongodb.com/what-is-mongodb)
 - [Installation ](https://www.mongodb.com/try/download/community)
-- [Best Beinners Tutorials ](https://www.tutorialspoint.com/mongodb/index.htm)
+- [Best Beginners Tutorials ](https://www.tutorialspoint.com/mongodb/index.htm)
 - [Environment ](https://www.tutorialspoint.com/mongodb/mongodb_environment.htm)
 - [Create Database ](https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm)
 - [Drop Database ](https://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm)
