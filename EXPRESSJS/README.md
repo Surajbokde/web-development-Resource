@@ -7,4 +7,6 @@
 	
 # Black Lives Matter.
 
+![#](https://badgen.net/badge/best-practices/5+/red)
+![#](https://badgen.net/badge/educational/5+/green)
 
