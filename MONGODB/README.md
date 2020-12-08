@@ -34,8 +34,9 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 
 ## Youtubetutorials
 -  [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ) 
+-  [Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) 
+-  [Traversy Media](https://www.youtube.com/watch?v=-56x56UppqQ) 
+-  [freecodecamp](https://www.youtube.com/watch?v=4yqu8YF29cU) 
 -  [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) 
--  [freecodecamp](https://www.youtube.com/watch?v=G8uL0lFFoN0) 
--  [Telusko](https://www.youtube.com/watch?v=2ojkb44XObc) 
 
 
