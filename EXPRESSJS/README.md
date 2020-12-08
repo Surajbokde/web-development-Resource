@@ -12,6 +12,7 @@
 
 ## Contents
 
-- [Tutorials](#beginer-tutorials)<br/> -[Best practices](#best-practices)
+- [Tutorials](#beginer-tutorials)<br/> 
+
 - [Youtube Tutorials](#beginer-tutorials)<br/> 
 
