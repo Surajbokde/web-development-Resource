@@ -1,7 +1,7 @@
 # ExpressJS Resources
 
 <div align="center">
-		<img width="250" src="https://icongr.am/devicon/expressjs-original-wordmark.svg?size=128&color=currentColor" alt="expressjs">
-	</div>
+	<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+</div>
 <div align="center">
 
