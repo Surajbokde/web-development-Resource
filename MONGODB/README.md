@@ -1,5 +1,5 @@
 # MONGODB Resources
-### Whatis MONGODB
+### What is MONGODB
 MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License. MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need
 
 <div align="center">
@@ -52,6 +52,11 @@ MongoDB Basics- written by Peter Membrey.
 
 MongoDB: The Definitive Guide- by Kristina Chodorow
 
+## Projects
+-  [Project1](https://www.youtube.com/watch?v=8Y6mWhcdSUM) 
+-  [Project2](https://www.youtube.com/watch?v=xjHEcmjlD-Y) 
 
+## 12 Top MongoDB Project Ideas & Topics For Beginners
+-  [12 Top MongoDB Project Ideas & Topics For Beginners](https://www.upgrad.com/blog/mongodb-project-ideas-topics-for-beginners/) 
 
 
