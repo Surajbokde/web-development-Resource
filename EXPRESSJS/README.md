@@ -30,10 +30,10 @@
 - [freecodecamp](https://www.freecodecamp.org/news/express-explained-with-examples-installation-routing-middleware-and-more/)
 
 ## Youtubetutorials
-1. [Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3Vqww2cL5KbDkShj4NMRzk) 
-2. [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) 
-3. [freecodecamp](https://www.youtube.com/watch?v=G8uL0lFFoN0) 
-4. [Telusko](https://www.youtube.com/watch?v=2ojkb44XObc) 
+-  [Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3Vqww2cL5KbDkShj4NMRzk) 
+-  [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) 
+-  [freecodecamp](https://www.youtube.com/watch?v=G8uL0lFFoN0) 
+-  [Telusko](https://www.youtube.com/watch?v=2ojkb44XObc) 
 
 
 
