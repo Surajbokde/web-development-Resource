@@ -7,9 +7,9 @@
 	
 # Black Lives Matter.
 
-![#](https://badgen.net/badge/Tutorials/5+/red)
-![#](https://badgen.net/badge/Youtubetorials/5+/green)
-![#](https://badgen.net/badge/Certification Courses/5+/yellow)
+![#](https://badgen.net/badge/tutorials/5+/red)
+![#](https://badgen.net/badge/youtubetorials/5+/green)
+![#](https://badgen.net/badge/certification courses/5+/yellow)
 
 ## Contents
 
