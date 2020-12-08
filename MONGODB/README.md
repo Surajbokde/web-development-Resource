@@ -25,5 +25,11 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 - [Drop Database ](https://www.tutorialspoint.com/mongodb/mongodb_drop_database.htm)
 - [For all The things visit this ](https://www.tutorialspoint.com/index.htm)
 
+## Some More Beginer Tutorials
+- [javapoint](https://www.javatpoint.com/mongodb-tutorial)
+- [guru99](https://www.guru99.com/mongodb-tutorials.html)
+- [geeksforgeeks](https://www.geeksforgeeks.org/mongodb-an-introduction/)
+- [freecodecamp](https://www.freecodecamp.org/news/tag/mongodb/)
+
 
 
