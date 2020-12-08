@@ -12,4 +12,4 @@
 
 - [CSS Grid Playground](https://mozilladevelopers.github.io/playground/)
 
-- [Community Currated CSS Resources](https://hackr.io/tutorials/learn-css)
+- [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css)
