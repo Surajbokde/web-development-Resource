@@ -44,7 +44,7 @@ GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software de
 -  [Thapa Technical](https://www.youtube.com/watch?v=v4TMaD9v5kM) 
 
 ## Top 10 Websites to Learn Git Commands and Concepts 
--  [## Top 10 Websites to Learn Git Commands and Concepts](https://javarevisited.blogspot.com/2019/05/10-free-websites-to-learn-git-online.html#axzz6g72tZEet) 
+-  [Top 10 Websites to Learn Git Commands and Concepts](https://javarevisited.blogspot.com/2019/05/10-free-websites-to-learn-git-online.html#axzz6g72tZEet) 
 
 ## 5 Best New GitHub Books To Read and Learn Github
 -  [5 Best New GitHub Books To Read and Learn Github ](https://bookauthority.org/books/new-github-books)
