@@ -24,5 +24,7 @@ Firebase is a platform developed by Google for creating mobile and web applicati
 - [Environment ](https://www.tutorialspoint.com/firebase/firebase_environment_setup.htm)
 - [Write Data ](https://www.tutorialspoint.com/firebase/firebase_write_data.htm)
 - [Firebase - Email Authentication ](https://www.tutorialspoint.com/firebase/firebase_email_authentication.htm)
+- [Firebase - Google Authentication ](https://www.tutorialspoint.com/firebase/firebase_google_authentication.htm)
+- [Firebase - Facebook Authentication ](https://www.tutorialspoint.com/firebase/firebase_facebook_authentication.htm)
 - [For all The things visit this ](https://www.tutorialspoint.com/index.htm)
 
