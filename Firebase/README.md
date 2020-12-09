@@ -40,3 +40,19 @@ Firebase is a platform developed by Google for creating mobile and web applicati
 -  [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB) 
 -  [Traversy Media](https://www.youtube.com/watch?v=PP4Tr0l08NE) 
 -  [freecodecamp](https://www.youtube.com/watch?v=m_u6P5k0vP0) 
+
+## Top 5 Online Resources
+-  [Top 5 Courses to learn Firebase and Firestore in 2020](https://javarevisited.blogspot.com/2020/03/top-5-courses-to-learn-firebase-in-2020.html#axzz6g72tZEet)
+
+##  13 Best Firebase Books of All Time
+-  [13 Best Firebase Books of All Time](https://bookauthority.org/books/best-firebase-books)
+
+## Name of the some books
+The Road to React with Firebase: by Robin Wieruch
+
+Firebase Essentials - Neil Smyth
+
+## Projects
+
+
+
