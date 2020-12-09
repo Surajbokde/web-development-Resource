@@ -28,3 +28,9 @@ Firebase is a platform developed by Google for creating mobile and web applicati
 - [Firebase - Facebook Authentication ](https://www.tutorialspoint.com/firebase/firebase_facebook_authentication.htm)
 - [For all The things visit this ](https://www.tutorialspoint.com/index.htm)
 
+## Some More Beginer Tutorials
+- [javapoint](https://www.javatpoint.com/firebase)
+- [wisdomjobs](https://www.wisdomjobs.com/e-university/firebase-tutorial-1231.html)
+- [geeksforgeeks](https://www.geeksforgeeks.org/firebase-realtime-database-with-operations-in-android-with-examples/)
+- [freecodecamp](https://www.freecodecamp.org/news/tag/firebase/)
+
