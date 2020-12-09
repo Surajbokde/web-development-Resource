@@ -2,6 +2,8 @@
 ### What is GITHUb
 GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
+https://github.com/Ayush7614/web-development-Resource/blob/main/GITHUB/github-mark.png
+
 
 ## Contents
 
