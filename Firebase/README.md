@@ -50,9 +50,12 @@ Firebase is a platform developed by Google for creating mobile and web applicati
 ## Name of the some books
 The Road to React with Firebase: by Robin Wieruch
 
-Firebase Essentials - Neil Smyth
+Firebase Essentials - by Neil Smyth
 
 ## Projects
+-  [Project1](https://www.youtube.com/watch?v=VqgTr-nd7Cg&t=468s) 
+-  [Project2](https://www.youtube.com/watch?v=zQyrwxMPm88) 
+
 
 
 
