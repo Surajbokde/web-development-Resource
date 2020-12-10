@@ -7,12 +7,14 @@ A well curated list of the best learning resources
 * [Official documentation](https://docs.angularjs.org/guide)
 * [W3School](https://www.w3schools.com/angular)
 * [MediaLoot](https://medialoot.com/blog/angularjs-for-absolute-beginners/)
+* [Devdocs](https://devdocs.io/angularjs/)
 
 ## Tutorial
 
 * [Javatpoint](https://www.javatpoint.com/angularjs-tutorial)
 * [Using React in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
 * [Codecademy](https://www.codecademy.com/learn/learn-angularjs) - Free course material but paid certificate of completion
+* [Guru99](https://www.guru99.com/angularjs-tutorial.html)
 
 
 ## Video Tutorials
@@ -20,6 +22,7 @@ A well curated list of the best learning resources
 * [Tutorials Point](https://www.tutorialspoint.com/angularjs/index.htm)
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-angularjs)
 * [FreeCodeCamp](https://www.youtube.com/watch?v=DKlTBBuc32c)
+* [Learnangularjs](http://www.learnangularjs.net/videos.php)
 
 ## Books
 
@@ -37,6 +40,8 @@ A well curated list of the best learning resources
 
 * [Tutorialspoint](https://www.tutorialspoint.com/online_angularjs_editor.php)
 * [Codepen](https://codepen.io/netsi1964/pen/GhqFH)
+* [W3School](https://www.w3schools.com/angular)
+* [Codesandbox](https://codesandbox.io/s/angular?file=/src/main.ts)
 
 
 ## Some GitHub repositories 
