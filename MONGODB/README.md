@@ -17,6 +17,8 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 
 - [Books](#beginer-tutorials)<br/> 
 
+- [Cheetsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+
 ## Documentation
 - [Official Documentation](https://docs.mongodb.com/manual/tutorial/)
 - [mongoose-elegant mongodb object modeling for node.js](https://mongoosejs.com/)
