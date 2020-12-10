@@ -1,4 +1,4 @@
-#  Resources Bootstrap
+# Bootstrap Resources
 ### What is Bootstrap
 Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. 
 
@@ -34,7 +34,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 -  [freecodecamp](https://www.youtube.com/watch?v=RyTRgQ7k6QE) 
 -  [Hitesh Choudhary](https://www.youtube.com/watch?v=hpM-hj2SV1Q)
 
-##Top 10 Best Books For Learning Bootstrap Library
+## Top 10 Best Books For Learning Bootstrap Library
 -  [ Top 10 Best Books For Learning  Bootstrap Library](https://whatpixel.com/top-10-bootstrap-books/)
 
 ## Name of the some books
