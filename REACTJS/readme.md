@@ -11,7 +11,7 @@ A well curated list of the best learning resources
 * [Roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [Official Documentation](https://reactjs.org/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-
+* [CheetSheet](https://devhints.io/react)
 
 ## Websites
 
