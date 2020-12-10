@@ -57,6 +57,7 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 
 ## Paid Course
 - [MongoDB - The Complete Developer's Guide 2020](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+- [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/)
 
 ## Name of the some books
 MongoDB Basics- written by Peter Membrey.
