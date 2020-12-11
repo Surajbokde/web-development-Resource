@@ -35,6 +35,6 @@ A curated list of awesome Node.js resources.
 
 ## Paid Course 
 
-- [codewithvk/web-development-Resource](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+- [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
