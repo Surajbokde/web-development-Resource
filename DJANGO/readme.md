@@ -12,6 +12,7 @@ A well curated list of resources to help you getting started with Django
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 * [django cheat sheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 
+
 ## Websites
 
 * [Javatpoint](https://www.javatpoint.com/django-tutorial)
@@ -29,7 +30,6 @@ A well curated list of resources to help you getting started with Django
 * [https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK](thenewboston - Django Tutorials for Beginners)
 
 
-
 ## Groups and Communities
 
 * [Django-Users Google Group](https://groups.google.com/forum/#!forum/django-users)
@@ -44,9 +44,24 @@ A well curated list of resources to help you getting started with Django
 * [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
 
 
+## E-Books
+
+* [Django Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.0.x/django.pdf)
+* [The Django Book](https://django-book.readthedocs.io/en/latest/)
+* [High Performance Django](https://drive.google.com/file/d/1BUIN3FcH7_Yl1zDyMSEBZJ-seTYSEFsN/view)
+
+
+## Useful GitHub resources
+
+* [Awesome Django](https://github.com/shahraizali/awesome-django)
+* [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
+* [Django](https://github.com/django/django)
+
+
 ## Getting started with basic projects
 
- [Project ideas with source code](https://www.djangosites.org/with-source/)
+* [Project ideas with source code](https://www.djangosites.org/with-source/)
+* [Free Projectz](https://www.freeprojectz.com/django-projects)
 
 
 
