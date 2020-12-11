@@ -14,6 +14,7 @@ A curated list of awesome graphql resources.
 
 - [Sortintro - graphql](https://medium.com/devgorilla/what-is-graphql-f0902a959e4)
 - [graphql -official](https://graphql.org/)
+- [graphql cheat sheet](https://devhints.io/graphql)
 
 
 ## Video Tutorials
