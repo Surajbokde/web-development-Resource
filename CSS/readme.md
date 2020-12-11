@@ -49,3 +49,14 @@
 - [Pleeese Play](http://pleeease.io/play/) - Online prefixer tool
 - [CSSmatic](http://www.cssmatic.com/) - Nifty little tools
 - [Cubiz-Bezier](http://lea.verou.me/projects/) - Create your own easing functions
+
+## cool css code pen links
+-[A Pen by Sean Free](https://codepen.io/seanfree/pen/PxJyEW)
+-[A Pen by Noel Delgado](https://www.youtube.com/redirect?q=https%3A%2F%2Fcodepen.io%2Fnoeldelgado%2Fpen%2FdQZWqP&redir_token=QUFFLUhqbk5UQTRBdGlSb3NvVlREOEFGaWNjTFVnOFdPQXxBQ3Jtc0trV0o4ZFdOWXdVb3llRzIxaWNhaG1nT2VvMjViaDVVWS04X1I0QmJRdmRBd0VuNmJsWWVuWkJZMW5WV1NBSDNuLTdjSk41NDFTSEhvbUtqdVpyZUpMSzk0R3F5QzJUWWFiZTcxcV80TnBOOEJleXpmMA%3D%3D&v=WFRVlfAkn_c&event=video_description)
+-[A Pen by Shari Hunt](https://codepen.io/ShariHunt/pen/KrXNZe)
+-[A Pen by Marina Kuznetcova](https://codepen.io/mrnkzntcv/pen/oQqyvG)
+-[A Pen by David Khourshid](https://www.youtube.com/redirect?q=https%3A%2F%2Fcodepen.io%2Fdavidkpiano%2Fpen%2FBGxgLa&redir_token=QUFFLUhqbXlyQVJINWRnZjMzT3VVd1BEaTRHZjB2MldpZ3xBQ3Jtc0tub0wzNzZtZGxmcld0RnllME93M2U5TkRXT1NDRUYxYk5vRlJmQTdOTjVmc0VVQmpZNTBTbDNXdVh5eDktNHpVUEJ3SkZ5eFl4MnFROXJKV3hReUhJSjgzaTQ0NW1TQU9GVlgtbmRoc0lNbmd4SGpkcw%3D%3D&v=WFRVlfAkn_c&event=video_description)
+-[A Pen by Baron](https://codepen.io/b29/pen/roVJYY)
+-[A Pen by m04b34t](https://codepen.io/m04b34t/pen/QJNBOo)
+-[A Pen by Tobias Glaus](https://www.youtube.com/redirect?q=https%3A%2F%2Fcodepen.io%2Ftobiasglaus%2Fpen%2FqQLjYZ&redir_token=QUFFLUhqbGVzd0NqcVFTaUVoczZ5cXhzUnI0elVFTkk1UXxBQ3Jtc0tsZ2Nrd0MzY1A1RE45bzBhdnhhemtlNG9IS3dqMGVReWlXbnpmcGl0NVlOdXNLOFItdmpiTktlY0lyOURSem81c1FmcHBKR2FyNGpNRUQ4dHVHdVRHYWZWUW01YktMWWowd1JqRHdxOEU3Ukt3aWRNOA%3D%3D&v=WFRVlfAkn_c&event=video_description)
+
