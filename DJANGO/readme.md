@@ -10,6 +10,7 @@ A well curated list of resources to help you getting started with Django
 
 * [Official Documentation](https://docs.djangoproject.com/en/2.1/intro/)
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+* [django cheat sheet](https://www.mercurytide.co.uk/media/resources/django-cheat-sheet.pdf)
 
 
 ## Websites

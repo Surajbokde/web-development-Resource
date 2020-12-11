@@ -9,7 +9,7 @@ A well curated list of the best learning resources
 * [W3School](https://www.w3schools.com/angular)
 * [MediaLoot](https://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [Devdocs](https://devdocs.io/angularjs/)
-
+* [Cheat Sheet](https://angular.io/guide/cheatsheet)
 
 ## Tutorial
 
