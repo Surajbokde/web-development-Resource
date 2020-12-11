@@ -48,6 +48,14 @@ A well curated list of resources to help you getting started with Django
 
 * [Django Documentation](https://buildmedia.readthedocs.org/media/pdf/django/3.0.x/django.pdf)
 * [The Django Book](https://django-book.readthedocs.io/en/latest/)
+* [High Performance Django](https://drive.google.com/file/d/1BUIN3FcH7_Yl1zDyMSEBZJ-seTYSEFsN/view)
+
+
+## Useful GitHub resources
+
+* [Awesome Django](https://github.com/shahraizali/awesome-django)
+* [Awesome Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
+* [Django](https://github.com/django/django)
 
 
 ## Getting started with basic projects
