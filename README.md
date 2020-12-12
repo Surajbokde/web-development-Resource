@@ -1,6 +1,6 @@
 # Web development resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://linktr.ee/_Suraj"><img src="https://avatars0.githubusercontent.com/u/66197682?v=4" width="100px;" alt=""/><br /><sub><b>Surajbokde</b></sub></a><br /><a href="https://github.com/codewithvk/web-development-Resource/commits?author=Surajbokde" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/codewithvk"><img src="https://avatars1.githubusercontent.com/u/61119120?v=4" width="100px;" alt=""/><br /><sub><b>Vivek Javiya</b></sub></a><br /><a href="https://github.com/codewithvk/web-development-Resource/commits?author=codewithvk" title="Documentation">📖</a></td>
   </tr>
 </table>
 
