@@ -58,6 +58,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sagarmittal1",
+      "name": "Sagar Mittal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54253848?v=4",
+      "profile": "https://sagar.ninja",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
