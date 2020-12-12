@@ -1,6 +1,6 @@
 # Web development resources
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -47,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/raghu0812199"><img src="https://avatars1.githubusercontent.com/u/72986044?v=4" width="100px;" alt=""/><br /><sub><b>raghu0812199</b></sub></a><br /><a href="https://github.com/codewithvk/web-development-Resource/commits?author=raghu0812199" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/prit108"><img src="https://avatars3.githubusercontent.com/u/63956555?v=4" width="100px;" alt=""/><br /><sub><b>Pritkumar Godhani</b></sub></a><br /><a href="https://github.com/codewithvk/web-development-Resource/commits?author=prit108" title="Documentation">📖</a></td>
     <td align="center"><a href="https://maximilianschmelzer.com"><img src="https://avatars2.githubusercontent.com/u/24356384?v=4" width="100px;" alt=""/><br /><sub><b>Maximilian Schmelzer</b></sub></a><br /><a href="https://github.com/codewithvk/web-development-Resource/commits?author=maximilianschmelzer" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ineffable23"><img src="https://avatars0.githubusercontent.com/u/49369387?v=4" width="100px;" alt=""/><br /><sub><b>Harshita Verma</b></sub></a><br /><a href="https://github.com/codewithvk/web-development-Resource/commits?author=ineffable23" title="Documentation">📖</a></td>
   </tr>
 </table>
 
