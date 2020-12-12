@@ -112,6 +112,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "maximilianschmelzer",
+      "name": "Maximilian Schmelzer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24356384?v=4",
+      "profile": "https://maximilianschmelzer.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
