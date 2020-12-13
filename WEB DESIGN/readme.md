@@ -1,7 +1,7 @@
 # WEB DESIGN Resources
 
 <div align="center">
-
+  
 “Web design is a web development process for creating a website that focuses on aesthetic factors like layout, user interface and other visual imagery in order to make the website more visually appealing and easy to use. It encompasses several different aspects, including webpage layout, content production, and graphic design.”
 
 </div>
