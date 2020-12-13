@@ -17,6 +17,12 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 
 - [Books](#beginer-tutorials)<br/> 
 
+- [Cheetsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+
+## Documentation
+- [Official Documentation](https://docs.mongodb.com/manual/tutorial/)
+- [mongoose-elegant mongodb object modeling for node.js](https://mongoosejs.com/)
+
 ## Beginer Tutorials
 
 - [MONGODB Homepage ](https://www.mongodb.com/what-is-mongodb)
@@ -32,20 +38,26 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 - [guru99](https://www.guru99.com/mongodb-tutorials.html)
 - [geeksforgeeks](https://www.geeksforgeeks.org/mongodb-an-introduction/)
 - [freecodecamp](https://www.freecodecamp.org/news/tag/mongodb/)
-
+- [beginnersbook](https://beginnersbook.com/2017/09/mongodb-tutorial/)
 
 ## Youtubetutorials
 -  [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ) 
 -  [Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) 
 -  [Traversy Media](https://www.youtube.com/watch?v=-56x56UppqQ) 
 -  [freecodecamp](https://www.youtube.com/watch?v=4yqu8YF29cU) 
--  [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) 
+-  [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- [MongoDB by the Net Ninja](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+
 
 ## Top 5 Online Resources
 -  [Top 5 MongoDB Courses for Beginners in 2020](https://medium.com/javarevisited/5-best-mongodb-courses-to-learn-nosql-for-beginners-in-2020-42df5af5496c) 
 
 ## 12 Best MongoDB Books For Teaching Yourself
 -  [12 Best MongoDB Books For Teaching Yourself](https://whatpixel.com/best-mongodb-books/)
+
+## Paid Course
+- [MongoDB - The Complete Developer's Guide 2020](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+- [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/)
 
 ## Name of the some books
 MongoDB Basics- written by Peter Membrey.

@@ -15,6 +15,8 @@ JavaScript can be hard to acquaint as compared to other languages, but with righ
 2. [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) - Free course material but paid certificate of completion
 3. [javascript.info](https://javascript.info/) - Well structured
 4. [Mozilla's JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+5. [Mordan JS Full Course ](https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
+6. [javascript cheat sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 ## YouTube Channels
 

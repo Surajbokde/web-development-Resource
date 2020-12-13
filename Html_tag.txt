@@ -56,17 +56,20 @@ This is the Comments
 
 #Text Formatting
 
-#Strong: 
-          <strong></strong>
+          Strong: 
+                    <strong></strong>
+                    
+          Bold:
+                    <b></b>
 
-#Empahsis: 
-          <em></em>
+          Empahsis: 
+                    <em></em>
 
-#Underline:
-          <u></u>
+          Underline:
+                    <u></u>
 
-#Italics: 
-<i></i>
+          Italics: 
+                    <i></i>
 
 #Blockquote:
           <blockquote></blockquote>

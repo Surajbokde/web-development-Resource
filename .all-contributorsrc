@@ -1,0 +1,150 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Surajbokde",
+      "name": "Surajbokde",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/66197682?v=4",
+      "profile": "https://linktr.ee/_Suraj",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "codewithvk",
+      "name": "Vivek Javiya",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/61119120?v=4",
+      "profile": "https://github.com/codewithvk",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Ayush7614",
+      "name": "Ayush kumar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/67006255?v=4",
+      "profile": "http://ayush7614@github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "arihantbansal",
+      "name": "Arihant Bansal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17180950?v=4",
+      "profile": "https://arihantbansal.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "has12zen",
+      "name": "has12zen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/57583693?v=4",
+      "profile": "https://github.com/has12zen",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Nivedita967",
+      "name": "Nivedita Singh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/66518355?v=4",
+      "profile": "https://www.linkedin.com/in/nivedita-singh-195b6818a/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sagarmittal1",
+      "name": "Sagar Mittal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54253848?v=4",
+      "profile": "https://sagar.ninja",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ronakagarwal3434",
+      "name": "ronakagarwal3434",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60756098?v=4",
+      "profile": "https://github.com/ronakagarwal3434",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "umar07",
+      "name": "Umar Masud",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11666006?v=4",
+      "profile": "https://github.com/umar07",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rajghosh2000",
+      "name": "Rajdeep Ghosh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45513473?v=4",
+      "profile": "https://github.com/rajghosh2000",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "raghu0812199",
+      "name": "raghu0812199",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/72986044?v=4",
+      "profile": "https://github.com/raghu0812199",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "prit108",
+      "name": "Pritkumar Godhani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/63956555?v=4",
+      "profile": "https://github.com/prit108",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "maximilianschmelzer",
+      "name": "Maximilian Schmelzer",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24356384?v=4",
+      "profile": "https://maximilianschmelzer.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ineffable23",
+      "name": "Harshita Verma",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/49369387?v=4",
+      "profile": "https://github.com/ineffable23",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "hr1shu",
+      "name": "RISHAV KUMAR",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/57145318?v=4",
+      "profile": "http://hr1shu.pythonanywhere.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "web-development-Resource",
+  "projectOwner": "Surajbokde",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -1,4 +1,4 @@
-# Html Resources
+# HTML Resources
 
 <div align="center">
 		<img width="250" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="HTML">
@@ -14,16 +14,18 @@ Awesome list of awesome HTML resources.
 
 ## Contents
 
--[Tutorials](#beginer-tutorials)<br/> -[Awesome tools](#awesome-tools) <br> - [Websites for getting free images](#websites-for-getting-free-images) <br/> - [Web Sockets](#web-sockets) <br> - [Other](#other)
+-[Tutorials](#beginer-tutorials)<br/> -[Awesome tools](#awesome-tools) <br> - [Websites for getting free images](#websites-for-getting-free-images) <br/> - [Web Sockets](#web-sockets) <br> - [HTML References](#html-references) <br> - [Other](#other)
 
 ## Beginer tutorials
 
 - [Mozilla Developer Network | HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [html Tutorial Point ](https://www.tutorialspoint.com/html/index.htm)
+- [HTML Tutorial Point ](https://www.tutorialspoint.com/html/index.htm)
 - [Current HTML5 Specs](https://w3c.github.io/html/)
 - [Intro To web animiations](http://danielcwilson.com/blog/2015/07/animations-intro/)
 - [HTML YouTube tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+- [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
+- [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
 
 ## Awesome tools
 
@@ -44,6 +46,9 @@ Awesome list of awesome HTML resources.
 - [Introducing Websockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
 - [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html)
 - [HTML5 Web Sockets API](http://www.tutorialspark.com/html5/HTML5_WebSockets.php)
+
+## HTML References
+- [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html)
 
 ## Other
 
