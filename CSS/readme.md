@@ -24,6 +24,7 @@
 - [w3schools.com](https://www.w3schools.com/css/)
 - [Codecademy](https://www.codecademy.com/tracks/web)
 - [FreeCodeCamp.com](https://www.freecodecamp.com/map-aside#nested-collapseHTML5andCSS)
+- [codewithharry.com](https://codewithharry.com/search/?query=web+development)
 - [SoloLearn](http://www.sololearn.com/Course/CSS/)
 - [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -32,15 +33,26 @@
 **Beginner**
 - [HTML and CSS3 Crash Course by Kevin Powell](https://scrimba.com/learn/htmlcss)
 - [Introduction to CSS by Eric Vida](https://scrimba.com/learn/introtocss)
-- [
+
+**Intermediate**
+- [Learn CSS Animations by Jad Khalili](https://scrimba.com/learn/cssanimations)
+- [Learn CSS Grid by Per Herald Borgen](https://scrimba.com/learn/cssgrid)
+- [Learn CSS Variables Per Herald Borgen](https://scrimba.com/learn/cssvariables)
+- [Learn Tailwind CSS by Victor Gonzalez](https://scrimba.com/learn/tailwind)
+- [Learn Bulma CSS by Zaydek Gaultieri](https://scrimba.com/learn/bulma)
+
 
 ## YouTube Content
 
-- [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [CSS Crash Course by Brad Traversy](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [thenewboston](https://www.youtube.com/watch?v=yfoY53QXEnI)
+**Full Playlists**
+- [CSS Tutorial by Codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- [CSS Tutorial - Zero to Hero (Complete Course) by freeCodeCamp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [DEV Tips](https://www.youtube.com/user/DevTipsForDesigners/videos)
-- [CSS COnf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
+- [Complete CSS Tutorial by Traversy Media](https://youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+
+** Crash Course in One Video**
+- [CSS Crash Course by Brad Traversy](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [CSS Crash Course by codewithharry](https://youtu.be/u5-K_ua9sOw)
 
 ## Books
 
