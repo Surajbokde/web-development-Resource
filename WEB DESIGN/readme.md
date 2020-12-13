@@ -130,5 +130,11 @@
 - [byCodeWithHarry](https://youtu.be/nknwAOtmtDk)
 
 ## YouTube Lectures
+
+**Full Playlists**
 - [codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - []
+
+**Crash Courses**
+- [byTraversyMedia](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+- [FrontendByDesignCourse](https://youtu.be/8gNrZ4lAnAw9)
