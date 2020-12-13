@@ -123,3 +123,12 @@
 - [FreeCodeCamp](https://www.freecodecamp.com/map-aside#nested-collapseHTML5andCSS)
 - [Lynda](https://www.lynda.com/)
 - [Code School](https://www.pluralsight.com/codeschool)
+
+## Web Designing Roadmaps
+- [ByAmanDhattarwal](https://youtu.be/l1EssrLxt7E)
+- [ByLoveBabbar](https://youtu.be/GLk7-imcjiI)
+- [byCodeWithHarry](https://youtu.be/nknwAOtmtDk)
+
+## YouTube Lectures
+- [codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- []
