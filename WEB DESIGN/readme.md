@@ -146,3 +146,7 @@
 - [React.js](https://scrimba.com/learn/learnreact)
 
 **Paid Courses to master Web Development**
+- [ResponsiveWebDesignBootcamp](https://scrimba.com/learn/responsive)
+- [JavascriotBootcamp](https://scrimba.com/learn/javascript)
+
+
