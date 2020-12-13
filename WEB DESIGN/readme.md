@@ -149,4 +149,11 @@
 - [ResponsiveWebDesignBootcamp](https://scrimba.com/learn/responsive)
 - [JavascriotBootcamp](https://scrimba.com/learn/javascript)
 
+## Web Designing Projects
+- [ScorekeeperProject](https://youtu.be/GLk7-imcjiI)
+- [ResponsiveBootstrapWebsite](https://youtu.be/9cKsq14Kfsw)
+- [ResponsiveWebsite](https://youtu.be/k8ioDxSEjZU)
+- [OnlineMealDeliveryWebsite](https://youtu.be/8KVrdL0VcAk)
+- [LocalGymWebpage](https://youtu.be/Sj5NX_br5WY)
+- [ResponsiveBlogDesign](https://youtu.be/9FD2ugeS4OU)
 
