@@ -50,7 +50,7 @@
 - [DEV Tips](https://www.youtube.com/user/DevTipsForDesigners/videos)
 - [Complete CSS Tutorial by Traversy Media](https://youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
-** Crash Course in One Video**
+**Crash Course in One Video**
 - [CSS Crash Course by Brad Traversy](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [CSS Crash Course by codewithharry](https://youtu.be/u5-K_ua9sOw)
 
