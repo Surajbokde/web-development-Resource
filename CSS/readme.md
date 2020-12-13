@@ -28,6 +28,12 @@
 - [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
+## Amazing Free Courses from Scrimba
+**Beginner**
+- [HTML and CSS3 Crash Course by Kevin Powell](https://scrimba.com/learn/htmlcss)
+- [Introduction to CSS by Eric Vida](https://scrimba.com/learn/introtocss)
+- [
+
 ## YouTube Content
 
 - [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
