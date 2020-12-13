@@ -137,3 +137,12 @@
 **Crash Courses**
 - [byTraversyMedia](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
 - [FrontendByDesignCourse](https://youtu.be/8gNrZ4lAnAw9)
+
+## Amazing Scrimba Courses
+**Free**
+- [HTML&CSS](https://scrimba.com/learn/htmlcss)
+- [Javascript](https://scrimba.com/learn/introtojavascript)
+- [Boostrap](https://scrimba.com/learn/bootstrap4)
+- [React.js](https://scrimba.com/learn/learnreact)
+
+**Paid Courses to master Web Development**
