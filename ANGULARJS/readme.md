@@ -1,11 +1,6 @@
 # ANGULARJS RESOURCES
 AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. 
 
-<div align="center">
-	<code><img height="250" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-</div>
-<div align="center">
-
 
 ### Video Tutorials-
 * [Tutorials Point](https://www.tutorialspoint.com/angularjs/index.htm)
