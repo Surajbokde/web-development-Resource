@@ -22,3 +22,5 @@
 - [SoloLearn](https://www.sololearn.com/learning/1082)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
 
+## Amazing Scrimba Course
+- [From jQuery to React](https://scrimba.com/learn/jqueryreact)
