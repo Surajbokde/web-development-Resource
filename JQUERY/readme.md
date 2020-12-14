@@ -24,3 +24,11 @@
 
 ## Amazing Scrimba Course
 - [From jQuery to React](https://scrimba.com/learn/jqueryreact)
+
+## YouTube Content
+
+**Full Playlists**
+- [by Yahoo Baba](https://youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW)
+- [by Kudvenkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhVDV697uvHpavA3K_eWGQap)
+
+
