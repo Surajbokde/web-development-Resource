@@ -1,7 +1,7 @@
 # WEB DESIGN Resources
 
 <div align="center">
-
+  
 “Web design is a web development process for creating a website that focuses on aesthetic factors like layout, user interface and other visual imagery in order to make the website more visually appealing and easy to use. It encompasses several different aspects, including webpage layout, content production, and graphic design.”
 
 </div>
@@ -123,3 +123,37 @@
 - [FreeCodeCamp](https://www.freecodecamp.com/map-aside#nested-collapseHTML5andCSS)
 - [Lynda](https://www.lynda.com/)
 - [Code School](https://www.pluralsight.com/codeschool)
+
+## Web Designing Roadmaps
+- [ByAmanDhattarwal](https://youtu.be/l1EssrLxt7E)
+- [ByLoveBabbar](https://youtu.be/GLk7-imcjiI)
+- [byCodeWithHarry](https://youtu.be/nknwAOtmtDk)
+
+## YouTube Lectures
+
+**Full Playlists**
+- [codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+
+**Crash Courses**
+- [byTraversyMedia](https://www.youtube.com/playlist?list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8)
+- [FrontendByDesignCourse](https://youtu.be/8gNrZ4lAnAw9)
+
+## Amazing Scrimba Courses
+**Free**
+- [HTML&CSS](https://scrimba.com/learn/htmlcss)
+- [Javascript](https://scrimba.com/learn/introtojavascript)
+- [Boostrap](https://scrimba.com/learn/bootstrap4)
+- [React.js](https://scrimba.com/learn/learnreact)
+
+**Paid Courses to master Web Development**
+- [ResponsiveWebDesignBootcamp](https://scrimba.com/learn/responsive)
+- [JavascriotBootcamp](https://scrimba.com/learn/javascript)
+
+## Web Designing Projects
+- [ScorekeeperProject](https://youtu.be/GLk7-imcjiI)
+- [ResponsiveBootstrapWebsite](https://youtu.be/9cKsq14Kfsw)
+- [ResponsiveWebsite](https://youtu.be/k8ioDxSEjZU)
+- [OnlineMealDeliveryWebsite](https://youtu.be/8KVrdL0VcAk)
+- [LocalGymWebpage](https://youtu.be/Sj5NX_br5WY)
+- [ResponsiveBlogDesign](https://youtu.be/9FD2ugeS4OU)
+
