@@ -8,3 +8,9 @@
 “jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.”
 
 </div>
+
+## Documentation
+- [jQuery Tutorial](https://api.jquery.com/)
+- [jQuery Cheatsheet](https://oscarotero.com/jquery/)
+- [jQuery Guide](https://www.tutorialrepublic.com/jquery-tutorial/)
+
