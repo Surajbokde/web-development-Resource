@@ -31,4 +31,8 @@
 - [by Yahoo Baba](https://youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW)
 - [by Kudvenkat](https://www.youtube.com/playlist?list=PL6n9fhu94yhVDV697uvHpavA3K_eWGQap)
 
+**Crash Course in One Video**
+- [by CodeWithHarry](https://youtu.be/YFlx1C8XwR0)
+- [by Thapa Technical](https://youtu.be/PNvyPEQ0y-I)
+- [by Traversy Media](https://youtu.be/3nrLc_JOF7k)
 
