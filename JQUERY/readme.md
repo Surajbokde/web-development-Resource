@@ -14,3 +14,11 @@
 - [jQuery Cheatsheet](https://oscarotero.com/jquery/)
 - [jQuery Guide](https://www.tutorialrepublic.com/jquery-tutorial/)
 
+## Learning Sites
+- [w3Schools.com](https://www.w3schools.com/jquery/)
+- [Codecademy](https://www.w3schools.com/jquery/)
+- [FreeCodeCamp.com](https://www.freecodecamp.org/news/tag/jquery/)
+- [codewithharry.com](https://codewithharry.com/videos/learn-jquery-in-one-video-in-hindi)
+- [SoloLearn](https://www.sololearn.com/learning/1082)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+
