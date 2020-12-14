@@ -36,3 +36,5 @@
 - [by Thapa Technical](https://youtu.be/PNvyPEQ0y-I)
 - [by Traversy Media](https://youtu.be/3nrLc_JOF7k)
 
+## jQuery Books
+- [by John Duckett](https://www.amazon.in/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
