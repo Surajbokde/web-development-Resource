@@ -38,3 +38,8 @@
 
 ## jQuery Books
 - [by John Duckett](https://www.amazon.in/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+
+## Cool jQuery Codepen Links
+- [by Emily Reese](https://codepen.io/eclairereese/pen/qZxvPz) 
+- [by Jeff K](https://codepen.io/jkies00/pen/oNzYNLr) 
+- [by Elahe Karami](https://codepen.io/elahekarami/pen/GRjjZzJ)
