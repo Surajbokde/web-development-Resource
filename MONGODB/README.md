@@ -39,6 +39,7 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 - [geeksforgeeks](https://www.geeksforgeeks.org/mongodb-an-introduction/)
 - [freecodecamp](https://www.freecodecamp.org/news/tag/mongodb/)
 - [beginnersbook](https://beginnersbook.com/2017/09/mongodb-tutorial/)
+- [W3 Schools](https://www.w3schools.com/nodejs/nodejs_mongodb_create_db.asp)
 
 ## Youtubetutorials
 -  [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ) 
@@ -46,7 +47,8 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 -  [Traversy Media](https://www.youtube.com/watch?v=-56x56UppqQ) 
 -  [freecodecamp](https://www.youtube.com/watch?v=4yqu8YF29cU) 
 -  [CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
-- [MongoDB by the Net Ninja](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+-  [MongoDB by the Net Ninja](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+-  [Tutorials Point (India)Ltd.](https://youtube.com/playlist?list=PLWPirh4EWFpG2gpAkHVocvvzIWNGet2BF)
 
 
 ## Top 5 Online Resources
