@@ -5,7 +5,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 ![Bootstrap](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png)<br>
 
 ## Contents
-
 - [Tutorials](#beginer-tutorials)  
 - [ Youtubetutorials](#beginer-tutorials)  
 - [Top  Online Courses](#beginer-tutorials)   
@@ -22,9 +21,8 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Bootstrap Icons ](https://icons.getbootstrap.com/)  
 - [Bootstrap Themes  ](https://themes.getbootstrap.com/)  
 - [Bootstrap blog  ](https://blog.getbootstrap.com/)  
-- [tutorialspoint ](https://www.tutorialspoint.com/bootstrap/index.htm)  
+- [tutorialspoint](https://www.tutorialspoint.com/bootstrap/index.htm)  
 - [freeCodeCamp.org ](https://www.freecodecamp.org/news/tag/bootstrap-4/)
-
 
 
 ## Youtubetutorials
