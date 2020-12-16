@@ -65,7 +65,7 @@
 
 - [CleanCSS](http://www.cleancss.com/) - A CSS formatter and optimizer.
 - [Codepen](http://codepen.io/)  - Obviously, again!
-- [Pleeese Play](http://pleeease.io/play/) - Online prefixer tool
+- [Pleeease Play](http://pleeease.io/play/) - Online prefixer tool
 - [CSSmatic](http://www.cssmatic.com/) - Nifty little tools
 - [Cubiz-Bezier](http://lea.verou.me/projects/) - Create your own easing functions
 
