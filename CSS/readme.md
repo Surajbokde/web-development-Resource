@@ -40,6 +40,8 @@
 
 - [CSS Secrets](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/)  by Lea Verou
 - [After Hours Programming](http://www.afterhoursprogramming.com/tutorial/CSS/Overview/)  — CSS Tutorial
+- [Free Book](https://www.amazon.in/HTML-CSS-Complete-Guide-Design-ebook/dp/B07CBZRFTD/ref=sr_1_3?crid=ZVMYG59K9R6V&dchild=1&keywords=html+and+css&qid=1608134081&sprefix=html%2Caps%2C383&sr=8-3)
+
 
 
 ## Tools
