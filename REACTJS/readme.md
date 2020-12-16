@@ -20,10 +20,12 @@ A well curated list of the best learning resources
 * [React Patterns](https://reactpatterns.com/)
 * [Using React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 * [Freecodecamp React Challenges](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/reactjs/)
 
 ## Video Tutorials
 
 * [React JS tutorial series by Codevolution](https://www.freecodecamp.org/learn/front-end-libraries/react/)
+* [Clever Programmer](https://youtu.be/-cMqr9HpZ-Y)
 * [Scrimba learn React for free](https://scrimba.com/learn/learnreact)
 * [Complete React tutorial by Net Ninja](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 * [React Course by freeCodeCamp](https://www.youtube.com/watch?v=4UZrsTqkcW4&ab_channel=freeCodeCamp.org)
