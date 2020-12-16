@@ -7,3 +7,9 @@
 
 "Svelte is a radical new approach to building user interfaces. Svelte shifts that work into a compile step that happens when you build your app."
 </div>
+
+## Documentation
+- [Svelte Basics Tutorial](https://svelte.dev/tutorial/basics)
+- [Svelte 2Vs3 Cheat Sheet](https://rajasegar.github.io/svelte2vs3/)
+- [Svelte Guide](https://svelte.dev/docs)
+
