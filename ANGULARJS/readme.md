@@ -10,6 +10,7 @@ A well curated list of the best learning resources
 * [MediaLoot](https://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [Devdocs](https://devdocs.io/angularjs/)
 * [Cheat Sheet](https://angular.io/guide/cheatsheet)
+* [Typescript](https://www.geeksforgeeks.org/tag/typescript/)
 
 ## Tutorial
 
