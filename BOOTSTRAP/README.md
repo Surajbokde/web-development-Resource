@@ -9,7 +9,8 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 ## Contents
 
-- [Tutorials](#beginer-tutorials)<br/> 
+
+* [Tutorials](#beginer-tutorials)<br/> 
 
 - [ Youtubetutorials](#beginer-tutorials)<br/> 
 
