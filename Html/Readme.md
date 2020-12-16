@@ -19,6 +19,7 @@ Awesome list of awesome HTML resources.
 ## Beginer tutorials
 
 - [Mozilla Developer Network | HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorials/)
 - [HTML Tutorial Point ](https://www.tutorialspoint.com/html/index.htm)
 - [Current HTML5 Specs](https://w3c.github.io/html/)
 - [Intro To web animiations](http://danielcwilson.com/blog/2015/07/animations-intro/)

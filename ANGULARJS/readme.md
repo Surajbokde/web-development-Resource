@@ -1,4 +1,8 @@
 # ANGULARJS RESOURCES
+AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. 
+
+
+### Video Tutorials-
 
 ![angular](https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor)<br>
 A well curated list of the best learning resources
@@ -15,6 +19,7 @@ A well curated list of the best learning resources
 ## Tutorial
 
 * [Javatpoint](https://www.javatpoint.com/angularjs-tutorial)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/angularjs-tutorials/)
 * [Using React in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
 * [Codecademy](https://www.codecademy.com/learn/learn-angularjs) - Free course material but paid certificate of completion
 * [Guru99](https://www.guru99.com/angularjs-tutorial.html)
@@ -25,6 +30,7 @@ A well curated list of the best learning resources
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-angularjs)
 * [FreeCodeCamp](https://www.youtube.com/watch?v=DKlTBBuc32c)
 * [Learnangularjs](http://www.learnangularjs.net/videos.php)
+* [Programming with Mosh](https://youtu.be/k5E2AVpwsko)
 
 
 ## Books
