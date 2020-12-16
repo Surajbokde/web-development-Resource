@@ -42,3 +42,9 @@
 ## Svelte Books
 - [Svelte Js Book by Shane Deam](https://www.amazon.in/Svelte-JS-Book-Learn-Example-ebook/dp/B08CGMKPLS)
 - [Svelte-The Future of Frontend Web Develpment](https://corridor-imgix-files.s3.amazonaws.com/cdc/Svelte_-_The_Future_of_Frontend_Development_1561559692711.pdf)
+
+## CodePens
+- [Elegant Svelte Loader](https://codepen.io/gh0ystschool/pen/yLJmwep)
+- [XBox Controller](https://codepen.io/simeydotme/pen/rNepONX)
+- [CyberType](https://codepen.io/thomfrankly/pen/jOreOvz)
+- [Svelte Word Frequency](https://codepen.io/evilcatdog2020/pen/ExyNLbO)
