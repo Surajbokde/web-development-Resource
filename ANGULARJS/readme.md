@@ -66,3 +66,6 @@ A well curated list of the best learning resources
 
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-angular)
 * [The Best Angular Examples](https://www.freecodecamp.org/news/the-best-angular-examples/)
+
+
+## Project idea
