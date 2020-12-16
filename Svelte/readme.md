@@ -38,3 +38,7 @@
 - [Project by Dcode](https://youtu.be/MgOpRVTFBa8)
 - [Budget Calculator Project](https://youtu.be/uk1eM0Yn0UQ)
 - [Bulma Habit App](https://youtu.be/U5Eb8zBhO1c)
+
+## Svelte Books
+- [Svelte Js Book by Shane Deam](https://www.amazon.in/Svelte-JS-Book-Learn-Example-ebook/dp/B08CGMKPLS)
+- [Svelte-The Future of Frontend Web Develpment](https://corridor-imgix-files.s3.amazonaws.com/cdc/Svelte_-_The_Future_of_Frontend_Development_1561559692711.pdf)
