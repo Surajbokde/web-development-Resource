@@ -21,3 +21,9 @@
 
 ## Amazing Scrimba Course
 - [Learn Svelte by Noah Kaufman](https://scrimba.com/learn/learnsvelte)
+
+## You Tube Content
+
+**Full Playlists**
+- [Learn Svelte by FreeCodeCamp.org](https://youtu.be/ujbE0mzX-CU)
+- [Learn Svelte by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
