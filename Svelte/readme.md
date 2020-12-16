@@ -27,3 +27,10 @@
 **Full Playlists**
 - [Learn Svelte by FreeCodeCamp.org](https://youtu.be/ujbE0mzX-CU)
 - [Learn Svelte by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+
+**Crash Courses**
+- [Learn Svelte by Traversy Media](https://youtu.be/uK2RnIzrQ0M)
+- [Learn Svelte by FreeCodeCamp.org](https://youtu.be/vhGiGqZ78Rs)
+- [Learn Svelte by estaban Codes](https://youtu.be/X6J41F2DadQ)
+- [Learn Svelte by Svelte Mastery](https://youtu.be/Tbq9SuxokOU)
+
