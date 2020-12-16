@@ -34,3 +34,7 @@
 - [Learn Svelte by estaban Codes](https://youtu.be/X6J41F2DadQ)
 - [Learn Svelte by Svelte Mastery](https://youtu.be/Tbq9SuxokOU)
 
+## Svelte Projects
+- [Project by Dcode](https://youtu.be/MgOpRVTFBa8)
+- [Budget Calculator Project](https://youtu.be/uk1eM0Yn0UQ)
+- [Bulma Habit App](https://youtu.be/U5Eb8zBhO1c)
