@@ -16,4 +16,4 @@
 
 ## Paid Course
 
--[Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/)
+- [Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/)
