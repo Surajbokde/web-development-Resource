@@ -68,4 +68,5 @@ A well curated list of the best learning resources
 * [The Best Angular Examples](https://www.freecodecamp.org/news/the-best-angular-examples/)
 
 
-## Project idea
+## Project ideas
+* [18 Unique Project Ideas](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee)
