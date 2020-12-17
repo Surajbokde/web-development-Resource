@@ -140,6 +140,15 @@
         "doc"
       ]
     }
+    {
+      "login": "pankaj892"
+      "name":"Pankaj Biradar"
+      "avatar_url":"https://avatars.githubusercontent.com/pankaj892"
+      "profile":"https://github.com/pankaj892"
+      "contributions: [
+        "doc"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "web-development-Resource",
