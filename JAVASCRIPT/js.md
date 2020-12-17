@@ -25,6 +25,10 @@ JavaScript can be hard to acquaint as compared to other languages, but with righ
 2. [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - (also see JS projects on their [website](https://www.freecodecamp.org/))
 3. [Programming with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk) - (beginner friendly)
 4. [Clever Programmerr](https://youtu.be/Qqx_wzMmFeA)
+5. [CodeWithHarry](https://www.youtube.com/watch?v=hKB-YGF14SY)
+
+## Cheat Sheet
+1. [in .pdf](https://websitesetup.org/wp-content/uploads/2020/09/Javascript-Cheat-Sheet.pdf)
 
 ## Books
 1. Eloquent JavaScript: A Modern Introduction to Programming -- [Buy](https://www.amazon.in/dp/1593275846?tag=hackr0df-21) , [(free)Web Version](https://eloquentjavascript.net/)

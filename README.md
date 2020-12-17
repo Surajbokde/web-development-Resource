@@ -51,7 +51,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://hr1shu.pythonanywhere.com"><img src="https://avatars0.githubusercontent.com/u/57145318?v=4" width="100px;" alt=""/><br /><sub><b>RISHAV KUMAR</b></sub></a><br /><a href="https://github.com/Surajbokde/web-development-Resource/commits?author=hr1shu" title="Documentation">📖</a></td>
-  </tr>
+    <td align="center"><a href="https://github.com/Raviruler"><img src="https://avatars3.githubusercontent.com/u/53331170?v=4" width="100px;" alt=""/><br /><sub><b>Ravi Kumar Prasad</b></sub></a><br /><a href="https://github.com/Surajbokde/web-development-Resource/commits?author=Raviruler" title="Documentation">📖</a></td>  
+</tr>
 </table>
 
 <!-- markdownlint-enable -->
