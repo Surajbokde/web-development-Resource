@@ -14,6 +14,7 @@ A well curated list of the best learning resources
 * [MediaLoot](https://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [Devdocs](https://devdocs.io/angularjs/)
 * [Cheat Sheet](https://angular.io/guide/cheatsheet)
+* [Typescript](https://www.geeksforgeeks.org/tag/typescript/)
 
 ## Tutorial
 
@@ -72,3 +73,7 @@ A well curated list of the best learning resources
 
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-angular)
 * [The Best Angular Examples](https://www.freecodecamp.org/news/the-best-angular-examples/)
+
+
+## Project ideas
+* [18 Unique Project Ideas](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee)

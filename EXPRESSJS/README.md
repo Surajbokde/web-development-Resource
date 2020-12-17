@@ -39,6 +39,10 @@
 ## Top 9 Online Resources
 -  [9 Online Resources To Get You Started With Express.js](https://medium.com/@abhi.eduonix/9-online-resources-to-get-you-started-with-express-js-98503c143916) 
 
+## Book
+- [Book](https://www.amazon.in/Beginning-Node-js-Express-MongoDB-Development/dp/9811480281/ref=sr_1_1?crid=143P9VHGHH9NC&dchild=1&keywords=express+mongodb+book&qid=1608134004&sprefix=mongodb+ex%2Caps%2C349&sr=8-1)
+
+
 ## Projects
 -  [Project1](https://www.youtube.com/watch?v=6sdG3WTFlGc) 
 -  [Project2](https://www.youtube.com/watch?v=AX1AP83CuK4) 
