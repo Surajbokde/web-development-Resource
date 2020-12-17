@@ -6,9 +6,5 @@ Getting started: First, create a new project folder. Then go to the project fold
 
 `npm init`
 
-<div align="center">
-	<code><img height="250" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mern/mern.png"></code>
-</div>
-<div align="center">
-	
+  <img align="right" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/MERN/3510.png?raw=true" width="500" height="320" />
 	
