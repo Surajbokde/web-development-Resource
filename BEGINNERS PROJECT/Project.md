@@ -20,3 +20,67 @@
 2. [My To-Do List](https://projects.raspberrypi.org/en/projects/cd-intermediate-javascript-sushi)-show you how to make a to-do list web app in Javascript
 3. [MOUSEOVER ELEMENT](https://codepen.io/b4rb4tron/pen/wjyXNJ)-mouseover effect
 4. [Javascript game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)-Maze Game
+
+
+## Web Designing Projects
+
+1. [ScorekeeperProject](https://youtu.be/GLk7-imcjiI)-YouTube Video
+2. [ResponsiveBootstrapWebsite](https://youtu.be/9cKsq14Kfsw)-YouTube Video
+3. [ResponsiveWebsite](https://youtu.be/k8ioDxSEjZU)-YouTube Video
+4. [OnlineMealDeliveryWebsite](https://youtu.be/8KVrdL0VcAk)-YouTube Video
+5. [LocalGymWebpage](https://youtu.be/Sj5NX_br5WY)-YouTube Video
+6. [ResponsiveBlogDesign](https://youtu.be/9FD2ugeS4OU)-YouTube Video
+
+## XAMPP Projects
+
+1. [Project](https://www.youtube.com/watch?v=1SnPKhCdlsU&t=7100s)-YouTube Video
+2. [Project](https://www.youtube.com/watch?v=fV8ointgMeQ)-YouTube Video
+
+## VUEJS Projects
+
+1. [Project1](https://www.youtube.com/watch?v=m1_ih43p24s)-YouTube Video 
+2. [Project2](https://www.youtube.com/watch?v=JLc-hWsPTUY)-YouTube Video 
+
+## TypeScript Projects
+
+1. [Project](https://www.youtube.com/watch?v=F2JCjVSZlG0)-YouTube Video  
+2. [Project](https://www.youtube.com/watch?v=ODvirqIC09A)-YouTube Video 
+
+## TAILWINDCSS Project
+
+1. [Project1](https://www.youtube.com/watch?v=mO3aXUgjnIE)-YouTube Video
+
+## ReactJS Projects
+
+1. [Calculator](https://github.com/ahfarmer/calculator)-GitHub Projects
+2. [Emoji Search](https://github.com/ahfarmer/emoji-search)-GitHub Projects
+3. [BMI Calculator](https://github.com/GermaVinsmoke/bmi-calculator)-GitHub Projects
+4. [Counter App](https://github.com/arnab-datta/counter-app)-GitHub Projects
+
+## DJANGO Projects
+
+1. [Project ideas with source code](https://www.djangosites.org/with-source/)
+2. [Free Projectz](https://www.freeprojectz.com/django-projects)
+
+## ANGUlARJS Projects
+
+1. [Unique Project Ideas](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee)
+
+
+## BOOTSTRAP Projects
+
+1. [Project1](https://www.youtube.com/watch?v=o5vKJmqXO_g)-YouTube Video 
+2. [Project2](https://www.youtube.com/watch?v=Qb8DLdSYBAo&t=2s)-YouTube Video 
+3. [Project3](https://www.youtube.com/watch?v=dgKSqz3it50)-YouTube Video
+ 
+## FireBase Projects
+
+1. [Project1](https://www.youtube.com/watch?v=VqgTr-nd7Cg&t=468s)-YouTube Video
+2. [Project2](https://www.youtube.com/watch?v=zQyrwxMPm88)-YouTube Video
+
+## EXPRESSJS Projects
+
+1.  [Project1](https://www.youtube.com/watch?v=6sdG3WTFlGc)-YouTube Video
+2.  [Project2](https://www.youtube.com/watch?v=AX1AP83CuK4)-YouTube Video
+3.  [Project3](https://github.com/Ayush7614/Weather-App-Project)-GitHUb Project
+
