@@ -12,4 +12,6 @@ Getting started: First, create a new project folder. Then go to the project fold
 
 `npm init`
 
+## Read Full Article at
 
+-[geeksforgeeks](https://www.geeksforgeeks.org/mern-stack/)
