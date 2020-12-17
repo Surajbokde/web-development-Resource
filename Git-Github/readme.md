@@ -64,6 +64,8 @@ GitHub is a web-based service for version control using Git. Basically, it is a 
 - [What is Git | What is GitHub ](https://www.youtube.com/watch?v=xuB1Id2Wxak) by edureka!
 - [Training • GitHub and Git Foundations](https://www.youtube.com/playlist?list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL) by Github Trainings
 - [Git Tutorials Playlist](https://youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx) by thenewboston
+- [All about Git and GitHub](https://www.youtube.com/watch?v=iR5WIknxdkY) on Youtube
+- [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) by Codewithharry
 
 
 ## Awesome Blogs

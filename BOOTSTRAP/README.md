@@ -30,6 +30,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Bootstrap Themes  ](https://themes.getbootstrap.com/)
 - [Bootstrap blog  ](https://blog.getbootstrap.com/)
 - [tutorialspoint ](https://www.tutorialspoint.com/bootstrap/index.htm)
+- [Cheat Sheet in .pdf](https://websitesetup.org/wp-content/uploads/2020/03/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf)
 
 ## Some More Beginer Tutorials
 =======
@@ -54,6 +55,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 -  [Thapa Technical](https://www.youtube.com/watch?v=Qb8DLdSYBAo) 
 -  [freecodecamp](https://www.youtube.com/watch?v=RyTRgQ7k6QE) 
 -  [Hitesh Choudhary](https://www.youtube.com/watch?v=hpM-hj2SV1Q)
+-  [edureka!](https://www.youtube.com/watch?v=CMk8xB90RpU)
 
 
 ## Top 10 Best Books For Learning Bootstrap Library

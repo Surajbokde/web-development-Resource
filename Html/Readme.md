@@ -27,12 +27,14 @@ Awesome list of awesome HTML resources.
 - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 - [A Complete Guide to the Table Element](https://css-tricks.com/complete-guide-table-element/)
 - [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
+- [Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) on Youtube.
 
 ## Awesome tools
 
 - [Online HTML CSS editor](https://liveweave.com/)
 - [Codepen.io](https://codepen.io/)
 - [Collection of various tools](https://htmlcheatsheet.com/)
+- [HTML Cheat Sheet in .pdf](https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf)
 
 ## Websites for getting free images
 
@@ -50,6 +52,8 @@ Awesome list of awesome HTML resources.
 
 ## HTML References
 - [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html)
+- [HTML refrence](https://htmlreference.io/)
+- [HTML MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## Other
 
