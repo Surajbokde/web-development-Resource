@@ -6,5 +6,7 @@ Getting started: First, create a new project folder. Then go to the project fold
 
 `npm init`
 
-  <img align="right" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/MERN/3510.png?raw=true" width="500" height="320" />
-	
+<div align="center">
+<img align="right" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/MERN/3510.png?raw=true" width="500" height="320" />
+</div>
+<div align="center">
