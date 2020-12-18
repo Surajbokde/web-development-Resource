@@ -21,9 +21,14 @@
 - [EmberJS Tutorial ](https://guides.emberjs.com/v2.14.0/tutorial/)
 - [Vic Ramon's Ember Tutorial ](https://guides.emberjs.com/v2.14.0/tutorial/)
 - [YoEmber](https://yoember.com/)
+- [Latest Articles](https://emberigniter.com/articles/)
+- [Guide to Building Your First Ember.js App](https://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app?utm_source=devglan)
 
 ## Video Tutorials
-
+* [EmberMap](https://embermap.com/)
+* [Ember Screencasts](https://www.emberscreencasts.com/)
+* [Traversy Media](https://www.youtube.com/watch?v=owDmPTSJkrg)
+* [Shawn Chen- Ember.js tutorial](https://www.youtube.com/playlist?list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo)
 
 ## Paid Books
 * [Ember.js Cookbook](https://www.amazon.com/gp/product/1783982209/ref=as_li_tl?ie=UTF8&tag=tomaszs-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1783982209&linkId=7c64fd85f88a751f9c8f95fc80bcb4fe)
@@ -39,7 +44,6 @@
 * [DEV Ember Forum](https://dev.to/t/ember)
 * [Stackoverflow Ember](https://stackoverflow.com/questions/tagged/ember.js)
 
-
 ## Paid Courses
 
 * [Master EmberJS : Learn Ember JS From Scratch](https://www.udemy.com/course/master-emberjs/?LSNPUBID=QhjctqYUCD0&ranEAID=QhjctqYUCD0&ranMID=39197&ranSiteID=QhjctqYUCD0-3D2OXpu0H5tfTMvalKE6MQ&utm_medium=udemyads&utm_source=aff-campaign)
@@ -50,4 +54,7 @@
 * [EmberJS](https://github.com/emberjs/ember.js/)
 
 
-## Getting started with basic projects
+## Projects
+
+* [16 Opensource EmberJS Project](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
+* [EmberJS Projects](http://www.emberjsthemes.com/themes.php?type=free)
