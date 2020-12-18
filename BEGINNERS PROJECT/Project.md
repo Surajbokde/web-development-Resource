@@ -31,24 +31,29 @@
 5. [LocalGymWebpage](https://youtu.be/Sj5NX_br5WY)-YouTube Video
 6. [ResponsiveBlogDesign](https://youtu.be/9FD2ugeS4OU)-YouTube Video
 
+
 ## XAMPP Projects
 
 1. [Project](https://www.youtube.com/watch?v=1SnPKhCdlsU&t=7100s)-YouTube Video
 2. [Project](https://www.youtube.com/watch?v=fV8ointgMeQ)-YouTube Video
+
 
 ## VUEJS Projects
 
 1. [Project1](https://www.youtube.com/watch?v=m1_ih43p24s)-YouTube Video 
 2. [Project2](https://www.youtube.com/watch?v=JLc-hWsPTUY)-YouTube Video 
 
+
 ## TypeScript Projects
 
 1. [Project](https://www.youtube.com/watch?v=F2JCjVSZlG0)-YouTube Video  
 2. [Project](https://www.youtube.com/watch?v=ODvirqIC09A)-YouTube Video 
 
+
 ## TAILWINDCSS Project
 
 1. [Project1](https://www.youtube.com/watch?v=mO3aXUgjnIE)-YouTube Video
+
 
 ## ReactJS Projects
 
@@ -57,10 +62,12 @@
 3. [BMI Calculator](https://github.com/GermaVinsmoke/bmi-calculator)-GitHub Projects
 4. [Counter App](https://github.com/arnab-datta/counter-app)-GitHub Projects
 
+
 ## DJANGO Projects
 
 1. [Project ideas with source code](https://www.djangosites.org/with-source/)
 2. [Free Projectz](https://www.freeprojectz.com/django-projects)
+
 
 ## ANGUlARJS Projects
 
@@ -73,10 +80,12 @@
 2. [Project2](https://www.youtube.com/watch?v=Qb8DLdSYBAo&t=2s)-YouTube Video 
 3. [Project3](https://www.youtube.com/watch?v=dgKSqz3it50)-YouTube Video
  
+
 ## FireBase Projects
 
 1. [Project1](https://www.youtube.com/watch?v=VqgTr-nd7Cg&t=468s)-YouTube Video
 2. [Project2](https://www.youtube.com/watch?v=zQyrwxMPm88)-YouTube Video
+
 
 ## EXPRESSJS Projects
 
@@ -99,3 +108,11 @@
 1. [Project1](https://www.youtube.com/watch?v=uJfJRoa-W_A)-YouTube Video (Figuring out how Redux works)
 2. [Project2](https://www.youtube.com/watch?v=731Ur2HGRBY)-YouTube Video (Redux Shopping Cart)
 
+
+## MONGODB Porject
+
+1. [Part1](https://www.youtube.com/watch?v=8Y6mWhcdSUM) [Part2](https://www.youtube.com/watch?v=hrRue5Rt6Is) -YouTube (Build a chat App)
+2. [Beginner Flask Project](https://www.youtube.com/watch?v=xjHEcmjlD-Y)-YouTube Video
+
+
+## 
