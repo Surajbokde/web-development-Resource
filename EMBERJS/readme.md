@@ -1,4 +1,4 @@
-# ExpressJS Resources
+# EmberJS Resources
 
 <div align="center">
 	<code><img height="250" src="https://www.programwitherik.com/content/images/2015/02/ember-hamster.png"></code>
