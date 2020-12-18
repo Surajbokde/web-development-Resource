@@ -34,6 +34,7 @@ JavaScript can be hard to acquaint as compared to other languages, but with righ
 1. Eloquent JavaScript: A Modern Introduction to Programming -- [Buy](https://www.amazon.in/dp/1593275846?tag=hackr0df-21) , [(free)Web Version](https://eloquentjavascript.net/)
 2. [JavaScript & JQuery: Interactive Front-End Web Development](https://www.amazon.in/dp/1118531647?tag=hackr0df-21)
 3. [Speaking JS](http://speakingjs.com/es5/index.html)
+4. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Paid Courses
 1. [Udemy's Complete Web Developer Course](https://www.udemy.com/how-to-become-a-web-developer-from-scratch/) - Includes other skills as well essential to a web developer
