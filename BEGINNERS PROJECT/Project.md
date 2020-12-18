@@ -93,3 +93,9 @@
 
 1. [Project1](https://www.youtube.com/watch?v=dqjF3C9A-Yg)-YouTube Video (Instagram Clone)
 
+
+## REDUX Project
+
+1. [Project1](https://www.youtube.com/watch?v=uJfJRoa-W_A)-YouTube Video (Figuring out how Redux works)
+2. [Project2](https://www.youtube.com/watch?v=731Ur2HGRBY)-YouTube Video (Redux Shopping Cart)
+
