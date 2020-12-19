@@ -1,6 +1,13 @@
-# PHP for Beginners
+# PHP Resources
+### What is PHP
 ---------------------------------------
 PHP is an acronym for "PHP: Hypertext Preprocessor". It is a widely-used, open source scripting language.
+
+<div align="center">
+	<code><img height="250" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+</div>
+<div align="center">
+
 
 ## Comments in PHP
 - `Single line comment` : // or #
