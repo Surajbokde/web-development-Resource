@@ -1,4 +1,4 @@
-# Flask Resources
+# Cloud Resources
 ### What is Cloud?
 
 Cloud computing is the use of remote servers on the internet to store, manage and process data rather than a local server or your personal computer. Using clouding computing as a web app development tool users can access any software, applications, images or any kind of data from wherever they are.
