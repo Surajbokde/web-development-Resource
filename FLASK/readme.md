@@ -29,3 +29,8 @@ Flask is a lightweight WSGI framework of web application. It is designed to get 
 - [Flask by Example](https://github.com/realpython/flask-by-example)
 - [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder)
 
+## Basic Projects 
+- Weather App using Flask
+- Portfolio Website using Flask
+- Feedback Form using Flask
+- Blog App using Flask
