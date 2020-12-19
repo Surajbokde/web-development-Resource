@@ -181,3 +181,9 @@ Each one is clearly explained in the given links.
 -`Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites` <br>
 -`Head First PHP & MySQL` <br>
 -`Modern PHP: New Features and Good Practices` <br>
+
+## Projects
+-  ***[Project1](https://www.youtube.com/watch?v=1SnPKhCdlsU&t=7104s)***
+-  ***[Project2](https://www.youtube.com/playlist?list=PLxefhmF0pcPkatGBnqCSa7ZrU4axKrm6p)***
+
+
