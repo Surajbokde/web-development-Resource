@@ -1,5 +1,5 @@
 # WEB DESIGN Resources
-  
+
 Web design is a web development process for creating a website that focuses on aesthetic factors like layout, user interface and other visual imagery in order to make the website more visually appealing and easy to use. It encompasses several different aspects, including webpage layout, content production, and graphic design.
 
 ## Web Design Elements
@@ -16,21 +16,19 @@ Choose a font that compliments your overall design. Font should pair with your c
 
 #### Color
 
-Colors are one of the most important elements to consider when designing a website. Keep in mind there are many misconceptions about the psychology of color, and it’s more important to focus on colors that compliment your overall design and tone of your website. Align your color scheme with your brand and the messages you want to convey to your audience. 
+Colors are one of the most important elements to consider when designing a website. Keep in mind there are many misconceptions about the psychology of color, and it’s more important to focus on colors that compliment your overall design and tone of your website. Align your color scheme with your brand and the messages you want to convey to your audience.
 
 #### Layout
 
-How you decide to arrange your content will have a dramatic impact on both the usability and functionality of your site. There are no specific rules to follow when choosing a layout, however, there are a few main principles to keep in mind. Make sure to consider the needs of your target audience and avoid using an overstimulating layout that might detract from the messages you want to convey. 
+How you decide to arrange your content will have a dramatic impact on both the usability and functionality of your site. There are no specific rules to follow when choosing a layout, however, there are a few main principles to keep in mind. Make sure to consider the needs of your target audience and avoid using an overstimulating layout that might detract from the messages you want to convey.
 
-#### Shapes
+#### shapes
 
-The use of graphic elements in web design can help seamlessly integrate text and images, and help with the site’s overall appearance. Combining beautiful colors and shapes can help direct the attention of your sites visitors and contribute to your site’s overall flow. 
+The use of graphic elements in web design can help seamlessly integrate text and images, and help with the site’s overall appearance. Combining beautiful colors and shapes can help direct the attention of your sites visitors and contribute to your site’s overall flow.
 
-#### Spacing
+#### spacing
 
-Spacing is a key element to creating visually pleasing and easy to navigate websites. Every element in your design will incorporate spacing in one way or another. Appropriate use of whitespace is crucial in creating a design that perfectly balances text, photos, and graphics. Keeping your spacing consistent can help your users navigate your website 
-with ease.
-
+Spacing is a key element to creating visually pleasing and easy to navigate websites. Every element in your design will incorporate spacing in one way or another. Appropriate use of whitespace is crucial in creating a design that perfectly balances text, photos, and graphics. Keeping your spacing consistent can help your users navigate your website with ease.
 
 #### Images & Icons
 
@@ -61,6 +59,7 @@ No one likes a slow website. Having to wait more than a few seconds for a page t
 #### Site structure
 
 A website’s structure plays an important role in both user experience (UX) and search engine optimization (SEO). Your users should be able to easily navigate through your website without encountering any structural issues.
+
 
 ## Learning Sites
 
@@ -103,4 +102,3 @@ A website’s structure plays an important role in both user experience (UX) and
 - [OnlineMealDeliveryWebsite](https://youtu.be/8KVrdL0VcAk)
 - [LocalGymWebpage](https://youtu.be/Sj5NX_br5WY)
 - [ResponsiveBlogDesign](https://youtu.be/9FD2ugeS4OU)
-
