@@ -4,9 +4,8 @@
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 <div align="center">
-	<code><img height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fullstackpython.com%2Fflask.html&psig=AOvVaw1uytwIrFastoxnt7cMwDSj&ust=1608448262300000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDnwPG-2e0CFQAAAAAdAAAAABAD"></code>
+	<code><img height="250" src="![flSK](https://user-images.githubusercontent.com/49369387/102687620-58b67b80-4216-11eb-8bfa-79e00b0c111e.png)"></code>
 </div>
-<div align="center">
 
 A well curated list of resources to help you getting started with Flask.
 
