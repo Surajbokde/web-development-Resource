@@ -166,6 +166,8 @@ Each one is clearly explained in the given links.
 ## Extra References :
 `PHP`: ***[Official Website](https://www.php.net/)*** <br>
 `W3Schools` :  ***[W3Schools](https://www.w3schools.com/php/default.asp)*** <br>
+`javatpoint` : ***[javatpoint](https://www.javatpoint.com/php-tutorial)*** <br>
+`tutorialspoint` : ***[tutorialspoint](https://www.tutorialspoint.com/php/index.htm)*** <br>
 
 #### Popular Book
 -`Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites` <br>
