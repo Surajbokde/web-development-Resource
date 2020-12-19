@@ -18,3 +18,8 @@ Flask is a lightweight WSGI framework of web application. It is designed to get 
 - [Flask Documentation](https://buildmedia.readthedocs.org/media/pdf/flask/latest/flask.pdf)
 - [Flask Web Development](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)
 
+## GitHub Resources
+- [Flask](https://github.com/pallets/flask)
+- [Discover Flask](https://github.com/realpython/discover-flask)
+- [Flask by Example](https://github.com/realpython/flask-by-example)
+- [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder)
