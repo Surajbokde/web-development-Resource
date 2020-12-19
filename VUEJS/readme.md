@@ -12,7 +12,7 @@ Vue is a progressive framework for building user interfaces. Unlike other monoli
 A curated list of awesome Vue.js resources.
 
 ## Beginer Tutorials
-- [VUE.JS Homepage ](https://vuejs.org/)
+- [VUE.JS - Official ](https://vuejs.org/)
 - [Vue.js First Application ](https://flaviocopes.com/vue-first-app/)
 - [Vue.js Beginers playlist](https://youtu.be/4deVCNJq3qc)
 
@@ -22,3 +22,7 @@ A curated list of awesome Vue.js resources.
 
 ## Paid Course
 - [Vue - The Complete Guide](https://www.udemy.com/share/101WzMBkoaeV9WRXg=/)
+
+## Projects
+-  [Project1](https://www.youtube.com/watch?v=m1_ih43p24s) 
+-  [Project2](https://www.youtube.com/watch?v=JLc-hWsPTUY) 
