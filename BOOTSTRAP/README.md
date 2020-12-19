@@ -33,7 +33,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Cheat Sheet in .pdf](https://websitesetup.org/wp-content/uploads/2020/03/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf)
 
 ## Some More Beginer Tutorials
-=======
 
 
 ## beginner Tutorials
