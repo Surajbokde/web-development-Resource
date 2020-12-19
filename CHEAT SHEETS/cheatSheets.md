@@ -38,3 +38,5 @@
 
 - [SQL Cheat Sheet](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf): Very good SQL cheatsheet containing all the important terms.
 
+- [Django Cheat Sheet](http://www.cheat-sheets.org/saved-copy/django_reference_sheet.pdf): Basic syntax: import, app setup, routing, methods, template tags and info, etc. A very handy cheatsheet for Django developers.
+
