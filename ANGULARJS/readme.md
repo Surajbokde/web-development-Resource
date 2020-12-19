@@ -31,20 +31,22 @@ A well curated list of the best learning resources
 * [FreeCodeCamp](https://www.youtube.com/watch?v=DKlTBBuc32c)
 * [Learnangularjs](http://www.learnangularjs.net/videos.php)
 * [Programming with Mosh](https://youtu.be/k5E2AVpwsko)
-
+* [Angular Js crash course with Project in hindi](https://www.youtube.com/watch?v=ZSB4JcLLrIo)-YouTube Video
 
 ## Books
 
 * [Angular 5: From Theory To Practice](https://www.amazon.in/dp/B01N9S0CZN?tag=guru99-21)
 * [Learn AngularJS in 1 Day](https://www.amazon.in/dp/B01MSPEZFQ?tag=guru99-21)
 * [Angular 2 Cookbook](https://www.amazon.in/dp/1785881922?tag=guru99-21)
+* [Angular 6 for Enterprise-Ready Web Applications](https://www.amazon.in/dp/B078PNWRDN?tag=guru99-21)
 
 ## E-Books
 
 * [Henri Quatre](http://henriquat.re/)
 * [AngularJS Book](http://www.angularjsbook.com/)
 * [Practical AngularJS](https://leanpub.com/Practical_AngularJS/read)
-
+* [Cheat Sheet](https://cheatography.com/proloser/cheat-sheets/angularjs/)
+* [Beginning AngularJS](http://1.droppdf.com/files/hw9uC/beginning-angularjs.pdf)-PDF file
 
 ## Paid Courses
 
@@ -59,7 +61,7 @@ A well curated list of the best learning resources
 * [Codepen](https://codepen.io/netsi1964/pen/GhqFH)
 * [W3School](https://www.w3schools.com/angular)
 * [Codesandbox](https://codesandbox.io/s/angular?file=/src/main.ts)
-
+* [jsfiddle](http://jsfiddle.net/timriley/5DMjt/)
 
 ## Some GitHub repositories 
 
@@ -77,3 +79,4 @@ A well curated list of the best learning resources
 
 ## Project ideas
 * [18 Unique Project Ideas](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee)
+* [AngularJS App in 59 min From Scratch](https://www.youtube.com/watch?v=w1nSZVY6weM)-YouTube Video
