@@ -84,6 +84,14 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Colour Lovers](http://www.colourlovers.com/) - colours, colour palettes, patterns
 - [Colour Scheme Designer](http://colorschemedesigner.com/)
 
+#### Logos
+- [Hipster Logo Generator](http://www.hipsterlogogenerator.com/)
+
+#### Misc
+- [ByPeople](http://www.bypeople.com/) - logos, characters, patterns, icons, themes, ribbons, boxes, fonts, banners, templates, buttons, badges, shadows, backgrounds, sliders
+- [How to make your site look half-decent in half an hour](http://24ways.org/2012/how-to-make-your-site-look-half-decent)
+- [CSSFlow](http://www.cssflow.com/) - CSS Code Snippets & UI Kits for Web Developers
+
 #### Fonts
 - [Subtle Sans](http://www.subtlepatterns.com/subtlesans/)
 - [Font Foundry](http://www.exljbris.com/)
@@ -93,14 +101,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Google Web Fonts](http://www.google.com/webfonts)
 - [Lobster Font](http://www.impallari.com/lobster/)
 
-
-#### Logos
-- [Hipster Logo Generator](http://www.hipsterlogogenerator.com/)
-
-#### Misc
-- [ByPeople](http://www.bypeople.com/) - logos, characters, patterns, icons, themes, ribbons, boxes, fonts, banners, templates, buttons, badges, shadows, backgrounds, sliders
-- [How to make your site look half-decent in half an hour](http://24ways.org/2012/how-to-make-your-site-look-half-decent)
-- [CSSFlow](http://www.cssflow.com/) - CSS Code Snippets & UI Kits for Web Developers
 
 ###Style Guides
 - [Google](http://code.google.com/p/google-styleguide/) (C++, Objective-C, Python, HTML/CSS, JavaScript)
