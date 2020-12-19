@@ -175,6 +175,7 @@ Each one is clearly explained in the given links.
 -  ***[CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)***
 -  ***[ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg)***
 - ***[TheNetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)***
+- ***[Geeky Shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B)***
 
 #### Popular Book
 -`Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites` <br>
