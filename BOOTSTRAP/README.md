@@ -33,7 +33,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Cheat Sheet in .pdf](https://websitesetup.org/wp-content/uploads/2020/03/Bootstrap-Cheat-Sheet-websitesetup.org_.pdf)
 
 ## Some More Beginer Tutorials
-=======
 
 
 ## beginner Tutorials
@@ -61,8 +60,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 ## Top 10 Best Books For Learning Bootstrap Library
 -  [ Top 10 Best Books For Learning  Bootstrap Library](https://whatpixel.com/top-10-bootstrap-books/)
 
-
-
 - Jump Start Bootstrap - by Syed Fazle Rahman
 - Introducing Bootstrap 4 - Jörg Krause
 - Bootstrap 4 Quick Start - Jacob Lett
@@ -82,5 +79,44 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Project2](https://www.youtube.com/watch?v=Qb8DLdSYBAo&t=2s) 
 - [Project3](https://www.youtube.com/watch?v=dgKSqz3it50)
 
+#### Colours
+- [Colour Lovers](http://www.colourlovers.com/) - colours, colour palettes, patterns
+- [Colour Scheme Designer](http://colorschemedesigner.com/)
+
+#### Logos
+- [Hipster Logo Generator](http://www.hipsterlogogenerator.com/)
+
+#### Misc
+- [ByPeople](http://www.bypeople.com/) - logos, characters, patterns, icons, themes, ribbons, boxes, fonts, banners, templates, buttons, badges, shadows, backgrounds, sliders
+- [How to make your site look half-decent in half an hour](http://24ways.org/2012/how-to-make-your-site-look-half-decent)
+- [CSSFlow](http://www.cssflow.com/) - CSS Code Snippets & UI Kits for Web Developers
+
+#### Fonts
+- [Subtle Sans](http://www.subtlepatterns.com/subtlesans/)
+- [Font Foundry](http://www.exljbris.com/)
+- [TypeTester](http://www.typetester.org/)
+- [The League of Moveable Type](http://www.theleagueofmoveabletype.com/) (open source typography)
+- [Font Squirrel](http://www.fontsquirrel.com/)
+- [Google Web Fonts](http://www.google.com/webfonts)
+- [Lobster Font](http://www.impallari.com/lobster/)
+
+###Style Guides
+- [Google](http://code.google.com/p/google-styleguide/) (C++, Objective-C, Python, HTML/CSS, JavaScript)
+- [GitHub](https://github.com/styleguide/) (CSS, JavaScript, Ruby)
 
 
+#### Photos
+Free to use unless otherwise stated.
+- [Stock Up](http://www.sitebuilderreport.com/stock-up) - Search the best free stock photo websites in one place
+- [Flickr: The Commons](http://www.flickr.com/search/?w=commons&q=) - old photos now in public domain
+- [Flickr: Creative Commons](http://www.flickr.com/search/?q=&l=cc&ss=0&ct=0&mt=photos&w=all&adv=1)
+- [Flickr: British Library Archive](http://www.flickr.com/photos/britishlibrary)
+- [Google Images](https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=venice&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fmc&biw=950&bih=979&sei=XaenUcq1MuTl0QHvoIDYDQ) - License filter
+- [Unsplash](http://unsplash.com/) - 10 free photos every 10 days
+- [Stuck in Customs by Trey Ratcliff](http://www.flickr.com/photos/stuckincustoms/) - CC, free to use, no commercial
+- [iStockPhoto](http://www.istockphoto.com/) - Stock photos, illustrations, video and music. Costs $
+- [foter](http://foter.com/search/?q=&search=Search+photos) - commercial and non-commercial use
+- [PlaceIt](http://placeit.breezi.com/productshots/) - Quickly generate product screenshots in realistic environments 
+- [Getty Search Gateway](http://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1) - free for commercial and non-commercial use (with attribution)
+- [Stock photos that don’t suck](https://medium.com/design-ux/62ae4bcbe01b)
+- [AppGif](http://appgif.net/) - Created animated GIFs of screenshots, shown on a device
