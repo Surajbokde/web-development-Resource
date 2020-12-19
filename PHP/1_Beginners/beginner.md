@@ -172,6 +172,9 @@ Each one is clearly explained in the given links.
 
 ## Youtubetutorials
 -  ***[freecodecamp](https://www.youtube.com/watch?v=OK_JCtrrv-c)*** 
+-  ***[CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)***
+-  ***[ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg)***
+- ***[TheNetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)***
 
 #### Popular Book
 -`Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites` <br>
