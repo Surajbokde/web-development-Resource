@@ -1,4 +1,5 @@
 # Flask Resources
+
 ### What is Flask?
 
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
@@ -12,6 +13,11 @@ A well curated list of resources to help you getting started with Flask.
 
 * [Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
 * [Flask cheat sheet](https://prettyprinted.com/flaskcheatsheet)
+
+## Ebook
+* [Flask Documentation](https://buildmedia.readthedocs.org/media/pdf/flask/latest/flask.pdf)
+* [Flask Web Development](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)
+
 
 ## Websites
 
@@ -34,3 +40,15 @@ A well curated list of resources to help you getting started with Flask.
 * [Python and Flask Bootcamp](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
 * [Flask:Getting Started](https://www.pluralsight.com/courses/flask-getting-started)
 * [Python flask for beginners and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-flask-beginners/)
+
+## Useful GitHub repositories
+* [Flask](https://github.com/pallets/flask)
+* [Discover Flask](https://github.com/realpython/discover-flask)
+* [Flask by Example](https://github.com/realpython/flask-by-example)
+* [Flask App Builder](https://github.com/dpgaspar/Flask-AppBuilder)
+
+## Basic Projects
+* Weather App using Flask
+* Portfolio Website using Flask
+* Feedback Form using Flask
+* Blog App using Flask
