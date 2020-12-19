@@ -186,4 +186,5 @@ Each one is clearly explained in the given links.
 -  ***[Project1](https://www.youtube.com/watch?v=1SnPKhCdlsU&t=7104s)***
 -  ***[Project2](https://www.youtube.com/playlist?list=PLxefhmF0pcPkatGBnqCSa7ZrU4axKrm6p)***
 
-
+## 5 PHP Top projects ideas
+- ***[5 PHP Top projects ideas](https://www.youtube.com/watch?v=wMVARHHPIz4)***
