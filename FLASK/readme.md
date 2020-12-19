@@ -1,1 +1,38 @@
+# Flask Resources
+### What is Flask?
 
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+
+<div align="center">
+	<code><img height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fullstackpython.com%2Fflask.html&psig=AOvVaw1uytwIrFastoxnt7cMwDSj&ust=1608448262300000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDnwPG-2e0CFQAAAAAdAAAAABAD"></code>
+</div>
+<div align="center">
+
+A well curated list of resources to help you getting started with Flask.
+
+## Documentation
+
+* [Official Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+* [Flask cheat sheet](https://prettyprinted.com/flaskcheatsheet)
+
+## Websites
+
+* [Javatpoint](https://www.javatpoint.com/flask-tutorial)
+* [Tutorialspoint](https://www.tutorialspoint.com/flask/index.htm)
+* [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3)
+* [freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/)
+* [Open Tech School](https://opentechschool.github.io/python-flask/)
+
+
+## Video Tutorials
+
+* [Corey Schafer - Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+* [Tech with Tim - Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+* [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+* [Clever Programmer - Flask Tutorial for Beginners](https://www.youtube.com/watch?v=3mwFC4SHY-Y)
+
+## Paid Courses
+
+* [Python and Flask Bootcamp](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
+* [Flask:Getting Started](https://www.pluralsight.com/courses/flask-getting-started)
+* [Python flask for beginners and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-flask-beginners/)
