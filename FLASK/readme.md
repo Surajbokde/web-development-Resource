@@ -14,3 +14,7 @@ Flask is a lightweight WSGI framework of web application. It is designed to get 
 - [Javatpoint](https://www.javatpoint.com/flask-tutorial)
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask)
 
+## EBooks
+- [Flask Documentation](https://buildmedia.readthedocs.org/media/pdf/flask/latest/flask.pdf)
+- [Flask Web Development](https://coddyschool.com/upload/Flask_Web_Development_Developing.pdf)
+
