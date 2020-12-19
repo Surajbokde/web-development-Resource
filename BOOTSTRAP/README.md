@@ -61,8 +61,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 ## Top 10 Best Books For Learning Bootstrap Library
 -  [ Top 10 Best Books For Learning  Bootstrap Library](https://whatpixel.com/top-10-bootstrap-books/)
 
-
-
 - Jump Start Bootstrap - by Syed Fazle Rahman
 - Introducing Bootstrap 4 - Jörg Krause
 - Bootstrap 4 Quick Start - Jacob Lett
