@@ -100,7 +100,6 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [Google Web Fonts](http://www.google.com/webfonts)
 - [Lobster Font](http://www.impallari.com/lobster/)
 
-
 ###Style Guides
 - [Google](http://code.google.com/p/google-styleguide/) (C++, Objective-C, Python, HTML/CSS, JavaScript)
 - [GitHub](https://github.com/styleguide/) (CSS, JavaScript, Ruby)
