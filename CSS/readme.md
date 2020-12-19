@@ -22,8 +22,10 @@
 ## Learning Sites
 
 - [w3schools.com](https://www.w3schools.com/css/)
+- [MDN web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Codecademy](https://www.codecademy.com/tracks/web)
 - [FreeCodeCamp.com](https://www.freecodecamp.com/map-aside#nested-collapseHTML5andCSS)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/css-tutorials/)
 - [codewithharry.com](https://codewithharry.com/search/?query=web+development)
 - [SoloLearn](http://www.sololearn.com/Course/CSS/)
 - [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -58,17 +60,23 @@
 
 - [CSS Secrets](http://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/)  by Lea Verou
 - [After Hours Programming](http://www.afterhoursprogramming.com/tutorial/CSS/Overview/)  — CSS Tutorial
+- [Free Book](https://www.amazon.in/HTML-CSS-Complete-Guide-Design-ebook/dp/B07CBZRFTD/ref=sr_1_3?crid=ZVMYG59K9R6V&dchild=1&keywords=html+and+css&qid=1608134081&sprefix=html%2Caps%2C383&sr=8-3)
 
+## Reference
+
+- [MDN webdocs](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ## Tools
 
 - [CleanCSS](http://www.cleancss.com/) - A CSS formatter and optimizer.
 - [Codepen](http://codepen.io/)  - Obviously, again!
-- [Pleeese Play](http://pleeease.io/play/) - Online prefixer tool
+- [Pleeease Play](http://pleeease.io/play/) - Online prefixer tool
 - [CSSmatic](http://www.cssmatic.com/) - Nifty little tools
 - [Cubiz-Bezier](http://lea.verou.me/projects/) - Create your own easing functions
+- [Cheat code in .pdf](https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf)
 
 ## cool css code pen links
+
 -[A Pen by Sean Free](https://codepen.io/seanfree/pen/PxJyEW)
 -[A Pen by Noel Delgado](https://www.youtube.com/redirect?q=https%3A%2F%2Fcodepen.io%2Fnoeldelgado%2Fpen%2FdQZWqP&redir_token=QUFFLUhqbk5UQTRBdGlSb3NvVlREOEFGaWNjTFVnOFdPQXxBQ3Jtc0trV0o4ZFdOWXdVb3llRzIxaWNhaG1nT2VvMjViaDVVWS04X1I0QmJRdmRBd0VuNmJsWWVuWkJZMW5WV1NBSDNuLTdjSk41NDFTSEhvbUtqdVpyZUpMSzk0R3F5QzJUWWFiZTcxcV80TnBOOEJleXpmMA%3D%3D&v=WFRVlfAkn_c&event=video_description)
 -[A Pen by Shari Hunt](https://codepen.io/ShariHunt/pen/KrXNZe)

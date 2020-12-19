@@ -22,3 +22,7 @@ A curated list of awesome Vue.js resources.
 
 ## Paid Course
 - [Vue - The Complete Guide](https://www.udemy.com/share/101WzMBkoaeV9WRXg=/)
+
+## Projects
+-  [Project1](https://www.youtube.com/watch?v=m1_ih43p24s) 
+-  [Project2](https://www.youtube.com/watch?v=JLc-hWsPTUY) 

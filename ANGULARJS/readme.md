@@ -14,10 +14,12 @@ A well curated list of the best learning resources
 * [MediaLoot](https://medialoot.com/blog/angularjs-for-absolute-beginners/)
 * [Devdocs](https://devdocs.io/angularjs/)
 * [Cheat Sheet](https://angular.io/guide/cheatsheet)
+* [Typescript](https://www.geeksforgeeks.org/tag/typescript/)
 
 ## Tutorial
 
 * [Javatpoint](https://www.javatpoint.com/angularjs-tutorial)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/angularjs-tutorials/)
 * [Using React in VS Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
 * [Codecademy](https://www.codecademy.com/learn/learn-angularjs) - Free course material but paid certificate of completion
 * [Guru99](https://www.guru99.com/angularjs-tutorial.html)
@@ -28,6 +30,7 @@ A well curated list of the best learning resources
 * [Thinkster](https://thinkster.io/a-better-way-to-learn-angularjs)
 * [FreeCodeCamp](https://www.youtube.com/watch?v=DKlTBBuc32c)
 * [Learnangularjs](http://www.learnangularjs.net/videos.php)
+* [Programming with Mosh](https://youtu.be/k5E2AVpwsko)
 
 
 ## Books
@@ -70,3 +73,7 @@ A well curated list of the best learning resources
 
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-angular)
 * [The Best Angular Examples](https://www.freecodecamp.org/news/the-best-angular-examples/)
+
+
+## Project ideas
+* [18 Unique Project Ideas](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee)
