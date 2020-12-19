@@ -29,7 +29,7 @@ A well curated list of resources to help you getting started with Django
 * [freeCodeCamp.org - Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 * [Clever Programmer](https://youtu.be/JT80XhYJdBw)
 * [Parwiz Forogh - Learn Django 2.1](https://www.youtube.com/playlist?list=PL1FgJUcJJ03v0YDsbsRbKb6KOxyNjTLFF)
-* [https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK](thenewboston - Django Tutorials for Beginners)
+* [thenewboston - Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 
 ## Books
 * [Book](https://www.amazon.in/Lightweight-Django-Using-Websockets-Backbone/dp/9351108651/ref=sr_1_1?crid=TGJ616KHOHIT&dchild=1&keywords=django+books&qid=1608134151&sprefix=django+book%2Caps%2C350&sr=8-1)
