@@ -24,8 +24,7 @@
 - [Tips and Patterns](https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/)
 - [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 - [Complex Single Page Application Architecture with Backbone.js](http://blog.soom.la/2013/10/complex-single-page-application.html) by Gur Dotan
-- [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27
-how-to-share-backbonejs-models-with-nodejs)
+- [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
 
 ## Video Tutorials
 * [Introduction to Backbone.js by Joseph Zimmerman](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282)
