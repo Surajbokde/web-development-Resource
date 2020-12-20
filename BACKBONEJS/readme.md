@@ -24,7 +24,21 @@
 - [Tips and Patterns](https://www.smashingmagazine.com/2013/08/backbone-js-tips-patterns/)
 - [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 - [Complex Single Page Application Architecture with Backbone.js](http://blog.soom.la/2013/10/complex-single-page-application.html) by Gur Dotan
-- [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
+- [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27
+how-to-share-backbonejs-models-with-nodejs)
+
+## Video Tutorials
+* [Introduction to Backbone.js by Joseph Zimmerman](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282)
+* [Backbone App Walkthrough](https://www.youtube.com/playlist?list=PL0C57F698BD4766B1) 
+* [BackboneRails Screencasts](http://www.backbonerails.com/) - Learn to Build Web Apps Using Backbone + Rails
+* [Backbone-Require-Boilerplate Explained](http://gregfranko.com/blog/backbone-require-boilerplate-explained/) by Greg Franko
+
+## Paid Books
+* [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
+* [Backbone.js Cookbook](http://www.amazon.com/dp/1782162720/) by Vadim Mirgorod
+* [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani
+* [Backbone.js Blueprints](http://www.amazon.com/dp/1783286997/) by Andrew Burgess
+* [Full Stack Web Development with Backbone.js](http://shop.oreilly.com/product/0636920030799.do) by Patrick Mulder
 
 ## Groups and Communities
 
