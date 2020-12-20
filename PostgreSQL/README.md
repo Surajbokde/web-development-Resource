@@ -16,7 +16,7 @@ A curated list of PostgreSQL resources.
 * [Tutorialspoint](https://www.tutorialspoint.com/postgresql/index.htm)
 * [Guru 99](https://www.guru99.com/postgresql-tutorial.html)
 * [W3resource](https://www.w3resource.com/PostgreSQL/tutorial.php)
-* [postgresqltutorial](https://www.postgresqltutorial.com/
+* [postgresqltutorial](https://www.postgresqltutorial.com/)
 
 ## Video Tutorials
 
