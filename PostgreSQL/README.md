@@ -36,3 +36,7 @@ A curated list of PostgreSQL resources.
 * [What PostgreSQL has over other open source SQL databases: Part II](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
 * [Why use postgreSQL](https://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
+ 
+## Newsletter
+
+*[Postgres weekly](https://postgresweekly.com/)
