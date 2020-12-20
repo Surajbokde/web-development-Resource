@@ -1,6 +1,24 @@
-# PHP for Beginners
+# PHP Resources
+### What is PHP
 ---------------------------------------
 PHP is an acronym for "PHP: Hypertext Preprocessor". It is a widely-used, open source scripting language.
+
+<div align="center">
+	<code><img height="250" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+</div>
+<div align="center">
+	
+## Contents
+
+- [Tutorials](#beginer-tutorials)<br/> 
+
+- [ Youtubetutorials](#beginer-tutorials)<br/> 
+
+- [Top  Online Courses](#beginer-tutorials)<br/> 
+
+- [Books](#beginer-tutorials)<br/> 
+
+
 
 ## Comments in PHP
 - `Single line comment` : // or #
@@ -148,8 +166,25 @@ Each one is clearly explained in the given links.
 ## Extra References :
 `PHP`: ***[Official Website](https://www.php.net/)*** <br>
 `W3Schools` :  ***[W3Schools](https://www.w3schools.com/php/default.asp)*** <br>
+`javatpoint` : ***[javatpoint](https://www.javatpoint.com/php-tutorial)*** <br>
+`tutorialspoint` : ***[tutorialspoint](https://www.tutorialspoint.com/php/index.htm)*** <br>
+`geeksforgeeks` : ***[geeksforgeeks](https://www.geeksforgeeks.org/php/)*** <br>
+
+## Youtubetutorials
+-  ***[freecodecamp](https://www.youtube.com/watch?v=OK_JCtrrv-c)*** 
+-  ***[CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)***
+-  ***[ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIZc4GM_E04HCPEd_xpcaQgg)***
+- ***[TheNetNinja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o)***
+- ***[Geeky Shows](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B)***
 
 #### Popular Book
 -`Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites` <br>
 -`Head First PHP & MySQL` <br>
 -`Modern PHP: New Features and Good Practices` <br>
+
+## Projects
+-  ***[Project1](https://www.youtube.com/watch?v=1SnPKhCdlsU&t=7104s)***
+-  ***[Project2](https://www.youtube.com/playlist?list=PLxefhmF0pcPkatGBnqCSa7ZrU4axKrm6p)***
+
+## 5 PHP Top projects ideas
+- ***[5 PHP Top projects ideas](https://www.youtube.com/watch?v=wMVARHHPIz4)***
