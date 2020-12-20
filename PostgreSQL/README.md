@@ -39,4 +39,4 @@ A curated list of PostgreSQL resources.
  
 ## Newsletter
 
-*[Postgres weekly](https://postgresweekly.com/)
+* [Postgres weekly](https://postgresweekly.com/)
