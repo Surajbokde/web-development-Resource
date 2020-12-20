@@ -13,6 +13,7 @@
 * [DevDocs](https://devdocs.io/backbone/)
 * [Auth0 - BackboneJS](https://auth0.com/blog/backbonejs-getting-started/)
 * [Backbone Cheatsheet](https://devhints.io/backbone)
+* [Getting started with BackboneJS](https://dzone.com/articles/backbonejs-getting-started)
 
 
 ## Tutorials and Articles
@@ -45,7 +46,6 @@
 
 ## Projects
 
-* [16 Opensource EmberJS Project](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 * [BackboneJS Projects Examples](https://backbonejs.org/#examples)
 * Backbone.js Wine Cellar Tutorial by Christophe Coenraets - [Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/), [Part 2](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/) and [Part 3](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/)
 
