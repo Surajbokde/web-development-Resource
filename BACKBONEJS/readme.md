@@ -62,6 +62,5 @@ how-to-share-backbonejs-models-with-nodejs)
 
 * [BackboneJS Projects Examples](https://backbonejs.org/#examples)
 * Backbone.js Wine Cellar Tutorial by Christophe Coenraets - [Part 1](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/), [Part 2](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/) and [Part 3](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/)
-
-
+* [Backbone TodoMVC project](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone 
 
