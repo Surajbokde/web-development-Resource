@@ -29,3 +29,10 @@ A curated list of PostgreSQL resources.
 * [Pluralsight](https://www.pluralsight.com/courses/postgresql-getting-started)
 * [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/?altsc=781502)
 * [SQL & PostgreSQL for Beginners: Become an SQL Expert](https://www.udemy.com/course/sql-and-postgresql-for-beginners/)
+
+## Articles
+
+* [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+* [What PostgreSQL has over other open source SQL databases: Part II](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
+* [Why use postgreSQL](https://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
+* [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
