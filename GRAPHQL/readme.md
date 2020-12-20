@@ -14,14 +14,15 @@ A curated list of awesome graphql resources.
 
 - [Sortintro - graphql](https://medium.com/devgorilla/what-is-graphql-f0902a959e4)
 - [graphql -official](https://graphql.org/)
+- [graphql cheat sheet](https://devhints.io/graphql)
 
 
 ## Video Tutorials
 
--[GraphQL Full Course](https://www.youtube.com/watch?v=ed8SzALpx1Q)
--[GraphQl crash course](https://www.youtube.com/watch?v=ZQL7tL2S0oQ)
+- [GraphQL Full Course](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+- [GraphQl crash course](https://www.youtube.com/watch?v=ZQL7tL2S0oQ)
 
 
 ## Paid Course
 
--[The Modern GraphQL Bootcamp](https://www.udemy.com/course/graphql-bootcamp/)
+- [The Modern GraphQL Bootcamp](https://www.udemy.com/course/graphql-bootcamp/)
