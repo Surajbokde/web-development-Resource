@@ -24,3 +24,23 @@
 - [Top 8 Common Backbone.js Developer Mistakes](http://www.toptal.com/backbone-js/top-8-common-backbone-js-developer-mistakes) by Mahmud Ridwan
 - [Complex Single Page Application Architecture with Backbone.js](http://blog.soom.la/2013/10/complex-single-page-application.html) by Gur Dotan
 - [How to share Backbone.js models with Node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
+
+## Groups and Communities
+
+* [Backbone.js Community](https://www.reddit.com/r/backbonejs/)
+* [Stackoverflow](https://stackoverflow.com/questions/tagged/backbone.js)
+
+## Paid Courses
+
+* [Backbone Tutorial : Learn Backbone JS From Scratch](https://www.udemy.com/course/backbonejs-tutorial/)
+* [Learn backboneJS Testing](https://www.udemy.com/course/learning-backbonejs-testing/)
+* [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
+* [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
+* [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
+
+## Useful GitHub resources
+
+* [BackboneJS](https://github.com/jashkenas/backbone)
+* [Yeoman generator for Backbone.js](https://github.com/yeoman/generator-backbone)
+
+
