@@ -4,4 +4,5 @@ Postman is a collaboration platform for API development. Postman's features simp
 
 <div align="center">
 <img align="right" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/POSTMAN/Postman.jpg?raw=true" width="500" height="320" />
+</div>
 <div align="center">
