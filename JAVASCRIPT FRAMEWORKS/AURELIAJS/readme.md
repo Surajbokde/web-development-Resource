@@ -1,6 +1,6 @@
 # Aurelia.js Resources
 
-  ![meteorjs](https://user-images.githubusercontent.com/49369387/102892328-b69cca80-4485-11eb-953e-243f936c7cf7.png)
+  ![aurelia](https://user-images.githubusercontent.com/49369387/102920033-ee206c80-44af-11eb-85ec-f2b4f5c91701.jpg)
 <br>
 
 ### What is AURELIAJS?
