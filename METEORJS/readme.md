@@ -29,8 +29,22 @@
 
 ## Video Tutorials
 
+* [ Learn Meteor](https://www.youtube.com/watch?v=r62x4DS5yw0&list=PLqiT-vn2D1sa9a36O2l4dM8MWmtW0BFyw&index=1) by NathanJeanShow
+* [ Meteor Tutorials for Everyone ](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) by LevelUpTuts
+* [Learn Meteor.js ](https://www.youtube.com/watch?v=vSFH1T3SnBY) by Traversy Media
+
 ##  Courses
 
-*  [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/)
-* [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
-* [Meteor 1.4 + React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone)
+- #### Free
+
+  - [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
+  - [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
+  - [Meteor For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials)
+  - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
+  - [Meteor & React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-react-for-everyone)
+  - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
+
+- #### Paid
+   - [Meteor 1.4 + React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone)
+   -  [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/))
+   - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
