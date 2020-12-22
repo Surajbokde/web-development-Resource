@@ -1,10 +1,9 @@
 # Next.js Resources
 
-<div align="center">
-	![nextjs](https://user-images.githubusercontent.com/49369387/102886367-f9a57080-447a-11eb-99a2-02e2aa582f0a.png)
+  ![nextjs](https://user-images.githubusercontent.com/49369387/102886367-f9a57080-447a-11eb-99a2-02e2aa582f0a.png)
 <br>
 A curated list of awesome Next.js resources.
-</div>
+
 
 ## Contents
 
