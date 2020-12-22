@@ -67,3 +67,9 @@
 - [Meteor Cookbook](https://www.packtpub.com/web-development/meteor-cookbook)
 - [Meteor Explained](https://gumroad.com/l/meteor-explained)
 - [Secure Meteor](https://www.securemeteor.com/)
+
+## Projects 
+
+- [Open Source Projects](https://awesomeopensource.com/projects/meteor)
+- [Basic Notes Manager (Beginners)](https://www.youtube.com/watch?v=9494-2E4riQ) 
+- [antichess](https://github.com/bojan88/antichess) - a chess variant 
