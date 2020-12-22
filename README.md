@@ -46,12 +46,6 @@ You can refer to the following articles on the basics of Git and Github and also
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-<p align="center">
-🎉 First off all, thank you for taking the time out of your schedule and deciding to contribute here! 👍
-</p>
-<br>
-<br>
-
 - Take a look at the Existing [Issues](https://github.com/Surajbokde/web-development-Resource/issues) and comment on it if interested or ask MENTOR for creating a new issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repository and clone it for working upon any issue.
@@ -60,14 +54,18 @@ You can refer to the following articles on the basics of Git and Github and also
 - Write a meaningful description while making Pull Request. Add Screenshots to help us know your commits better.
 
 - Join [Slack](https://join.slack.com/t/kwocproject/shared_invite/zt-jky5lovn-qJa1czV569F6fnAsltds7g) here.
+<br>
+<br>
 
-### So, what are you waiting for? Start contributing now! 
+#### So, what are you waiting for? Start contributing now! 
 
-#### All the best!
+### All the best!
+
+<br>
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks to these wonderful people for their contributions ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
