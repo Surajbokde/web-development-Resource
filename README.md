@@ -1,7 +1,25 @@
 # Web development resources
+<!-- Banner -->
+<div class="container-fluid">
+  
+![Web Development image](https://user-images.githubusercontent.com/49369387/102879167-6581dc00-446f-11eb-981a-3015fae7fb8c.jpg)
+
+</div>
+
+---
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/Total_Contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![GitHub forks](https://img.shields.io/github/forks/Surajbokde/web-development-Resource.svg?style=social&label=Fork&maxAge=43200)](https://github.com/Surajbokde/web-development-Resource/network)
+[![GitHub stars](https://img.shields.io/github/stars/Surajbokde/web-development-Resource.svg?style=social&label=Star&maxAge=43200)](https://github.com/Surajbokde/web-development-Resource/stargazers)
+
+
+[![GitHub issues](https://img.shields.io/github/issues/Surajbokde/web-development-Resource.svg)](https://github.com/Surajbokde/web-development-Resource/issues)
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/Surajbokde/web-development-Resource.svg)](https://github.com/Surajbokde/web-development-Resource/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Surajbokde/web-development-Resource.svg)](https://github.com/Surajbokde/web-development-Resource/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/Surajbokde/web-development-Resource.svg)](https://github.com/Surajbokde/web-development-Resource/pulls?q=is%3Apr+is%3Aclosed)
+![GitHub repo size](https://img.shields.io/github/repo-size/Surajbokde/web-development-Resource?color=yellow)
 
 ---
 In this repo you will find tips and tricks for web development and related stuff.
