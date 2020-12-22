@@ -50,3 +50,19 @@ Kubernetes is an open-source container-orchestration system for automating compu
 #### 6| A Tutorial Introduction to Kubernetes
 
 #### 7| Introduction to Kubernetes
+
+## For all the courses just click on the link
+- [Course Link](https://analyticsindiamag.com/7-free-learning-resources-for-kubernetes/)
+
+## The 7 Best Books to Get You Started with Kubernetes
+- [The 7 Best Books to Get You Started with Kubernetes](https://blog.turbonomic.com/top-kubernetes-book)
+
+## Name of the some books
+1. Kubernetes: A Step by Step Guide to Learn  and Master Kubernetes By Brayden Smith
+
+2. Kubernetes in Action: 1st Edition By Marko Luksa @markoluksa
+
+
+
+
+
