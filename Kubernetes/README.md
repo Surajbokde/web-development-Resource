@@ -20,7 +20,6 @@ Kubernetes is an open-source container-orchestration system for automating compu
 - [Books](#beginer-tutorials)<br/> 
 
 ## Beginer Tutorials
-
 - [Kubernetes Homepage ](https://kubernetes.io/)
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.htm)
@@ -30,10 +29,24 @@ Kubernetes is an open-source container-orchestration system for automating compu
 - [freecodecamp](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
 
 ## Youtubetutorials
-
 - [freecodecamp](https://www.youtube.com/watch?v=Wf2eSG3owoA)
 - [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [edureka](https://www.youtube.com/watch?v=F-p_7XaEC84)
 
+## 7-free-learning-resources-for-kubernetes
+- [7 Free Learning Resources For Kubernetes](https://analyticsindiamag.com/7-free-learning-resources-for-kubernetes/)
 
+## Name of the resources
+#### 1| Architecting with Google Kubernetes Engine Specialisation
 
+#### 2| Introduction to Kubernetes
+
+#### 3| Learning Path: Kubernetes
+
+#### 4| Learn Kubernetes Basics
+
+#### 5| Fundamentals of Containers, Kubernetes, and Red Hat OpenShift
+
+#### 6| A Tutorial Introduction to Kubernetes
+
+#### 7| Introduction to Kubernetes
