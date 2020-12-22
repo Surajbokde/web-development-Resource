@@ -62,9 +62,9 @@ You can refer to the following articles on the basics of Git and Github and also
 <br>
 <br>
 
-#### So, what are you waiting for? Start contributing now! 
+### So, what are you waiting for? Start contributing now! 
 
-### All the best!
+## All the best!
 
 <br>
 
