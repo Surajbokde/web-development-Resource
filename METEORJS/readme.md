@@ -59,3 +59,11 @@
 - [Meteor forums](https://forums.meteor.com/)
 - [Slack Channel](https://meteor-community.slack.com/join/shared_invite/enQtODA0NTU2Nzk5MTA3LWY5NGMxMWRjZDgzYWMyMTEyYTQ3MTcwZmU2YjM5MTY3MjJkZjQ0NWRjOGZlYmIxZjFlYTA5Mjg4OTk3ODRiOTc#/)
 - [Official Meteor](https://twitter.com/meteorjs)
+
+## Books
+- [Building Single-page Web Apps with Meteor](https://www.packtpub.com/web-development/building-single-page-web-apps-meteor)
+- [Discover Meteor](http://www.discovermeteor.com/) - Free
+- [Mastering MeteorJS Application Development](https://www.packtpub.com/web-development/mastering-meteorjs-application-development) 
+- [Meteor Cookbook](https://www.packtpub.com/web-development/meteor-cookbook)
+- [Meteor Explained](https://gumroad.com/l/meteor-explained)
+- [Secure Meteor](https://www.securemeteor.com/)
