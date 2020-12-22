@@ -2,7 +2,12 @@
 
   ![nextjs](https://user-images.githubusercontent.com/49369387/102886367-f9a57080-447a-11eb-99a2-02e2aa582f0a.png)
 <br>
-A curated list of awesome Next.js resources.
+
+### What is Flask?
+
+Next.js is an open-source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React based web applications.
+
+A well curated list of awesome Next.js resources.
 
 
 ## Contents
