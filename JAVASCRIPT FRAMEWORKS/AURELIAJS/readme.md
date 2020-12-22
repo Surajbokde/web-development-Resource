@@ -1,40 +1,37 @@
-# Node.js Resources
+# Aurelia.js Resources
 
-<div align="center">
-		<img width="250" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-	</div>
-<div align="center">
+  ![meteorjs](https://user-images.githubusercontent.com/49369387/102892328-b69cca80-4485-11eb-953e-243f936c7cf7.png)
+<br>
 
-A curated list of awesome Node.js resources.
+### What is AURELIAJS?
 
-![#](https://badgen.net/badge/best-practices/5+/red)
-![#](https://badgen.net/badge/educational/5+/green)
+Aurelia is a collection of Modern JavaScript modules, which when used together, function as a powerful platform for building browser, desktop and mobile applications, all open source and built on open web standards.
 
-</div>
+A well curated list of awesome Aurelia.js resources.
+
 
 ## Contents
 
-- [Tutorials](#beginer-tutorials)<br/> -[Best practices](#best-practices)
-- [Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap/blob/master/Node.js-developer-roadmap.png)
+- [Tutorials](#beginer-tutorials)
+- [Best practices](#best-practices)
+- [Documentation](https://aurelia.io/docs/)
 
 ## Beginer Tutorials
 
-- [Node.js Homepage and Download link](https://nodejs.org/en/)
-- [Node.js First Application ](https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm)
-- [Node.js Beginers playlist](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
-- [Debuging a Node.js app](https://blog.heroku.com/debug-node-applications)
-- [Deploying a Node.js app on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+- [AureliaJS Homepage and Download link](https://aurelia.io/)
+- [AureliaJS Quickstart ](https://aurelia.io/docs/tutorials/creating-a-todo-app/)
+- [AureliaJS Beginers playlist](https://www.youtube.com/results?search_query=aureliajs+for+beginners+)
+- [Debuging a AureliaJS app](https://www.tutorialspoint.com/aurelia/aurelia_debugging.htm)
+- [Deploying a AureliaJS app](https://livebook.manning.com/book/aurelia-in-action/chapter-16/)
 
 ## Best practices
 
-- [Dev journal node js tips](https://developersjournal.in/top-10-nodejs-tips-developers/)
-- [10 Habits of Happy Node.js dev](https://blog.heroku.com/node-habits)
-- [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/)
-- [10 npm security best practices](https://snyk.io/blog/ten-npm-security-best-practices/)
-- [Microsoft Node.js guidelines](https://github.com/microsoft/nodejs-guidelines)
+- [Aurelia - Best Practices](https://www.tutorialspoint.com/aurelia/aurelia_best_practices.htm)
+- [Suggestions for Structuring a Large Aurelia Apps](https://www.cazton.com/blogs/technical/suggestions-for-structuring-a-large-aurelia-application)
+- [Essential Aurelia Tips](https://aurelia.io/docs/fundamentals/cheat-sheet/)
+- [AURELIA TIPS & TRICKS](https://ilikekillnerds.com/2018/07/aurelia-tips-tricks/)
 
-## Paid Course 
+## Paid Course
 
-- [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
-- [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
-
+- [Aurelia Framework Course](https://www.udemy.com/topic/aurelia-framework/)
+- [Aurelia Training](https://www.zeolearn.com/aurelia-training)
