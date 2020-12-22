@@ -25,12 +25,15 @@
 
 ---
 
-## 📌 Introduction
+<br>
+
+## ⭐ Introduction
 
 Learning the skills you need for web design or web development is the first step toward working on the web—but that also means familiarizing yourself with the tools of the trade. The web is constantly changing and as a web developer you have to be able to adapt to the constant changes. 
 
 That’s why we put together this huge list of web development resources and tools to help you as a web developer to stay up-to-date, learn new things, be more productive, and perhaps also help you become better at what you do.
 
+<br>
 
 ## ⭐ How to get started?
 
@@ -42,7 +45,9 @@ You can refer to the following articles on the basics of Git and Github and also
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-## 💥 How to Contribute?
+<br>
+
+## ⭐ How to Contribute?
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
