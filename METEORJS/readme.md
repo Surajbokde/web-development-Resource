@@ -39,8 +39,7 @@
 
   - [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
   - [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
-  - [Meteor For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-for-everyone-tutorials)
-  - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
+   - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
   - [Meteor & React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-react-for-everyone)
   - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
 
@@ -48,3 +47,8 @@
    - [Meteor 1.4 + React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone)
    -  [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/))
    - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
+
+## Useful GitHub resources
+
+* [Meteor Packages and resources](https://github.com/Urigo/awesome-meteor#resources)
+* [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
