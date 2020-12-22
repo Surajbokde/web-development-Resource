@@ -52,3 +52,10 @@
 
 * [Meteor Packages and resources](https://github.com/Urigo/awesome-meteor#resources)
 * [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
+
+## Groups and Communities
+
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/meteor?sort=newest&pagesize=15)
+- [Meteor forums](https://forums.meteor.com/)
+- [Slack Channel](https://meteor-community.slack.com/join/shared_invite/enQtODA0NTU2Nzk5MTA3LWY5NGMxMWRjZDgzYWMyMTEyYTQ3MTcwZmU2YjM5MTY3MjJkZjQ0NWRjOGZlYmIxZjFlYTA5Mjg4OTk3ODRiOTc#/)
+- [Official Meteor](https://twitter.com/meteorjs)
