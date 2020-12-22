@@ -34,3 +34,6 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 - [Telusko](https://www.youtube.com/watch?v=u-YWtdbpEhQ)
 - [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTJLvDP4Veld5F05rJAmOcp)
 - [edureka](https://www.youtube.com/watch?v=RSIstPUiEjY)
+
+## ten-free-resources-for-programmers-to-learn-docker
+- [Ten Free Resources For Programmers To Learn Docker](https://analyticsindiamag.com/ten-free-resources-for-programmers-to-learn-docker/)
