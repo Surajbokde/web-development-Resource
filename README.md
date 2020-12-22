@@ -25,13 +25,12 @@
 
 ---
 
-
 ## 📌 Introduction
 
 Learning the skills you need for web design or web development is the first step toward working on the web—but that also means familiarizing yourself with the tools of the trade. The web is constantly changing and as a web developer you have to be able to adapt to the constant changes. 
 
 That’s why we put together this huge list of web development resources and tools to help you as a web developer to stay up-to-date, learn new things, be more productive, and perhaps also help you become better at what you do.
----
+
 
 ## ⭐ How to get started?
 
@@ -50,7 +49,8 @@ You can refer to the following articles on the basics of Git and Github and also
 <p align="center">
 🎉 First off all, thank you for taking the time out of your schedule and deciding to contribute here! 👍
 </p>
-
+<br>
+<br>
 
 - Take a look at the Existing [Issues](https://github.com/Surajbokde/web-development-Resource/issues) and comment on it if interested or ask MENTOR for creating a new issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
