@@ -29,6 +29,11 @@ Kubernetes is an open-source container-orchestration system for automating compu
 - [edureka](https://www.edureka.co/blog/kubernetes-tutorial/)
 - [freecodecamp](https://www.freecodecamp.org/news/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882/)
 
+## Youtubetutorials
+
+- [freecodecamp](https://www.youtube.com/watch?v=Wf2eSG3owoA)
+- [TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [edureka](https://www.youtube.com/watch?v=F-p_7XaEC84)
 
 
 
