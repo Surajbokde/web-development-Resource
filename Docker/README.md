@@ -59,6 +59,6 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 #### 10| Docker In Development
 
-## For all the courses link just click on the link
+## For all the courses just click on the link
 -[Course Link](https://analyticsindiamag.com/ten-free-resources-for-programmers-to-learn-docker/)
 
