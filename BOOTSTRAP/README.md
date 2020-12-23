@@ -91,7 +91,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 - [How to make your site look half-decent in half an hour](http://24ways.org/2012/how-to-make-your-site-look-half-decent)
 - [CSSFlow](http://www.cssflow.com/) - CSS Code Snippets & UI Kits for Web Developers
 
-###Style Guides
+### Style Guides
 - [Google](http://code.google.com/p/google-styleguide/) (C++, Objective-C, Python, HTML/CSS, JavaScript)
 - [GitHub](https://github.com/styleguide/) (CSS, JavaScript, Ruby)
 
