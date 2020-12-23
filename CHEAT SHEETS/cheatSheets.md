@@ -40,4 +40,3 @@
 
 - [Django Cheat Sheet](http://www.cheat-sheets.org/saved-copy/django_reference_sheet.pdf): Basic syntax: import, app setup, routing, methods, template tags and info, etc. A very handy cheatsheet for Django developers.
 
-- [Aurelia Cheat Sheet](https://aurelia.io/docs/fundamentals/cheat-sheet/)
