@@ -1,24 +1,33 @@
-# MeteorJS Resources
 
-<div align="center">
-	<code><img height="250" width="500" src="https://d14jjfgstdxsoz.cloudfront.net/assets/meteor-logo.svg"></code>
-</div>
+# Meteor.js Resources
 
-## Documentation
+  ![meteorjs](https://user-images.githubusercontent.com/49369387/102892328-b69cca80-4485-11eb-953e-243f936c7cf7.png)
+<br>
 
-* [Official Documentation](https://docs.meteor.com/)
-* [Install](https://www.meteor.com/install)
-* [Explore Packages](https://atmospherejs.com/)
+### What is METEORJS?
 
-## Websites and Blogs
+Meteor, or MeteorJS, is a free and open-source isomorphic JavaScript web framework written using Node.js. Meteor allows for rapid prototyping and produces cross-platform code.
 
-* [Official Meteor Guide](https://guide.meteor.com/)
-* [Meteorpedia](http://www.meteorpedia.com/read/Main_Page)
-* [Meteor for Frontent](https://davidwalsh.name/meteor-frontend-engineers)
-* [React with Webpack + Meteor as a backend](hhttp://julian.io/react-with-webpack-meteor-as-a-backend/)
-* [Official Meteor Blog](https://blog.meteor.com/)
+A well curated list of awesome Meteor.js resources.
 
-## Tutorials and Articles
+
+## Contents
+
+- [Tutorials](#beginer-tutorials)
+- [Best practices](#best-practices)
+- [Documentation](https://docs.meteor.com/)
+- [Install](https://www.meteor.com/install)
+- [Explore Packages](https://atmospherejs.com/)
+
+## Beginer Tutorials
+
+- [MeteorJS Homepage and Download link](https://www.meteor.com/install)
+- [MeteorJS Application ](https://www.meteor.com/tutorials/blaze/creating-an-app)
+- [MeteorJS Beginers playlist](https://www.youtube.com/results?search_query=meteorjs)
+- [Debuging a MeteorJS app](https://livebook.manning.com/book/meteor-in-action/chapter-11/)
+- [Deploying a MeteorJS app](https://guide.meteor.com/deployment.html)
+
+## Some more Tutorials and Articles
 
 * [Official Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app)
 * [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
@@ -27,31 +36,43 @@
 * [Meteor.js Iron Router Filters, Before and After Hooks](http://www.manuel-schoebel.com/blog/meteorjs-iron-router-filters-before-and-after-hooks)
 * [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
 
-## Video Tutorials
+## Websites and Blogs
 
-* [ Learn Meteor](https://www.youtube.com/watch?v=r62x4DS5yw0&list=PLqiT-vn2D1sa9a36O2l4dM8MWmtW0BFyw&index=1) by NathanJeanShow
-* [ Meteor Tutorials for Everyone ](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) by LevelUpTuts
-* [Learn Meteor.js ](https://www.youtube.com/watch?v=vSFH1T3SnBY) by Traversy Media
+- [Official Meteor Guide](https://guide.meteor.com/)
+- [Meteorpedia](http://www.meteorpedia.com/read/Main_Page)
+- [Meteor for Frontent](https://davidwalsh.name/meteor-frontend-engineers)
+- [React with Webpack + Meteor as a backend](hhttp://julian.io/react-with-webpack-meteor-as-a-backend/)
+- [Official Meteor Blog](https://blog.meteor.com/)
+
+## Best practices
+
+- [Meteor - Best Practices](https://www.tutorialspoint.com/meteor/meteor_best_practices.htm)
+- [15+ Meteor Tips for Beginners](https://apiko.com/blog/15-meteor-tips-for-beginners-from-professional-developers/)
+- [Essential Meteor Tips](https://code.tutsplus.com/tutorials/essential-meteor-tips--cms-28863)
+- [MeteorJs Advantages](https://www.geekboots.com/story/meteorjs-and-its-advantages-over-angular)
 
 ##  Courses
 
-- #### Free
+#### Free
 
   - [Meteor 1.4 For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-for-everyone)
   - [Intermediate Meteor](https://www.leveluptutorials.com/tutorials/intermediate-meteor)
-   - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
+  - [Meteor 1.4 + React For Everyone Tutorials](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone-tutorials)
   - [Meteor & React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-react-for-everyone)
   - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
 
-- #### Paid
-   - [Meteor 1.4 + React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone)
-   -  [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/))
-   - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
+#### Paid
+   
+  - [Meteor-React Tutorial](https://www.udemy.com/course/meteor-react-tutorial/)
+  - [Meteor Development](https://www.coursera.org/learn/meteor-development)
+  - [Meteor 1.4 + React For Everyone](https://www.leveluptutorials.com/tutorials/meteor-1-4-react-for-everyone)
+  - [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/))
+  - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
 
 ## Useful GitHub resources
 
-* [Meteor Packages and resources](https://github.com/Urigo/awesome-meteor#resources)
-* [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
+- [Meteor Packages and resources](https://github.com/Urigo/awesome-meteor#resources)
+- [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
 
 ## Groups and Communities
 
