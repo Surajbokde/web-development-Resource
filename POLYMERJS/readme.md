@@ -12,3 +12,5 @@
 - [Polymer Project](https://www.polymer-project.org/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Polymer_(library))
 - [PolymerJS - Toptal](https://www.toptal.com/front-end/polymer-js-the-future-of-web-application-development)
+- [Tutorials Point](https://www.tutorialspoint.com/polymer/polymer_overview.htm)
+- [Polymer Library](https://polymer-library.polymer-project.org/)
