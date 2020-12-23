@@ -14,3 +14,8 @@
 - [PolymerJS - Toptal](https://www.toptal.com/front-end/polymer-js-the-future-of-web-application-development)
 - [Tutorials Point](https://www.tutorialspoint.com/polymer/polymer_overview.htm)
 - [Polymer Library](https://polymer-library.polymer-project.org/)
+
+## Useful Github Links
+- [Polymer Official ](https://github.com/Polymer/polymer)
+- [Polymer Library Docs](https://github.com/Polymer/polymer-library-docs)
+- [Polymer Elements](https://github.com/PolymerElements/iron-doc-viewer)
