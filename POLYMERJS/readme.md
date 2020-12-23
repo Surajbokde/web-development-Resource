@@ -21,3 +21,5 @@
 - [Tutorials Point](https://www.tutorialspoint.com/polymer/index.htm)
 - [Build Your First App with Polymer and Web Components](https://auth0.com/blog/build-your-first-app-with-polymer-and-web-components/)
 - [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
+- [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
+- [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15)
