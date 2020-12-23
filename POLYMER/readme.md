@@ -15,11 +15,6 @@
 - [Tutorials Point](https://www.tutorialspoint.com/polymer/polymer_overview.htm)
 - [Polymer Library](https://polymer-library.polymer-project.org/)
 
-## Useful Github Links
-- [Polymer Official ](https://github.com/Polymer/polymer)
-- [Polymer Library Docs](https://github.com/Polymer/polymer-library-docs)
-- [Polymer Elements](https://github.com/PolymerElements/iron-doc-viewer)
-
 ## Tutotrial and Articles
 - [Official Tutorial](https://polymer-library.polymer-project.org/2.0/docs/first-element/intro)
 - [Tutorials Point](https://www.tutorialspoint.com/polymer/index.htm)
@@ -28,3 +23,8 @@
 - [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 - [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15)
 -  [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
+
+## Useful Github Links
+- [Polymer Official ](https://github.com/Polymer/polymer)
+- [Polymer Library Docs](https://github.com/Polymer/polymer-library-docs)
+- [Polymer Elements](https://github.com/PolymerElements/iron-doc-viewer)
