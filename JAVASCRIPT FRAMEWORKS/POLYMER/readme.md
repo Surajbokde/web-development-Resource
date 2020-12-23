@@ -32,7 +32,9 @@ A well curated list of awesome Polymer resources.
 - [Build Your First App with Polymer and Web Components](https://auth0.com/blog/build-your-first-app-with-polymer-and-web-components/)
 - [Is Polymer.js the Future?](https://www.toptal.com/front-end/polymer-js-the-future-of-web-application-development)
 - [Why You Should Build a Website in Polymer](https://upperdog.co.uk/blog/what-is-polymerjs/)
-
+- [Nuxeo Polymer Guide](https://doc.nuxeo.com/nxdoc/polymer-guide/)
+- [Wikipedia - Polymer](https://en.wikipedia.org/wiki/Polymer_(library))
+- [PolymerJS The Future of Web Development](https://www.toptal.com/front-end/polymer-js-the-future-of-web-application-development)
 
 ## Best practices
 
@@ -45,6 +47,11 @@ A well curated list of awesome Polymer resources.
   - [Polymer - Quick Guide](https://www.tutorialspoint.com/polymer/polymer_quick_guide.htm)
   - [Guide - Lit-element - Polymer Project](https://lit-element.polymer-project.org/guide)
   - [Getting Started with Polymer](https://www.digitalocean.com/community/tutorials/polymer-polymer-getting-started)
+  - [POLYMER Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
+  - [POLYMER with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
+  - [POLYMER with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15)
+  - [POLYMER with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
+
   
 ## Paid Tutorials
    
@@ -59,6 +66,10 @@ A well curated list of awesome Polymer resources.
 - [POLYMER PROJECT - Lit element](https://github.com/Polymer/lit-element)
 - [Awesome Polymer](https://github.com/Granze/awesome-polymer)
 
+## Groups and Communities
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/polymer)
+- [Google Group](https://groups.google.com/forum/#!forum/polymer-dev)
+- [Twitter](https://twitter.com/polymer)   
 
 ## Books
 - [Getting Started with Polymer](https://www.oreilly.com/library/view/getting-started-with/9781785889370/)
