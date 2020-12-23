@@ -3,11 +3,13 @@
 <div align="center">
 		<img width="350" src="https://www.foowebs.com/userfiles/blog-jquery.png" alt="jQuery">
 	</div>
-<div align="center">
+<br>
 
-“jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.”
+## What is JQuery?
 
-</div>
+jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
+
+A well curated list of awesome JQuery.js resources.
 
 ## Documentation
 - [jQuery Tutorial](https://api.jquery.com/)
