@@ -3,7 +3,7 @@
 <div align="center">
 	<code><img height="250" src="https://www.programwitherik.com/content/images/2015/02/ember-hamster.png"></code>
 </div>
-<div align="center">
+
 <br>
 
 ## What is EMBERJS?
