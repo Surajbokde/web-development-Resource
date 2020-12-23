@@ -6,3 +6,4 @@
 
 ## Documentation
 - [Official Documentation](https://polymer-library.polymer-project.org/2.0/docs/devguide/feature-overview)
+- [Nuxeo - Polymer](https://doc.nuxeo.com/nxdoc/polymer-guide/)
