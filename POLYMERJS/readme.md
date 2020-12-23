@@ -14,3 +14,10 @@
 - [PolymerJS - Toptal](https://www.toptal.com/front-end/polymer-js-the-future-of-web-application-development)
 - [Tutorials Point](https://www.tutorialspoint.com/polymer/polymer_overview.htm)
 - [Polymer Library](https://polymer-library.polymer-project.org/)
+
+
+## Tutotrial and Articles
+- [Official Tutorial](https://polymer-library.polymer-project.org/2.0/docs/first-element/intro)
+- [Tutorials Point](https://www.tutorialspoint.com/polymer/index.htm)
+- [Build Your First App with Polymer and Web Components](https://auth0.com/blog/build-your-first-app-with-polymer-and-web-components/)
+- [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
