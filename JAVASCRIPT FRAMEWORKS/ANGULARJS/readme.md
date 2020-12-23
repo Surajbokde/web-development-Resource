@@ -1,14 +1,16 @@
 # ANGULARJS RESOURCES
+
+![angular](https://user-images.githubusercontent.com/49369387/102967189-68380c00-4517-11eb-8c25-fb6c7bd61bf4.png)
+<br>
+
+### What is ANGULARJS?
+
 AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications. 
 
-
-### Video Tutorials-
-
-![angular](https://icongr.am/devicon/angularjs-original.svg?size=148&color=currentColor)<br>
-A well curated list of the best learning resources
-
+A well curated list of awesome Angular.js resources.
 
 ## Documentation
+
 * [Official documentation](https://docs.angularjs.org/guide)
 * [W3School](https://www.w3schools.com/angular)
 * [MediaLoot](https://medialoot.com/blog/angularjs-for-absolute-beginners/)
@@ -16,7 +18,7 @@ A well curated list of the best learning resources
 * [Cheat Sheet](https://angular.io/guide/cheatsheet)
 * [Typescript](https://www.geeksforgeeks.org/tag/typescript/)
 
-## Tutorial
+## Web Tutorial
 
 * [Javatpoint](https://www.javatpoint.com/angularjs-tutorial)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/angularjs-tutorials/)
