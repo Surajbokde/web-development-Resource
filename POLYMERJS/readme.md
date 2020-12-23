@@ -33,3 +33,7 @@
 ## Courses 
 - [Getting started with PolymerJS](https://www.pluralsight.com/courses/polymer-js-getting-started)
 - [Udemy - Learn Polymer 3](https://www.udemy.com/course/polymer-3-create-web-components-with-polymer-3/)
+
+## Useful Github Links
+- [Polymer Official ](https://github.com/Polymer/polymer)
+- [Polymer Library Docs](https://github.com/Polymer/polymer-library-docs)
