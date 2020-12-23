@@ -19,3 +19,8 @@
 - [Polymer Official ](https://github.com/Polymer/polymer)
 - [Polymer Library Docs](https://github.com/Polymer/polymer-library-docs)
 - [Polymer Elements](https://github.com/PolymerElements/iron-doc-viewer)
+
+## Tutotrial and Articles
+- [Official Tutorial](https://polymer-library.polymer-project.org/2.0/docs/first-element/intro)
+- [Tutorials Point](https://www.tutorialspoint.com/polymer/index.htm)
+- 
