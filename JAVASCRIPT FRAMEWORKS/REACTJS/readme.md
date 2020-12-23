@@ -1,10 +1,14 @@
 # React.JS Resources
 
 ![react](https://user-images.githubusercontent.com/71463658/101286431-7fd17e00-3810-11eb-8362-9e894ed07f6b.jpeg)
+<br>
+
+### What is REACTJS?
+
+React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+
 
 A well curated list of the best learning resources
-
-
 
 ## Documentation
 
@@ -49,7 +53,7 @@ A well curated list of the best learning resources
 * [React Redux](https://redux.js.org/)
 * [Getting started with redux](https://egghead.io/courses/getting-started-with-redux)
 
-## Getting started with basic projects
+## Some Basic Project Ideas
 
 A few projects to build as a beginner
 
