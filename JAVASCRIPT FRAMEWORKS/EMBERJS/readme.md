@@ -4,6 +4,13 @@
 	<code><img height="250" src="https://www.programwitherik.com/content/images/2015/02/ember-hamster.png"></code>
 </div>
 <div align="center">
+<br>
+
+## What is EMBERJS?
+
+Ember.js is an open-source JavaScript web framework, utilizing a component-service pattern. It allows developers to create scalable single-page web applications by incorporating common idioms, best practices, and patterns from other single-page-app ecosystem patterns into the framework.
+
+A well curated list of awesome Ember.js resources.
 
 ## Documentation
 
