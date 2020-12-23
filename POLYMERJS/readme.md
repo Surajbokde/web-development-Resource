@@ -23,3 +23,4 @@
 - [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 - [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 - [How to use Polymer with Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15)
+-  [Using Polymer webcomponents with Angular JS](http://jcrowther.io/2015/05/26/using-polymer-webcomponents-with-angular-js/)
