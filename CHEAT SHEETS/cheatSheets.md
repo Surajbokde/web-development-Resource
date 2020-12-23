@@ -42,4 +42,3 @@
 
 - [Aurelia Cheat Sheet](https://aurelia.io/docs/fundamentals/cheat-sheet/)
 
-- ![Flask_Cheatsheet](https://user-images.githubusercontent.com/49369387/102965925-d9c28b00-4514-11eb-97af-f50a93e2970c.png)
