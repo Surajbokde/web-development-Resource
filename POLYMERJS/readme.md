@@ -28,3 +28,4 @@
 ## Video Tutorials 
 - [Polymer Tutorials - LevelUpTuts](https://www.youtube.com/playlist?list=PLLnpHn493BHHbOWwQxtGCVfEgWZxxofyA)
 - [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
+- [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) by Stretch Projects
