@@ -42,3 +42,4 @@
 
 - [Aurelia Cheat Sheet](https://aurelia.io/docs/fundamentals/cheat-sheet/)
 
+- [Flask Cheat Sheet](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
