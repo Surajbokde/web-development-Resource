@@ -32,7 +32,7 @@
 
 - [Redux Cheat Sheet](https://devhints.io/redux)
 
--[Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
+- [Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
 
 - [Flask Cheat Sheet](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf): Basic syntax: import, app setup, routing, methods etc. A very handy cheatsheet for flask developers.
 
@@ -41,3 +41,5 @@
 - [Django Cheat Sheet](http://www.cheat-sheets.org/saved-copy/django_reference_sheet.pdf): Basic syntax: import, app setup, routing, methods, template tags and info, etc. A very handy cheatsheet for Django developers.
 
 - [Aurelia Cheat Sheet](https://aurelia.io/docs/fundamentals/cheat-sheet/)
+
+- [Flask Cheat Sheet](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
