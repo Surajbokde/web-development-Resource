@@ -38,3 +38,10 @@
 - [Polymer Official ](https://github.com/Polymer/polymer)
 - [Polymer Library Docs](https://github.com/Polymer/polymer-library-docs)
 - [Polymer Elements](https://github.com/PolymerElements/iron-doc-viewer)
+
+## Boilerplates
+* [Polymer boilerplate](https://github.com/webcomponents/polymer-boilerplate)
+* [Seed element](https://github.com/polymerlabs/seed-element)
+* [Polymer Admin](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
+* [Meteor-Polymer Starter Kit](https://github.com/aruntk/kickstart-meteor-polymer) Kickstart a Meteor - Polymer project with MWC packages
+* [Meteor-Polymer Starter Kit Including Auth](https://github.com/aruntk/kickstart-meteor-polymer-with-auth)
