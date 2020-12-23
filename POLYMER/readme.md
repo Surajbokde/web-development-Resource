@@ -44,3 +44,8 @@
 * [Polymer Admin](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
 * [Meteor-Polymer Starter Kit](https://github.com/aruntk/kickstart-meteor-polymer) Kickstart a Meteor - Polymer project with MWC packages
 * [Meteor-Polymer Starter Kit Including Auth](https://github.com/aruntk/kickstart-meteor-polymer-with-auth)
+
+## Groups and Communities
+* [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
+* [GoogleGroup](https://groups.google.com/forum/#!forum/polymer-dev)
+* [Twitter](https://twitter.com/polymer)    
