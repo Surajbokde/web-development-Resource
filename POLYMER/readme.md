@@ -49,3 +49,6 @@
 * [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
 * [GoogleGroup](https://groups.google.com/forum/#!forum/polymer-dev)
 * [Twitter](https://twitter.com/polymer)    
+
+## Projects 
+- [Polymer Projects](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
