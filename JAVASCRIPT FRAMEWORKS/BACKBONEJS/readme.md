@@ -4,6 +4,10 @@
 	<code><img height="150" src="https://backbonejs.org/docs/images/backbone.png"></code>
 </div>
 
+### What is BACKBONEJS?
+
+Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–controller application design paradigm. Backbone is known for being lightweight, as its only hard dependency is on one JavaScript library, Underscore.js, plus jQuery for use of the full library.
+
 ## Documentation
 
 * [Official Documentation](https://backbonejs.org/#Getting-started)
