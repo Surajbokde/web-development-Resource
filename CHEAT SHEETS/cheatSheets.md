@@ -32,5 +32,5 @@
 
 - [Redux Cheat Sheet](https://devhints.io/redux)
 
--[Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
+- [Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
 
