@@ -17,5 +17,5 @@ Redis is an open source (BSD licensed), in-memory data structure store, used as 
 
 - [Books](#beginer-tutorials)<br/> 
 
-- [Cheetsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+- [Cheetsheet](https://gist.github.com/LeCoupa/1596b8f359ad8812c7271b5322c30946)
 
