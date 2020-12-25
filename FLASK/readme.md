@@ -52,3 +52,6 @@ A well curated list of resources to help you getting started with Flask.
 * Portfolio Website using Flask
 * Feedback Form using Flask
 * Blog App using Flask
+* Full Stack Social Network App
+* Rest API with Flask
+* Deploy Machine Learning Models using Flask
