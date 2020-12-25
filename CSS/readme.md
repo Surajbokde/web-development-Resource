@@ -19,6 +19,11 @@
 - [CSS Grid Playground](https://mozilladevelopers.github.io/playground/)
 - [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css)
 
+**CSS Animations**
+- [animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+- [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+
 ## Learning Sites
 
 - [w3schools.com](https://www.w3schools.com/css/)
@@ -30,6 +35,9 @@
 - [SoloLearn](http://www.sololearn.com/Course/CSS/)
 - [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+**CSS Animations**
+- [Animista](https://animista.net/)
 
 ## Amazing Free Courses from Scrimba
 **Beginner**
@@ -50,7 +58,11 @@
 - [CSS Tutorial by Codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [CSS Tutorial - Zero to Hero (Complete Course) by freeCodeCamp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [DEV Tips](https://www.youtube.com/user/DevTipsForDesigners/videos)
+
+**CSS Animations**
 - [Complete CSS Tutorial by Traversy Media](https://youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+- [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+- [CSS3 Animation & Transitions Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM)
 
 **Crash Course in One Video**
 - [CSS Crash Course by Brad Traversy](https://www.youtube.com/watch?v=yfoY53QXEnI)
