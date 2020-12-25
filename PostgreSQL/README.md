@@ -23,6 +23,8 @@ A curated list of PostgreSQL resources.
 * [FreeCodeCamp tutorial for beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
 * [Tutorial series](https://www.youtube.com/watch?v=jNq5EAb2biY&list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x)
 * [Edureka tutorial for beginners](https://www.youtube.com/watch?v=-VO7YjQeG6Y)
+* [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw)
+* [Scaling Postgres](https://www.scalingpostgres.com/)
 
 ## Paid Videos
 
