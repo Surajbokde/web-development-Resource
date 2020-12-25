@@ -31,6 +31,7 @@ A curated list of PostgreSQL resources.
 * [Pluralsight](https://www.pluralsight.com/courses/postgresql-getting-started)
 * [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/?altsc=781502)
 * [SQL & PostgreSQL for Beginners: Become an SQL Expert](https://www.udemy.com/course/sql-and-postgresql-for-beginners/)
+* [PostgreSQL High Performance Tuning Guide](https://www.udemy.com/course/postgresql-high-performance-tuning-guide/)
 
 ## Articles
 
