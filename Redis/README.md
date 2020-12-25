@@ -33,3 +33,7 @@ Redis is an open source (BSD licensed), in-memory data structure store, used as 
 - [javapoint](https://www.javatpoint.com/redis-tutorial)
 - [w3resource](https://www.w3resource.com/redis/)
 
+## Youtubetutorials
+- [freecodecamp](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+- [Traversy Media](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [ProgrammingKnowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd)
