@@ -51,3 +51,11 @@ A curated list of PostgreSQL resources.
 * [Bruce Momjian's PostgreSQL blog](https://momjian.us/main/blogs/pgblog.html)
 * [Craig Kerstiens PostgreSQL posts](https://www.craigkerstiens.com/categories/postgres/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/)
+
+## Community
+
+* [Mailing lists](https://www.postgresql.org/list/)
+* [Reddit](https://www.reddit.com/r/PostgreSQL/)
+* [Slack](https://postgres-slack.herokuapp.com/)
+* [Telegram](https://t.me/postgreschat)
+* [#postgresql on Freenode](https://webchat.freenode.net/#postgresql)
