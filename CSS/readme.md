@@ -19,6 +19,11 @@
 - [CSS Grid Playground](https://mozilladevelopers.github.io/playground/)
 - [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css)
 
+**CSS Animations**
+- [animation](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
+- [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+- [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+
 ## Learning Sites
 
 - [w3schools.com](https://www.w3schools.com/css/)
@@ -30,6 +35,9 @@
 - [SoloLearn](http://www.sololearn.com/Course/CSS/)
 - [HTML5 from Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+**CSS Animations**
+- [Animista](https://animista.net/)
 
 ## Amazing Free Courses from Scrimba
 **Beginner**
@@ -50,7 +58,11 @@
 - [CSS Tutorial by Codewithharry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 - [CSS Tutorial - Zero to Hero (Complete Course) by freeCodeCamp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [DEV Tips](https://www.youtube.com/user/DevTipsForDesigners/videos)
+
+**CSS Animations**
 - [Complete CSS Tutorial by Traversy Media](https://youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+- [CSS Animations Series](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+- [CSS3 Animation & Transitions Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM)
 
 **Crash Course in One Video**
 - [CSS Crash Course by Brad Traversy](https://www.youtube.com/watch?v=yfoY53QXEnI)
@@ -85,4 +97,9 @@
 -[A Pen by Baron](https://codepen.io/b29/pen/roVJYY)
 -[A Pen by m04b34t](https://codepen.io/m04b34t/pen/QJNBOo)
 -[A Pen by Tobias Glaus](https://www.youtube.com/redirect?q=https%3A%2F%2Fcodepen.io%2Ftobiasglaus%2Fpen%2FqQLjYZ&redir_token=QUFFLUhqbGVzd0NqcVFTaUVoczZ5cXhzUnI0elVFTkk1UXxBQ3Jtc0tsZ2Nrd0MzY1A1RE45bzBhdnhhemtlNG9IS3dqMGVReWlXbnpmcGl0NVlOdXNLOFItdmpiTktlY0lyOURSem81c1FmcHBKR2FyNGpNRUQ4dHVHdVRHYWZWUW01YktMWWowd1JqRHdxOEU3Ukt3aWRNOA%3D%3D&v=WFRVlfAkn_c&event=video_description)
+
+## Udemy Courses
+- [Build Responsive Real World Websites with CSS3 v2.0](https://www.udemy.com/course/css3-responsive-web-design-tutorial-with-flexbox-and-animations/?matchtype=e&msclkid=fa0d9f57a4df1ed77fa5c0b2dbe86ac7&utm_campaign=BG-LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_medium=udemyads&utm_source=bing&utm_term=_._ag_1220458320323148_._ad__._kw_%2BCSS+%2BAnimations+%2BCourse_._de_c_._dm__._pl__._ti_kwd-76278958409701%3Aloc-90_._li_1676_._pd__._)
+- [Learning CSS](https://www.udemy.com/course/learning-css/)
+- [Introduction to CSS - Complete Beginner to Expert Course](https://www.udemy.com/course/learn-css-course/)
 
