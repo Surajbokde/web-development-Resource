@@ -42,3 +42,10 @@ A curated list of PostgreSQL resources.
 ## Newsletter
 
 * [Postgres weekly](https://postgresweekly.com/)
+
+## Blogs
+
+* [Michael Paquier's blog](https://paquier.xyz/)
+* [Bruce Momjian's PostgreSQL blog](https://momjian.us/main/blogs/pgblog.html)
+* [Craig Kerstiens PostgreSQL posts](https://www.craigkerstiens.com/categories/postgres/)
+* [select * from depesz;](https://www.depesz.com/tag/postgresql/)
