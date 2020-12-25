@@ -19,3 +19,17 @@ Redis is an open source (BSD licensed), in-memory data structure store, used as 
 
 - [Cheetsheet](https://gist.github.com/LeCoupa/1596b8f359ad8812c7271b5322c30946)
 
+## Command
+- [Command](https://redis.io/commands)
+
+## Documentation
+- [Documentation](https://redis.io/documentation)
+
+## Downloads
+- [Downloads](https://redis.io/download)
+
+## Beginer Tutorials
+- [tutorialspoint ](https://www.tutorialspoint.com/redis/index.htm)
+- [javapoint](https://www.javatpoint.com/redis-tutorial)
+- [w3resource](https://www.w3resource.com/redis/)
+
