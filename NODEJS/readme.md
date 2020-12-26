@@ -1,5 +1,6 @@
 # Node.js Resources
 ### What is Node.js 
+Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser. 
 
 <div align="center">
 <img width="250" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
