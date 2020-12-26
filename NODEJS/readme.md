@@ -56,3 +56,10 @@ Node.js is an open-source, cross-platform, back-end, JavaScript runtime environm
 - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
+## Projects
+
+- [Project1](https://www.youtube.com/watch?v=ZVznzY7EjuY)
+- [Project2](https://www.youtube.com/watch?v=Dkh2IjrAkVI)
+
+
+
