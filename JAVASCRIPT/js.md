@@ -4,9 +4,7 @@
 <code><img height="250" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </div>
 
-
 JavaScript can be hard to acquaint as compared to other languages, but with right resources its just a matter of practice. Start today with these:
-
 
 ## Web Tutorials
 
@@ -40,7 +38,8 @@ JavaScript can be hard to acquaint as compared to other languages, but with righ
 2. [Udemy's Modern JavaScript](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 3. [Udemy's Advanced JS Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
 
-### [Try these beginner's projects](https://mikkegoes.com/javascript-projects-for-beginners/)
+### Try these beginner's projects
+1. [Beginners Projects](https://mikkegoes.com/javascript-projects-for-beginners/)
 
 ## Good javascript effects codepen links
 
