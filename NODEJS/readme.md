@@ -1,16 +1,9 @@
 # Node.js Resources
 
 <div align="center">
-		<img width="250" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-	</div>
-<div align="center">
-
-A curated list of awesome Node.js resources.
-
-![#](https://badgen.net/badge/best-practices/5+/red)
-![#](https://badgen.net/badge/educational/5+/green)
-
+<img width="250" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
 </div>
+<div align="center">
 
 ## Contents
 
