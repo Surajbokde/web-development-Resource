@@ -21,7 +21,7 @@ Node.js is an open-source, cross-platform, back-end, JavaScript runtime environm
 
 - [Books](#beginer-tutorials)<br/> 
 
-- [Cheetsheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
+- [Cheetsheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
 
 ## Beginer Tutorials
