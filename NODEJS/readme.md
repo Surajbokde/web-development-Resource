@@ -34,6 +34,14 @@ Node.js is an open-source, cross-platform, back-end, JavaScript runtime environm
 - [freecodecamp](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/)
 - [w3schools](https://www.w3schools.com/nodejs/)
 
+## Youtubetutorials
+-  [Telusko](https://www.youtube.com/watch?v=vJEO57B05Sg) 
+-  [Thapa Technical](https://www.youtube.com/watch?v=ipnWAKoiBtY&t=4343s) 
+-  [Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4) 
+-  [freecodecamp](https://www.youtube.com/watch?v=RLtyhwFtXQA) 
+-  [CodeWithHarry](https://www.youtube.com/watch?v=YFmgNiimfyk&t=946s)
+-  [the Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+
 
 ## Best practices
 
