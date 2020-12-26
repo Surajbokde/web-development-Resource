@@ -7,7 +7,7 @@
 
 Awesome list of awesome HTML resources.
 
-![#](https://badgen.net/badge/tools/3+/red)
+![#](https://badgen.net/badge/tools/3+/red)  
 ![#](https://badgen.net/badge/educational/6+/green)
 
 </div>
@@ -51,9 +51,16 @@ Awesome list of awesome HTML resources.
 - [HTML5 Web Sockets API](http://www.tutorialspark.com/html5/HTML5_WebSockets.php)
 
 ## HTML References
+
 - [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html)
 - [HTML refrence](https://htmlreference.io/)
 - [HTML MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+## Books
+
+- [Introducing HTML 5](https://www.amazon.com/exec/obidos/tg/detail/-/0321687299/lockergnome)
+- [The Essential Guide to HTML5](https://www.amazon.com/Essential-Guide-HTML5-JavaScript/dp/1430233834)
+- [HTML5: Up and Running](https://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027/ref=sr_1_1?ie=UTF8&s=books&qid=1296071452&sr=1-1)
 
 ## Other
 
