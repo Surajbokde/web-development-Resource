@@ -62,6 +62,11 @@ Awesome list of awesome HTML resources.
 - [The Essential Guide to HTML5](https://www.amazon.com/Essential-Guide-HTML5-JavaScript/dp/1430233834)
 - [HTML5: Up and Running](https://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027/ref=sr_1_1?ie=UTF8&s=books&qid=1296071452&sr=1-1)
 
+## GitHub Resources
+
+- [Awesome HTML5](https://github.com/diegocard/awesome-html5)
+- [HTML Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial)
+
 ## Other
 
 - [Mobile Vs. Desktop Users](https://www.stonetemple.com/mobile-vs-desktop-usage-mobile-grows-but-desktop-still-a-big-player/)
