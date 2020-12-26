@@ -35,6 +35,10 @@ Awesome list of awesome HTML resources.
 - [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
 - [Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) on Youtube.
 
+## YouTube tutorials
+
+- [HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML Tutorial For Beginners](https://www.youtube.com/watch?v=88PXJAA6szs&pbjreload=101)
 
 ## Awesome tools
 
