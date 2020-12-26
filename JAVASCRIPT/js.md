@@ -45,33 +45,33 @@ JavaScript can be hard to acquaint as compared to other languages, but with righ
 
 ## Good javascript effects codepen links
 
-1.[CodePen Home
+1. [CodePen Home
 Motion blur effect using SVG filters by 
 Damián Mut](https://codepen.io/damianmuti/full/MvYPPa)
-2.[CodePen Home
+2. [CodePen Home
 Responsive Parallax Drag-slider With Transparent Letters by
 Ruslan Pivovarov ](https://codepen.io/mrspok407/full/bwLwvL)
-3.[CodePen Home
+3. [CodePen Home
 Parallax Slideshow by
 Bruno Carvalho](https://codepen.io/bcarvalho/full/WXmwBq)
-4.[CodePen Home
+4. [CodePen Home
 Exploring UI Animation #1 by
 mario s masell ](https://codepen.io/mariosmaselli/full/gwpjao)
-5.[CodePen Home
+5. [CodePen Home
 Animated cube slider by
 Alberto Hartzet](https://codepen.io/hrtzt/full/JdYaEZ)
-6.[CodePen Home
+6. [CodePen Home
 Slider Transition (City Slider) by
 AndyMan](https://codepen.io/Manoylov/full/YeWYPm)
-7.[CodePen Home
+7. [CodePen Home
 Full CSS Carousel
 Vincent Durand](https://codepen.io/onediv/full/VaQbrq)
-8.[CodePen Home
+8. [CodePen Home
 slick slider center mode by
 Elena ](https://codepen.io/semenchenko/full/ppJJOJ)
-9.[CodePen Home
+9. [CodePen Home
 Star Wars Imperial Army's Product Slider!
 by Muhammed Erdem ](https://codepen.io/JavaScriptJunkie/full/vzWPbV)
-10.[CodePen Home
+10. [CodePen Home
 awesome slider by
 Swarup Kumar Kuila](https://codepen.io/uiswarup/full/LXYwwW)
