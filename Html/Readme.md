@@ -14,7 +14,14 @@ Awesome list of awesome HTML resources.
 
 ## Contents
 
--[Tutorials](#beginer-tutorials)<br/> -[Awesome tools](#awesome-tools) <br> - [Websites for getting free images](#websites-for-getting-free-images) <br/> - [Web Sockets](#web-sockets) <br> - [HTML References](#html-references) <br> - [Other](#other)
+- [Tutorials](#beginer-tutorials)
+- [Awesome tools](#awesome-tools)
+- [Websites for getting free images](#websites-for-getting-free-images)
+- [Web Sockets](#web-sockets)
+- [HTML References](#html-references)
+- [Books](#Books)
+- [GitHub Resources](#GitHub-Resources)
+- [Other](#other)
 
 ## Beginer tutorials
 
