@@ -17,7 +17,13 @@ webpack is an open-source JavaScript module bundler. It is made primarily for Ja
 
 - [Books](#beginer-tutorials)<br/> 
 
-- [Cheetsheet](https://gist.github.com/LeCoupa/1596b8f359ad8812c7271b5322c30946)
+- [Cheetsheet](https://devhints.io/webpack)
+
+## Official Website
+- [Homepage](https://devhints.io/webpack)
+
+## Documentation
+- [Documentation](https://webpack.js.org/concepts/)
 
 
 
