@@ -13,10 +13,7 @@ A curated list of awesome Node.js resources.
 
 ![#](https://badgen.net/badge/best-practices/5+/red)
 ![#](https://badgen.net/badge/educational/5+/green)
-- [Tutorials](#beginer-tutorials)<br/> 
 
-</div>
-- [ Youtubetutorials](#beginer-tutorials)<br/> 
 
 ## Contents
 - [Best Practices](#beginer-tutorials)<br/> 
@@ -27,7 +24,10 @@ A curated list of awesome Node.js resources.
 
 - [Cheetsheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3)
 
-- [Tutorials](#beginer-tutorials)<br/> -[Best practices](#best-practices)
+- [Tutorials](#beginer-tutorials)<br/>
+
+-[Best practices](#best-practices)
+
 - [Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap/blob/master/Node.js-developer-roadmap.png)
 
 ## Beginer Tutorials
