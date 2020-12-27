@@ -26,7 +26,7 @@ A curated list of awesome Node.js resources.
 
 - [Tutorials](#beginer-tutorials)<br/>
 
--[Best practices](#best-practices)
+-[Best practices](#best-practices)<br/>
 
 - [Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap/blob/master/Node.js-developer-roadmap.png)
 
