@@ -25,5 +25,12 @@ webpack is an open-source JavaScript module bundler. It is made primarily for Ja
 ## Documentation
 - [Documentation](https://webpack.js.org/concepts/)
 
+## Beginer Tutorials
+- [tutorialspoint ](https://www.tutorialspoint.com/webpack_for_beginners/index.asp)
+- [sitepoint](https://www.sitepoint.com/webpack-beginne)
 
+## Youtubetutorials
+- [freecodecamp](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
+- [Traversy Media](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC)
 
