@@ -13,3 +13,6 @@
 * [Using Plotly.js Charts for Dashboards](https://www.codementor.io/@jellenekhoh/using-plotly-js-charts-for-dashboards-t28fmw477)
 
 ### Github
+
+* [plotly.js]
+* [react-plotly.js]
