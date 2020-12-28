@@ -20,6 +20,6 @@
 
 ### YouTube
 
-* [Plotly Tutorial 2020]
-* [Live-code JavaScript data visualization with Plotly.js]
-* [Live-code JavaScript data visualization with Plotly.js]
+* [Plotly Tutorial 2020](https://www.youtube.com/watch?v=GGL6U0k8WYA)
+* [Live-code JavaScript data visualization with Plotly.js](https://www.youtube.com/watch?v=Ru1YETtM1bY)
+* [Favoriot Data Visualization Using React & Plotly.js](https://www.youtube.com/watch?v=_7HsPzlLqNQ)
