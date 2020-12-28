@@ -26,5 +26,5 @@
 
 ### Tutorials
 
-* [Plotly.js]
-* [Create JavaScript Real-Time Chart with Plotly.js]
+* [Plotly.js](https://www.javascripting.com/view/plotly-js)
+* [Create JavaScript Real-Time Chart with Plotly.js](https://redstapler.co/javascript-realtime-chart-plotly/)
