@@ -25,3 +25,6 @@
 * [Favoriot Data Visualization Using React & Plotly.js](https://www.youtube.com/watch?v=_7HsPzlLqNQ)
 
 ### Tutorials
+
+* [Plotly.js]
+* [Create JavaScript Real-Time Chart with Plotly.js]
