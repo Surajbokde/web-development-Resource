@@ -9,7 +9,6 @@ Node.js is an open-source, cross-platform, back-end, JavaScript runtime environm
 </div>
 <div align="center">
 
-# Black Lives Matter.
 
 A curated list of awesome Node.js resources.
 ## Contents
@@ -40,19 +39,6 @@ A curated list of awesome Node.js resources.
 - [Node.js Beginers playlist](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 - [Debuging a Node.js app](https://blog.heroku.com/debug-node-applications)
 - [Deploying a Node.js app on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
-- [javapoint](https://www.javatpoint.com/nodejs-tutorial)
-- [guru99](https://www.guru99.com/node-js-tutorial.html)
-- [geeksforgeeks](https://www.geeksforgeeks.org/nodejs-tutorials/)
-- [freecodecamp](https://www.freecodecamp.org/news/the-definitive-node-js-handbook-6912378afc6e/)
-- [w3schools](https://www.w3schools.com/nodejs/)
-
-## Youtubetutorials
--  [Telusko](https://www.youtube.com/watch?v=vJEO57B05Sg) 
--  [Thapa Technical](https://www.youtube.com/watch?v=ipnWAKoiBtY&t=4343s) 
--  [Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4) 
--  [freecodecamp](https://www.youtube.com/watch?v=RLtyhwFtXQA) 
--  [CodeWithHarry](https://www.youtube.com/watch?v=YFmgNiimfyk&t=946s)
--  [the Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 
 
 ## Best practices
@@ -60,11 +46,6 @@ A curated list of awesome Node.js resources.
 @@ -38,3 +56,10 @@ A curated list of awesome Node.js resources.
 - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/)
-
-## Projects
-
-- [Project1](https://www.youtube.com/watch?v=ZVznzY7EjuY)
-- [Project2](https://www.youtube.com/watch?v=Dkh2IjrAkVI)
 
 
 
