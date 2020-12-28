@@ -7,3 +7,6 @@
 
 ### Blogs
 
+* [An introduction to plotly.js — an open source graphing library]
+* [How To Use Plotly.js for Data Visualization]
+* [Using Plotly.js Charts for Dashboards]
