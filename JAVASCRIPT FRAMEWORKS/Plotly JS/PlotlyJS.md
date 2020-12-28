@@ -19,3 +19,7 @@
 * [react-plotly.js](https://github.com/plotly/react-plotly.js/)
 
 ### YouTube
+
+* [Plotly Tutorial 2020]
+* [Live-code JavaScript data visualization with Plotly.js]
+* [Live-code JavaScript data visualization with Plotly.js]
