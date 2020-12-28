@@ -4,6 +4,7 @@
 
 * [Getting Started in JavaScript](https://plotly.com/javascript/getting-started/)
 * [Plotly JavaScript Open Source Graphing Library](https://plotly.com/javascript/)
+* [Charting data with plotly.js](https://docs.retool.com/docs/plotly-charts-beta)
 
 ### Blogs
 
