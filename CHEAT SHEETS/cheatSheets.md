@@ -2,7 +2,7 @@
 
 # Cheat Sheets
 
-- [TailwindCSS](https://nerdcave.com/tailwind-cheat-sheet):A refrence cheat sheet for Tailwindcss
+- [TailwindCSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet):A refrence cheat sheet for Tailwindcss
 
 - [SASS Cheat Sheet](https://devhints.io/sass):A refrence cheat sheet for SASS
 
