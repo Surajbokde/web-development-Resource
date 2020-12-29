@@ -20,6 +20,7 @@ A well curated list of awesome Next.js resources.
 - [Video Tutorials](#video-tutorials)
 - [Articles](#articles)
 - [Boilerplates](#boilerplates)
+- [Newsletters](#newsletters)
 
 ## Beginer Tutorials
 
