@@ -1,7 +1,7 @@
 
 
 # Cheat Sheets
-- [TypeScript Cheat Sheet](https://devhints.io/typescript)
+- [TypeScript Cheat Sheet](https://devhints.io/typescript):A refrence cheat sheet for TypeScript
 
 - [TailwindCSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet):A refrence cheat sheet for Tailwindcss
 
