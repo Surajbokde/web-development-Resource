@@ -2,6 +2,8 @@
 
 # Cheat Sheets
 
+- [Redis Cheat Sheet](https://gist.github.com/LeCoupa/1596b8f359ad8812c7271b5322c30946):A refrence cheat sheet for Redis
+
 - [Bootstrap Cheat Sheet](https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/):A reference cheat sheet for Bootstrap
 
 - [Nodejs Cheat Sheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3):A reference cheat sheet for Nodejs
