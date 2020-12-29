@@ -54,3 +54,10 @@ A well curated list of awesome Next.js resources.
 
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 - [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+
+## Articles
+
+- [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
+- [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
+- [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
+- [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
