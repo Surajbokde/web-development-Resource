@@ -43,3 +43,5 @@
 - [Aurelia Cheat Sheet](https://aurelia.io/docs/fundamentals/cheat-sheet/)
 
 - [Flask Cheat Sheet](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)
+
+- [jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) A beginner-friendly jQuery cheat sheet.
