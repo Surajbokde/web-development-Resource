@@ -8,3 +8,7 @@
 - [Official Guide](https://nuxtjs.org/guide)
 - [API Reference](https://nuxtjs.org/api)
 - [Release Notes](https://github.com/nuxt/nuxt.js/releases)
+
+## Modules
+
+Discover the full list of Nuxt modules on https://modules.nuxtjs.org
