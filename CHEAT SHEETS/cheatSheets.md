@@ -1,6 +1,8 @@
 
 
 # Cheat Sheets
+- [Javascript Cheat Sheet]
+
 
 - [PHP Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/php-cheat-sheet.md):A refrence cheat sheet for PHP
 
