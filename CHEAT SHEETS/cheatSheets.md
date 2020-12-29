@@ -2,6 +2,8 @@
 
 # Cheat Sheets
 
+- [PHP Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/php-cheat-sheet.md)
+
 - [Webpack Cheat Sheet](https://devhints.io/webpack):A refrence cheat sheet for Webpack
 
 - [TypeScript Cheat Sheet](https://devhints.io/typescript):A refrence cheat sheet for TypeScript
