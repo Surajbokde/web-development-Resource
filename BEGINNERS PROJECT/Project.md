@@ -28,6 +28,7 @@
 4. [Javascript game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)-Maze Game
 5. [BUILD A JAVASCRIPT CLOCK](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
 6. [JAVASCRIPT ANIMATED NAVIGATION TOGGLE](https://codepen.io/neutraltone/pen/vGaOje)
+7. [JAVASCRIPT MAP](https://codepen.io/aomyers/pen/LWOwpR)
 
 ## Web Designing Projects
 
