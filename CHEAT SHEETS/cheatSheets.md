@@ -2,6 +2,8 @@
 
 # Cheat Sheets
 
+- [SASS Cheat Sheet](https://devhints.io/sass):A refrence cheat sheet for SASS
+
 - [Redis Cheat Sheet](https://gist.github.com/LeCoupa/1596b8f359ad8812c7271b5322c30946):A refrence cheat sheet for Redis
 
 - [Bootstrap Cheat Sheet](https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/):A reference cheat sheet for Bootstrap
