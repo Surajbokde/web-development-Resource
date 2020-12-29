@@ -50,7 +50,7 @@ A well curated list of awesome Next.js resources.
 - [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
 - [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 
-## Videos
+## Video Tutorials
 
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 - [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
