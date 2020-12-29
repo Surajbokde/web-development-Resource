@@ -15,6 +15,11 @@
   - [The Complete Nuxt.js & Vue.js Course](https://www.udemy.com/course/the-complete-nuxtjs-vuejs-course-self-promo-app/)
   - [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
 
+- Free Videos
+  - [Learn to use NuxtJS](https://www.youtube.com/playlist?list=PLe30vg_FG4OQihO5an0tNT_dpkxig8iPz) by Bitfumes
+  - [NuxtJS crash course](https://www.youtube.com/watch?v=ltzlhAxJr74) by Traversey Media
+  - [NuxtJS Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
+
 ## Modules
 
 Discover the full list of Nuxt modules on https://modules.nuxtjs.org
