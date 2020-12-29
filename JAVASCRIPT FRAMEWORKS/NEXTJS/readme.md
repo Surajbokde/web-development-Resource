@@ -17,7 +17,7 @@ A well curated list of awesome Next.js resources.
 - [Documentation](https://nextjs.org/docs)
 - [Community](#community)
 - [Books](#books)
-- [Videos](#videos)
+- [Video Tutorials](#video-tutorials)
 
 ## Beginer Tutorials
 
