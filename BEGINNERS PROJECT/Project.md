@@ -30,6 +30,7 @@
 6. [JAVASCRIPT ANIMATED NAVIGATION TOGGLE](https://codepen.io/neutraltone/pen/vGaOje)
 7. [JAVASCRIPT MAP](https://codepen.io/aomyers/pen/LWOwpR)
 8. [JAVASCRIPT LOGIN AUTHENTICATION](https://codepen.io/MikeTran/pen/zGLKwj?page=2)
+9. [JAVASCRIPT QUIZ](https://www.sitepoint.com/simple-javascript-quiz/)
 
 ## Web Designing Projects
 
