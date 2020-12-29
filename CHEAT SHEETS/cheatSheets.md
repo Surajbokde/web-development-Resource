@@ -1,8 +1,8 @@
 
 
 # Cheat Sheets
-- [Javascript Cheat Sheet]
 
+- [Javascript Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet):A refrence cheat sheet for Javascript
 
 - [PHP Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/php-cheat-sheet.md):A refrence cheat sheet for PHP
 
