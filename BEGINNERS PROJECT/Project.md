@@ -3,11 +3,12 @@
 1. [A Tribute Page](https://www.codeseek.co/preview/womJzx)-tribute page of someone you admire in your life
 2. [A survey form](https://gist.github.com/loicpw/79acbed5e1451585347e5cd40920d02e)
 3. [Technical documentation page](https://codepen.io/joelredick/pen/EWvNwr)
-4. [Webpage Including Form](https://codepen.io/gregg50/pen/QWwOVKV)-forms in most of the applications so why not practice it earlier
-5. [Restaurant Website](https://jolly-kalam-23776e.netlify.app/restaurantwebsite/)-creating a beautiful webpage for a restaurant
-6. [Parallax website](https://jolly-kalam-23776e.netlify.app/parallaxsite/)-website includes fixed images in the background that you can keep in place
-7. [Photography Site](https://jolly-kalam-23776e.netlify.app/photographysite/#images)-responsive photography site
-8. [Personal Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG)-reate your portfolio and showcase your work samples
+4. [Landing page](https://blog.hubspot.com/website/create-html-landing-page)
+5. [Webpage Including Form](https://codepen.io/gregg50/pen/QWwOVKV)-forms in most of the applications so why not practice it earlier
+6. [Restaurant Website](https://jolly-kalam-23776e.netlify.app/restaurantwebsite/)-creating a beautiful webpage for a restaurant
+7. [Parallax website](https://jolly-kalam-23776e.netlify.app/parallaxsite/)-website includes fixed images in the background that you can keep in place
+8. [Photography Site](https://jolly-kalam-23776e.netlify.app/photographysite/#images)-responsive photography site
+9. [Personal Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG)-reate your portfolio and showcase your work samples
 
 
 ## CSS Projects
