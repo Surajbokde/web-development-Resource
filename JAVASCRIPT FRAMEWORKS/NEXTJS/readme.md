@@ -36,3 +36,8 @@ A well curated list of awesome Next.js resources.
 
 - [The NEXTJS Course](https://nextjscourse.com/)
 - [NextJS - Top courses](https://www.udemy.com/topic/nextjs-p/)
+
+## Community
+
+- [Github](https://github.com/vercel/next.js)
+- [Github discussions for NEXT.JS](https://github.com/vercel/next.js/discussions)
