@@ -27,7 +27,7 @@
 3. [MOUSEOVER ELEMENT](https://codepen.io/b4rb4tron/pen/wjyXNJ)-mouseover effect
 4. [Javascript game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)-Maze Game
 5. [BUILD A JAVASCRIPT CLOCK](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
-
+6. [JAVASCRIPT ANIMATED NAVIGATION TOGGLE](https://codepen.io/neutraltone/pen/vGaOje)
 
 ## Web Designing Projects
 
