@@ -2,7 +2,7 @@
 
 # Cheat Sheets
 
-- [](https://github.com/RehanSaeed/Kubernetes-Cheat-Sheet):A refrence cheat sheet for
+- [Kubernetes Cheat Sheet](https://github.com/RehanSaeed/Kubernetes-Cheat-Sheet):A refrence cheat sheet for Kubernetes
 
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet):A refrence cheat sheet for Docker
 
