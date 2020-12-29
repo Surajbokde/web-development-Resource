@@ -61,3 +61,4 @@ A well curated list of awesome Next.js resources.
 - [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
 - [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
 - [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
+- [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
