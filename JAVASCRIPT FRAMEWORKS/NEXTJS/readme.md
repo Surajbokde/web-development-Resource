@@ -78,3 +78,4 @@ A well curated list of awesome Next.js resources.
 ## Newsletters
 
 - [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+- [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
