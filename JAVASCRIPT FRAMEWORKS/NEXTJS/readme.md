@@ -64,3 +64,8 @@ A well curated list of awesome Next.js resources.
 - [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
 - [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 - [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
+
+## Boilerplates
+
+-[Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
+- [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
