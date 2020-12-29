@@ -79,6 +79,7 @@
 1. [Project ideas with source code](https://www.djangosites.org/with-source/)
 2. [Free Projectz](https://www.freeprojectz.com/django-projects)
 3. [Poll App](https://www.youtube.com/watch?time_continue=15&v=RMTVAIVrdtM&feature=emb_title)
+4. [Quiz App](https://www.youtube.com/watch?v=FxTfkeV6gWQ&feature=emb_title)
 
 
 ## ANGUlARJS Projects
