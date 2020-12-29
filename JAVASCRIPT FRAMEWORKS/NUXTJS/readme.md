@@ -13,6 +13,7 @@
 - Paid Courses
   - [Official Video Courses](https://masteringnuxt.com/?utm_source=nuxt&utm_medium=link&utm_campaign=navbar_link)
   - [The Complete Nuxt.js & Vue.js Course](https://www.udemy.com/course/the-complete-nuxtjs-vuejs-course-self-promo-app/)
+  - [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
 
 ## Modules
 
