@@ -70,3 +70,4 @@ A well curated list of awesome Next.js resources.
 -[Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 - [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 - [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+- [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
