@@ -121,4 +121,3 @@
 2. [Beginner Flask Project](https://www.youtube.com/watch?v=xjHEcmjlD-Y)-YouTube Video
 
 
-## 
