@@ -42,7 +42,7 @@
 
 - [React Cheat Sheet](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet.pdf): Basic syntax: import, render method, stateless components, class, rendering methods, conditional rendering.
 
-- [Redux Cheat Sheet](https://devhints.io/redux)
+- [Redux Cheat Sheet](https://devhints.io/redux):A reference cheat sheet for Redux
 
 - [Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
 
