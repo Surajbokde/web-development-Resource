@@ -9,6 +9,11 @@
 - [API Reference](https://nuxtjs.org/api)
 - [Release Notes](https://github.com/nuxt/nuxt.js/releases)
 
+## Video Tutorials 
+- Paid Courses
+  - [Official Video Courses](https://masteringnuxt.com/?utm_source=nuxt&utm_medium=link&utm_campaign=navbar_link)
+  - [The Complete Nuxt.js & Vue.js Course](https://www.udemy.com/course/the-complete-nuxtjs-vuejs-course-self-promo-app/)
+
 ## Modules
 
 Discover the full list of Nuxt modules on https://modules.nuxtjs.org
@@ -23,7 +28,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ## Github Resources
 - [Official GitHub Repo](https://github.com/nuxt/nuxt.js) 
-- [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
 
 ## Tools
 
