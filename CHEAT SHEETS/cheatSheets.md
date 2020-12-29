@@ -2,7 +2,7 @@
 
 # Cheat Sheets
 
-- [PHP Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/php-cheat-sheet.md)
+- [PHP Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/php-cheat-sheet.md):A refrence cheat sheet for PHP
 
 - [Webpack Cheat Sheet](https://devhints.io/webpack):A refrence cheat sheet for Webpack
 
