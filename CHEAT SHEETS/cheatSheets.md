@@ -2,7 +2,7 @@
 
 # Cheat Sheets
 
-- [](https://www.gatsbyjs.com/docs/cheat-sheet/)
+- [Gatsbyjs Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/)
 
 - [Javascript Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet):A refrence cheat sheet for Javascript
 
