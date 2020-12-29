@@ -52,3 +52,4 @@ A well curated list of awesome Next.js resources.
 ## Videos
 
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
+- [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
