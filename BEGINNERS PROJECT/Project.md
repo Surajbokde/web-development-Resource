@@ -16,6 +16,7 @@
 
 1. [Sweet scroll](https://projects.raspberrypi.org/en/projects/sweet-scroll)- how to make background content on a web page move at a different speed to the foreground content
 2. [Bird watch](https://projects.raspberrypi.org/en/projects/cd-sebento-htmlcss-1)-Most Beginner Friendly
+3. [CSS 3D Solar System](https://codepen.io/juliangarnier/pen/idhuG)
 
 
 ## JS Projects
