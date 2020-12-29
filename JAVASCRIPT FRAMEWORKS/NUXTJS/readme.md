@@ -9,7 +9,7 @@
 - [API Reference](https://nuxtjs.org/api)
 - [Release Notes](https://github.com/nuxt/nuxt.js/releases)
 
-## Beginner Tutorials
+## Beginner Tutorials and Articles
 - [Build A Progressive Web Application With Nuxt.js](https://scotch.io/tutorials/build-a-progressive-web-application-with-nuxtjs?utm_source=devglan)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Create Awesome Vue.js Apps With Nuxt.js](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js)
