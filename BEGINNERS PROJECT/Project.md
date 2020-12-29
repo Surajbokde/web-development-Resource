@@ -124,3 +124,8 @@
 
 * [Weather App using Flask](https://www.youtube.com/watch?v=lWA0GgUN8kg)
 * [Portfolio Website using Flask](https://www.youtube.com/watch?v=SSoJvyyvYpA)
+* [Feedback Form using Flask](https://www.youtube.com/watch?v=w25ea_I89iM)
+* [Blog App using Flask](https://www.youtube.com/watch?v=XHGpPCYmPvI)
+* [Full Stack Social Network App](https://www.youtube.com/watch?v=-FWuNnCe73g&t=5s)
+* [Rest API with Flask](https://www.youtube.com/watch?v=PTZiDnuC86g&t=128s)
+* [Deploy Machine Learning Models using Flask](https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66)
