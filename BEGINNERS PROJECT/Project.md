@@ -120,4 +120,7 @@
 1. [Part1](https://www.youtube.com/watch?v=8Y6mWhcdSUM) [Part2](https://www.youtube.com/watch?v=hrRue5Rt6Is) -YouTube (Build a chat App)
 2. [Beginner Flask Project](https://www.youtube.com/watch?v=xjHEcmjlD-Y)-YouTube Video
 
+## FLASK
 
+* [Weather App using Flask](https://www.youtube.com/watch?v=lWA0GgUN8kg)
+* [Portfolio Website using Flask](https://www.youtube.com/watch?v=SSoJvyyvYpA)
