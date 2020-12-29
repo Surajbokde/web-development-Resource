@@ -9,6 +9,17 @@
 - [API Reference](https://nuxtjs.org/api)
 - [Release Notes](https://github.com/nuxt/nuxt.js/releases)
 
+## Beginner Tutorials
+- [Build A Progressive Web Application With Nuxt.js](https://scotch.io/tutorials/build-a-progressive-web-application-with-nuxtjs?utm_source=devglan)
+- [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
+- [Create Awesome Vue.js Apps With Nuxt.js](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js)
+- [Send Emails through Nuxt.js](https://blog.lichter.io/posts/sending-emails-through-nuxtjs?ref=awesome-nuxt)
+- [Change the Nuxt.js server error page](https://blog.lichter.io/posts/change-the-nuxtjs-server-error-page?ref=awesome-nuxt)
+- [Building a Personal Site with Nuxt.js](https://medium.com/@kenrogers/building-a-personal-site-with-nuxt-js-96e5703079)
+- [Debugging Nuxt.js with Visual Studio Code](https://medium.com/@marshallswain/debugging-nuxt-js-with-visual-studio-code-724920140b8f)
+- [Build Vue.js Apps with the Vue-CLI and Nuxt.js](https://egghead.io/lessons/vue-build-vue-js-apps-with-the-vue-cli-and-nuxt-js)
+
+
 ## Video Tutorials 
 - Paid Courses
   - [Official Video Courses](https://masteringnuxt.com/?utm_source=nuxt&utm_medium=link&utm_campaign=navbar_link)
