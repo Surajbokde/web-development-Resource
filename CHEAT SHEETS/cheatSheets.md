@@ -2,7 +2,7 @@
 
 # Cheat Sheets
 
-- [ES6 Cheat Sheet](https://gist.github.com/vasco3/22b09ef0ca5e0f8c5996):
+- [ES6 Cheat Sheet](https://gist.github.com/vasco3/22b09ef0ca5e0f8c5996):A refrence cheat sheet for ES6
 
 - [Gatsbyjs Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/):A refrence cheat sheet for Gatsbyjs
 
