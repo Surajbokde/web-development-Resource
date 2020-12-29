@@ -26,6 +26,7 @@
 2. [My To-Do List](https://projects.raspberrypi.org/en/projects/cd-intermediate-javascript-sushi)-show you how to make a to-do list web app in Javascript
 3. [MOUSEOVER ELEMENT](https://codepen.io/b4rb4tron/pen/wjyXNJ)-mouseover effect
 4. [Javascript game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)-Maze Game
+5. [BUILD A JAVASCRIPT CLOCK](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
 
 
 ## Web Designing Projects
