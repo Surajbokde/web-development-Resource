@@ -20,3 +20,14 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
 - [Discord](https://discordapp.com/invite/VApZF5W)
 - [Telegram, Russian community](https://t.me/nuxtjs_ru)
+
+## Github Resources
+- [Official GitHub Repo](https://github.com/nuxt/nuxt.js) 
+- [Awesome Nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
+## Tools
+
+- [nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for Nuxt.js.
+- [acidjazz/aeonian](https://github.com/acidjazz/aeonian) - Automate the deployment of your Nuxt.js project on AWS S3 + CloudFront.
+- [nuxt-memwatch](https://github.com/pimlie/nuxt-memwatch) - Quickly watch real-time memory stats of your Nuxt app.
+- [create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Official scaffolding tool for Nuxt.js projects. Create a Nuxt.js project in seconds.
