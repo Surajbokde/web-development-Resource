@@ -51,12 +51,12 @@ Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports 
 
 * Code autocompletion - snippets and macros
 * Can be tweaked to boost productivity
-Enhanced pane management
-Go to definition
-Go to symbol
-Multiple selections
-Command palette
-Split editing
-Instant project switch
-Customizable key bindings, menus, snippets, and more
+* Enhanced pane management
+* Go to definition
+* Go to symbol
+* Multiple selections
+* Command palette
+* Split editing
+* Instant project switch
+* Customizable key bindings, menus, snippets, and more
 
