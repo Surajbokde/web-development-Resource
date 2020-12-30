@@ -158,7 +158,7 @@ NetBeans is a free, easy-to-use IDE that works well with JavaScript, HTML, PHP, 
 
 Created for web designers by web designers (FWDBWD?), Brackets is a powerful, but lightweight editor that comes with a set of great visual tools and preprocessor supports that allow for easy designing in the browser. The open-source project is free of charge and has a thriving community that is always there to lend a hand. The iDE offers live HTML, CSS, and JavaScript coding and supports programming in Perl, Ruby, Java, Python, and many other languages.
 
-
+##### Features include:
 
 
 
