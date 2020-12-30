@@ -81,5 +81,17 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 
 ##### Features include:
 
+* Test runner UI
+* Code coverage
+* Git integration
+* Supports multiple build systems
+* Extensive database editor and UML designer
+* Supports Google App Engine, Grails, GWT
+* Deployment and debugging tools for most application servers
+* Intelligent text editors for HTML, CSS, and Java
+* Integrated version control
+*Automates repetitive programming tasks
+* Advanced code completion
+* Built-in static code analyzers
 
 
