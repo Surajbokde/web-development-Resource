@@ -66,5 +66,11 @@ Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports 
 
 PyCharm is a decent free IDE for web development in a number of languages, including Python, CSS, HTML, JavaScript, Node.js, and more. The IDE is compatible with Mac, Windows, and Linux and has a paid sister software you can purchase if you’d like something more reliable. According to some users, the free version of PyCharm can be buggy, especially the autocomplete feature.
 
+##### Features include:
+
+* Easy integration with Git, Mercurial, and SVN
+* Customizable interface with VIM emulation
+* JavaScript, Python, and Django debuggers,
+* Supports Google App Engine
 
 
