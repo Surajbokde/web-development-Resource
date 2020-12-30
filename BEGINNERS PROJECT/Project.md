@@ -1,17 +1,23 @@
 ## HTML Projects
 
 1. [A Tribute Page](https://www.codeseek.co/preview/womJzx)-tribute page of someone you admire in your life
-2. [Webpage Including Form](https://codepen.io/gregg50/pen/QWwOVKV)-forms in most of the applications so why not practice it earlier
-3. [Restaurant Website](https://jolly-kalam-23776e.netlify.app/restaurantwebsite/)-creating a beautiful webpage for a restaurant
-4. [Parallax website](https://jolly-kalam-23776e.netlify.app/parallaxsite/)-website includes fixed images in the background that you can keep in place
-5. [Photography Site](https://jolly-kalam-23776e.netlify.app/photographysite/#images)-responsive photography site
-6. [Personal Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG)-reate your portfolio and showcase your work samples
+2. [A survey form](https://gist.github.com/loicpw/79acbed5e1451585347e5cd40920d02e)
+3. [Technical documentation page](https://codepen.io/joelredick/pen/EWvNwr)
+4. [Landing page](https://blog.hubspot.com/website/create-html-landing-page)
+5. [Music store page](https://code-projects.org/online-music-gallery-using-html-css/)
+6. [Webpage Including Form](https://codepen.io/gregg50/pen/QWwOVKV)-forms in most of the applications so why not practice it earlier
+7. [Restaurant Website](https://jolly-kalam-23776e.netlify.app/restaurantwebsite/)-creating a beautiful webpage for a restaurant
+8. [Parallax website](https://jolly-kalam-23776e.netlify.app/parallaxsite/)-website includes fixed images in the background that you can keep in place
+9. [Photography Site](https://jolly-kalam-23776e.netlify.app/photographysite/#images)-responsive photography site
+10. [Personal Portfolio](https://codepen.io/freeCodeCamp/full/zNBOYG)-reate your portfolio and showcase your work samples
 
 
 ## CSS Projects
 
 1. [Sweet scroll](https://projects.raspberrypi.org/en/projects/sweet-scroll)- how to make background content on a web page move at a different speed to the foreground content
 2. [Bird watch](https://projects.raspberrypi.org/en/projects/cd-sebento-htmlcss-1)-Most Beginner Friendly
+3. [CSS 3D Solar System](https://codepen.io/juliangarnier/pen/idhuG)
+4. [CSS 3D Hartwig chess set ](https://codepen.io/juliangarnier/pen/BsIih)
 
 
 ## JS Projects
@@ -20,7 +26,12 @@
 2. [My To-Do List](https://projects.raspberrypi.org/en/projects/cd-intermediate-javascript-sushi)-show you how to make a to-do list web app in Javascript
 3. [MOUSEOVER ELEMENT](https://codepen.io/b4rb4tron/pen/wjyXNJ)-mouseover effect
 4. [Javascript game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)-Maze Game
-
+5. [BUILD A JAVASCRIPT CLOCK](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
+6. [JAVASCRIPT ANIMATED NAVIGATION TOGGLE](https://codepen.io/neutraltone/pen/vGaOje)
+7. [JAVASCRIPT MAP](https://codepen.io/aomyers/pen/LWOwpR)
+8. [JAVASCRIPT LOGIN AUTHENTICATION](https://codepen.io/MikeTran/pen/zGLKwj?page=2)
+9. [JAVASCRIPT QUIZ](https://www.sitepoint.com/simple-javascript-quiz/)
+10. [SLIDING JAVASCRIPT DRAWERS](https://github.com/oncebot/pushbar.js)
 
 ## Web Designing Projects
 
@@ -67,6 +78,8 @@
 
 1. [Project ideas with source code](https://www.djangosites.org/with-source/)
 2. [Free Projectz](https://www.freeprojectz.com/django-projects)
+3. [Poll App](https://www.youtube.com/watch?time_continue=15&v=RMTVAIVrdtM&feature=emb_title)
+4. [Quiz App](https://www.youtube.com/watch?v=FxTfkeV6gWQ&feature=emb_title)
 
 
 ## ANGUlARJS Projects
@@ -114,5 +127,12 @@
 1. [Part1](https://www.youtube.com/watch?v=8Y6mWhcdSUM) [Part2](https://www.youtube.com/watch?v=hrRue5Rt6Is) -YouTube (Build a chat App)
 2. [Beginner Flask Project](https://www.youtube.com/watch?v=xjHEcmjlD-Y)-YouTube Video
 
+## FLASK
 
-## 
+* [Weather App using Flask](https://www.youtube.com/watch?v=lWA0GgUN8kg)
+* [Portfolio Website using Flask](https://www.youtube.com/watch?v=SSoJvyyvYpA)
+* [Feedback Form using Flask](https://www.youtube.com/watch?v=w25ea_I89iM)
+* [Blog App using Flask](https://www.youtube.com/watch?v=XHGpPCYmPvI)
+* [Full Stack Social Network App](https://www.youtube.com/watch?v=-FWuNnCe73g&t=5s)
+* [Rest API with Flask](https://www.youtube.com/watch?v=PTZiDnuC86g&t=128s)
+* [Deploy Machine Learning Models using Flask](https://towardsdatascience.com/deploying-a-deep-learning-model-on-heroku-using-flask-and-python-769431335f66)
