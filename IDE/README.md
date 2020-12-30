@@ -31,4 +31,6 @@ Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and 
 
 <img align="center" alt="Atom" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 
+Atom is a fantastic IDE for JavaScript programming. Because it’s created by GitHub, it means that there is a thriving community to turn to if you run into any issues. It works with Mac, Windows, and Linux and ships with a package manager for installing new packages. The app is highly customizable, but can also be used well without configuring or customizing anything.
+
 
