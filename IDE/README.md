@@ -98,3 +98,6 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/webide.ico_HA9tBL0.png" />
 
+PHPStorm is a great coding environment for those who work with PHP frameworks like WordPress, Drupal, Magento, and others. It has an interface that is both great to look at and easy-to-use. It’s compatible with Mac, Windows, and Linux and supports a number of different front-end programming languages like HTML5, CSS, JavaScript and more. The IDE can be customized with themes and extensions to enhance your programming experience.
+
+
