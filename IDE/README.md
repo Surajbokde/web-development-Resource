@@ -77,4 +77,6 @@ PyCharm is a decent free IDE for web development in a number of languages, inclu
 
 <img align="center" alt="GIF" width="120px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/zl48EuhC.jpg" />
 
+IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. One of the best features of this IDE is its ability to automatically add handy tools that are relevant to the context. As well as supporting Java languages, it supports HTML, PHP, Python, Ruby, and more. It’s free but has a paid counterpart with a fuller suite of development tools.
+
 
