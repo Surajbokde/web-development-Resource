@@ -174,6 +174,8 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/RJ-TextEd-Top-10-IDEs-for-Web-Development-Edureka-300x300.png" />
 
+Released as freeware, RJ TextEd is a full-featured text and source editor with Unicode support. It supports JavaScript, PHP, ASP, HTML, and CSS.
+
 
 
 
