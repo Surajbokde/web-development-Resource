@@ -41,4 +41,7 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 * Very customizable/hackable
 * Package manager
 
+#### 3. Sublime Text 3
+
+<img align="center" alt="Sublime Text 3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime text 3/sublime text 3.png" />
 
