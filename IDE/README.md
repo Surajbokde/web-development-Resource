@@ -170,6 +170,9 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 * Fast automatic code completion feature
 * Plenty of useful extensions available (e.g Autoprefixer, code-folding, markdown preview, smart highlighting, and snippets)
 
+#### 10. RJ TextEd
+
+
 
 
 
