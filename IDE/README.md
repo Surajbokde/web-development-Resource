@@ -160,6 +160,16 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 
 ##### Features include:
 
+* Inline editors
+* Live preview
+* Split view
+* Preprocessor Support
+* Quick edit and Live Highlight with LESS and SCSS files
+* Easy to use UI
+* Integration with Theseus (an open-source JavaScript debugger)
+* Fast automatic code completion feature
+* Plenty of useful extensions available (e.g Autoprefixer, code-folding, markdown preview, smart highlighting, and snippets)
+
 
 
 
