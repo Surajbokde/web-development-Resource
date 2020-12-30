@@ -94,4 +94,5 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 * Advanced code completion
 * Built-in static code analyzers
 
+#### 6. PHPStorm
 
