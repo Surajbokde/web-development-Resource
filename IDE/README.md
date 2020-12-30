@@ -134,6 +134,8 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 * Cross-platform features
 * Powerful navigation
 * Parameter hints
+* Seamless tool integration
+* Git integration
 
 
 
