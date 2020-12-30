@@ -143,4 +143,8 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 
 NetBeans is a free, easy-to-use IDE that works well with JavaScript, HTML, PHP, C, and C++. As well as supporting a number of different programming languages, it also is available in English, Brazillian Portuguese, Japanese, Russian, and Simplified Chinese. NetBeans isn’t ideal for those just starting programming, as the package can be tricky to set up.
 
+##### Features include:
+
+
+
 
