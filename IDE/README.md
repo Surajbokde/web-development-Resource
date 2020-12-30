@@ -27,3 +27,8 @@ Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and 
 * Intellisense, which provides smart completions based on variable types
 * Customizable themes
 
+#### 2. Atom by GitHub
+
+<img align="center" alt="Atom" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+
+
