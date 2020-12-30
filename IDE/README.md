@@ -178,6 +178,24 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 
 ##### Features include:
 
+Auto-completion
+Code-folding
+Column mode
+Multi-edit and multi-select
+Document map
+Annotation bar
+Advanced sorting
+ASCII and binary files
+CSS and HTML wizards
+Highlighting colors in CSS/SASS/LESS.
+Advanced color hint that can convert between color formats.
+Dockable panels.
+FTP and SFTP client with synchronization.
+File explorer, text clips, code explorer, project manager.
+Convert between code pages, Unicode formats and text formats.
+Unicode and ANSI code page detection.
+
+
 
 
 
