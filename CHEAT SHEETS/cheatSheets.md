@@ -2,6 +2,40 @@
 
 # Cheat Sheets
 
+- [Kubernetes Cheat Sheet](https://github.com/RehanSaeed/Kubernetes-Cheat-Sheet):A refrence cheat sheet for Kubernetes
+
+- [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet):A refrence cheat sheet for Docker
+
+- [ES6 Cheat Sheet](https://gist.github.com/vasco3/22b09ef0ca5e0f8c5996):A refrence cheat sheet for ES6
+
+- [Gatsbyjs Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/):A refrence cheat sheet for Gatsbyjs
+
+- [Javascript Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet):A refrence cheat sheet for Javascript
+
+- [PHP Cheat Sheet](https://github.com/okeeffed/cheat-sheets/blob/master/php-cheat-sheet.md):A refrence cheat sheet for PHP
+
+- [Webpack Cheat Sheet](https://devhints.io/webpack):A refrence cheat sheet for Webpack
+
+- [TypeScript Cheat Sheet](https://devhints.io/typescript):A refrence cheat sheet for TypeScript
+
+- [TailwindCSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet):A refrence cheat sheet for Tailwindcss
+
+- [SASS Cheat Sheet](https://devhints.io/sass):A refrence cheat sheet for SASS
+
+- [Redis Cheat Sheet](https://gist.github.com/LeCoupa/1596b8f359ad8812c7271b5322c30946):A refrence cheat sheet for Redis
+
+- [Bootstrap Cheat Sheet](https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/):A reference cheat sheet for Bootstrap
+
+- [Nodejs Cheat Sheet](https://gist.github.com/LeCoupa/985b82968d8285987dc3):A reference cheat sheet for Nodejs
+
+- [Expressjs Cheat Sheet](https://github.com/azat-co/cheatsheets/tree/master/express4):A reference cheat sheet for Expressjs
+
+- [MEAN Cheat Sheet](https://dev.to/thamaraiselvam/mean-stack-cheat-sheet-5a1n):A reference cheat sheet for MEAN
+
+- [MongoDB Cheat Sheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6):A refernce cheat sheet for MongoDB
+
+- [Firebase Cheat Sheet](https://gist.github.com/victorbruce/0e6845010e7c4b24ddbccbe58094c57f):A reference cheat sheet for Firebase
+
 - [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
 
 - [DevHints](https://devhints.io/): A great resource of cheat sheets for a wide range of technologies.
@@ -30,7 +64,7 @@
 
 - [React Cheat Sheet](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet.pdf): Basic syntax: import, render method, stateless components, class, rendering methods, conditional rendering.
 
-- [Redux Cheat Sheet](https://devhints.io/redux)
+- [Redux Cheat Sheet](https://devhints.io/redux):A reference cheat sheet for Redux
 
 - [Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
 
