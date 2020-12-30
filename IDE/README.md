@@ -124,6 +124,16 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 
 ##### Features include:
 
+* Intelligent code completion
+* Multi-line todos
+* Automatic refactoring
+* Debugger
+* Syntax error detection
+* Unit testing
+* Integration with VCS
+* Cross-platform features
+* Powerful navigation
+* Parameter hints
 
 
 
