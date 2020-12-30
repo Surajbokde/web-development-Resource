@@ -96,3 +96,5 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 
 #### 6. PHPStorm
 
+<img align="center" alt="GIF" width="120px" src="" />
+
