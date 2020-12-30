@@ -7,13 +7,11 @@ An integrated development environment is a software application that provides co
 
 ### Here is the list of best web development IDE:
 
-<div align="center">
 
 #### 1. Visual Studio Code
 
 <img align="center" alt="Visual Studio Code" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and voted the most popular in a 2018 survey by the State of JS, Visual Studio Code is a powerful source code editor that comes with a range of tools for JavaScript development. The IDE comes with built-in support for JavaScript, TypeScript, and Node.js. It also has plenty of extensions for other languages (such as C++, C#, Python, and PHP). Developed by Windows, Visual Studio Code is great for new programmers as it explains everything from HTML tags to syntax and error handling.
-</div>
-<div align="center">
 
 
