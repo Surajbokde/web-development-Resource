@@ -102,3 +102,18 @@ PHPStorm is a great coding environment for those who work with PHP frameworks li
 
 ##### Features include
 
+* Visual debugger
+* Automatic code completion
+* Error highlighting
+* Remote deployment
+* Databases/SQL
+* HTML, CSS, and JavaScript editor
+* Command-line tools
+* Smart code navigator
+* Refactoring and debugging tools
+* Docker
+* REST Client
+* Composer
+* Unit testing
+
+
