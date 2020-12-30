@@ -14,4 +14,16 @@ An integrated development environment is a software application that provides co
 
 Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and voted the most popular in a 2018 survey by the State of JS, Visual Studio Code is a powerful source code editor that comes with a range of tools for JavaScript development. The IDE comes with built-in support for JavaScript, TypeScript, and Node.js. It also has plenty of extensions for other languages (such as C++, C#, Python, and PHP). Developed by Windows, Visual Studio Code is great for new programmers as it explains everything from HTML tags to syntax and error handling.
 
+##### Features include:
+
+* Syntax highlighting
+* Autocomplete with IntelliSense based on variable types
+* Function definitions
+* Imported modules
+* The ability to debug code from the
+* Custom hotkeys
+* Templates and boilerplates
+* Integrating with GitHub
+* Intellisense, which provides smart completions based on variable types
+* Customizable themes
 
