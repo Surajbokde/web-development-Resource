@@ -47,4 +47,16 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 
 Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports a number of different programming and markup languages, including Python, C, HTML, JavaScript, and CSS. The interface is known to be clutter-free and fast.
 
+##### Features include:
+
+* Code autocompletion - snippets and macros
+* Can be tweaked to boost productivity
+Enhanced pane management
+Go to definition
+Go to symbol
+Multiple selections
+Command palette
+Split editing
+Instant project switch
+Customizable key bindings, menus, snippets, and more
 
