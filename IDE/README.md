@@ -172,6 +172,9 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 
 #### 10. RJ TextEd
 
+<img align="center" alt="GIF" width="100px" src="" />
+
+
 
 
 
