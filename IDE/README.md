@@ -145,6 +145,13 @@ NetBeans is a free, easy-to-use IDE that works well with JavaScript, HTML, PHP, 
 
 ##### Features include:
 
+* Line indentation
+* Word and bracket matching
+* Source code highlighting
+* Code refactoring
+* Coding tips, templates, and generators available
+* Modifiable workspace
+
 
 
 
