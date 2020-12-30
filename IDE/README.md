@@ -137,5 +137,6 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 * Seamless tool integration
 * Git integration
 
+#### 8. NetBeans
 
 
