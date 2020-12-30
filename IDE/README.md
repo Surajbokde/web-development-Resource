@@ -43,5 +43,5 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 
 #### 3. Sublime Text 3
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
