@@ -176,6 +176,7 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 
 Released as freeware, RJ TextEd is a full-featured text and source editor with Unicode support. It supports JavaScript, PHP, ASP, HTML, and CSS.
 
+##### Features include:
 
 
 
