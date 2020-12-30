@@ -139,4 +139,5 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 
 #### 8. NetBeans
 
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/download%20(3).png" />
 
