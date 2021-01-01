@@ -205,6 +205,10 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/260px-Cloud9IDE.png" />
 
+Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with an AWS account. AWS Cloud is great for developing JavaScript programs – it also supports development for C, C++, Go, Node.js, Perl, PHP, Python, and Ruby projects.
+
+
+
 
 
 
