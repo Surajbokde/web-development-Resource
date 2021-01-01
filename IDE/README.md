@@ -224,6 +224,9 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/bluefish.png" />
 
+Bluefish is a cross-platform, lightweight IDE that can be used with Windows, macOS, Solaris, and many Linux distros. It supports a variety of different programming languages, including HTML, CSS, Perl, SQL, Ruby, PHP, Python, and more.
+
+
 
 
 
