@@ -250,7 +250,7 @@ Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is 
 
 #### 14. Code::Blocks
 
-<img align="center" alt="GIF" width="400px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/code-blocks.jpg" />
+<img align="center" alt="GIF" width="300px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/code-blocks.jpg" />
 
 Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used in Windows, Solaris, and various Linux distros. It supports programming in C, C++, PHP, HTML, and JavaScript. The open-source IDE ships with multiple compilers, including GCC, Microsoft Visual C++, Digital Mars, amongst others.
 
@@ -266,7 +266,7 @@ Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used
 
 Light table is a “new” IDE. It has a reactive work surface which enables the creation and exploration of apps and programs. With Light Table, you can move things around, delete clutter, and move information to places you need it the most. The unique IDE runs on Linux, Mac, and Windows.
 
-<img align="center" alt="GIF" width="400px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/5877010.png" />
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/5877010.png" />
 
 
 
