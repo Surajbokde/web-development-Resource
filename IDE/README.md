@@ -3,7 +3,7 @@
 
 An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
-<img align="center" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/large.png" width="500px" />
+<img align="center" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/large.png" width="800px" />
 
 
 # Best Web Development IDE
