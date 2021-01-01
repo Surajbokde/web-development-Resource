@@ -222,6 +222,8 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 
 #### 12. Bluefish
 
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/bluefish.png" />
+
 
 
 
