@@ -268,6 +268,12 @@ Light table is a “new” IDE. It has a reactive work surface which enables the
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/5877010.png" />
 
+##### Features include:
 
-
-
+* Embedding anything
+* Customizable
+* PrintIn Watches
+* Inline evaluation
+* Plugin manager
+* Language documentation pane
+* Autocomplete
