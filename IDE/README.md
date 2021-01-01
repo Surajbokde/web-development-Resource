@@ -239,6 +239,3 @@ Bluefish is a cross-platform, lightweight IDE that can be used with Windows, mac
 
 Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is a great programming environment for JavaScript which allows you to work with different frameworks and languages. The IDE works well across Mac, Windows, and Linux and is a great way to test the Komodo platform before committing to Komodo IDE.
 
-
-
-
