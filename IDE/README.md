@@ -228,8 +228,10 @@ Bluefish is a cross-platform, lightweight IDE that can be used with Windows, mac
 
 ##### Features include:
 
-
-
+* Syntax highlighting
+* Code auto-completion
+* Auto-recovery
+* Code folding
 
 
 
