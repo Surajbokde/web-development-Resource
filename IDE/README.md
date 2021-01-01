@@ -233,6 +233,11 @@ Bluefish is a cross-platform, lightweight IDE that can be used with Windows, mac
 * Auto-recovery
 * Code folding
 
+#### 13. Komodo Edit
+
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/komodo-ide-blog-hero-1200x900.png" />
+
+
 
 
 
