@@ -209,8 +209,16 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 
 ##### Features include:
 
-
-
+* An inbuilt terminal that supports npm and basic Unix commands
+* Code completion
+* Real-time language analysis
+* Simultaneous editing
+* Variable/function name refactoring
+* Syntax highlighting
+* Functionality can be extended by using plugins
+* Variety of themes to customize the look of the IDE
+* Tabbed file management
+* Debugger
 
 
 
