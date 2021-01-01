@@ -264,5 +264,10 @@ Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used
 
 #### 15. Light Table
 
+Light table is a “new” IDE. It has a reactive work surface which enables the creation and exploration of apps and programs. With Light Table, you can move things around, delete clutter, and move information to places you need it the most. The unique IDE runs on Linux, Mac, and Windows.
+
+<img align="center" alt="GIF" width="400px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/5877010.png" />
+
+
 
 
