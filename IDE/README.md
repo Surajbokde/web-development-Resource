@@ -254,5 +254,14 @@ Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is 
 
 Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used in Windows, Solaris, and various Linux distros. It supports programming in C, C++, PHP, HTML, and JavaScript. The open-source IDE ships with multiple compilers, including GCC, Microsoft Visual C++, Digital Mars, amongst others.
 
+##### Features include:
+
+* Code refactoring
+* Syntax highlighting
+* Code folding
+* Auto code completion
+* Customizable – plugins and extension support available
+
+
 
 
