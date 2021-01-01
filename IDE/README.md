@@ -3,6 +3,9 @@
 
 An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
+<img align="center" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/220px-Sublime_text_logo.png" width="100px" />
+
+
 # Best Web Development IDE
 
 ### Here is the list of best web development IDE:
@@ -43,8 +46,7 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 
 #### 3. Sublime Text 3
 
-  <img align="center" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/220px-Sublime_text_logo.png" width="100px" />
-
+cc
 Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports a number of different programming and markup languages, including Python, C, HTML, JavaScript, and CSS. The interface is known to be clutter-free and fast.
 
 ##### Features include:
