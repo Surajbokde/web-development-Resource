@@ -26,3 +26,5 @@
 * [Curran Kelleher](https://www.youtube.com/watch?v=8jvoTV54nXw)
 
 #### Online Course
+
+* [D3.js Data Visualization Fundamentals - Hands On](https://www.udemy.com/course/d3jsbasics/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Yjy2kH2TZRHSf3vg0SwVFQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
