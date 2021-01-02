@@ -46,6 +46,8 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 * Very customizable/hackable
 * Package manager
 
+- [Downloads](https://atom.io/)
+
 #### 3. Sublime Text 3
 
 cc
