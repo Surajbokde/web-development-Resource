@@ -66,6 +66,9 @@ MongoDB Basics- written by Peter Membrey.
 
 MongoDB: The Definitive Guide- by Kristina Chodorow
 
+## Mongoose over MongoDB Native Driver
+ - [Mongoose is better than Mongo Native Driver](https://medium.com/better-programming/mongoose-vs-the-mongodb-node-driver-7dc59f00a5dd)
+
 ## Projects
 -  [Project1](https://www.youtube.com/watch?v=8Y6mWhcdSUM) 
 -  [Project2](https://www.youtube.com/watch?v=xjHEcmjlD-Y) 
