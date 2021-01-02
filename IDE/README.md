@@ -3,6 +3,9 @@
 
 An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
+<img align="center" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/large.png" width="800px" />
+
+
 # Best Web Development IDE
 
 ### Here is the list of best web development IDE:
@@ -43,8 +46,7 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 
 #### 3. Sublime Text 3
 
-  <img align="center" alt="GIF" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/220px-Sublime_text_logo.png" width="100px" />
-
+cc
 Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports a number of different programming and markup languages, including Python, C, HTML, JavaScript, and CSS. The interface is known to be clutter-free and fast.
 
 ##### Features include:
@@ -199,9 +201,79 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 * HTML validation, format, and repair.
 * Tools available like syntax editor, color picker, charmap
 
+#### 11. AWS Cloud9
 
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/260px-Cloud9IDE.png" />
 
+Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with an AWS account. AWS Cloud is great for developing JavaScript programs – it also supports development for C, C++, Go, Node.js, Perl, PHP, Python, and Ruby projects.
 
+##### Features include:
 
+* An inbuilt terminal that supports npm and basic Unix commands
+* Code completion
+* Real-time language analysis
+* Simultaneous editing
+* Variable/function name refactoring
+* Syntax highlighting
+* Functionality can be extended by using plugins
+* Variety of themes to customize the look of the IDE
+* Tabbed file management
+* Debugger
 
+#### 12. Bluefish
 
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/bluefish.png" />
+
+Bluefish is a cross-platform, lightweight IDE that can be used with Windows, macOS, Solaris, and many Linux distros. It supports a variety of different programming languages, including HTML, CSS, Perl, SQL, Ruby, PHP, Python, and more.
+
+##### Features include:
+
+* Syntax highlighting
+* Code auto-completion
+* Auto-recovery
+* Code folding
+
+#### 13. Komodo Edit
+
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/komodo-ide-blog-hero-1200x900.png" />
+
+Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is a great programming environment for JavaScript which allows you to work with different frameworks and languages. The IDE works well across Mac, Windows, and Linux and is a great way to test the Komodo platform before committing to Komodo IDE.
+
+##### Features include:
+
+* Customizable UI (split view and multi-window editing)
+* Python and PHP code profiling
+* Code collaboration for multi-user editing
+* Autocomplete
+* Refactoring
+* Many available add ons
+
+#### 14. Code::Blocks
+
+<img align="center" alt="GIF" width="300px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/code-blocks.jpg" />
+
+Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used in Windows, Solaris, and various Linux distros. It supports programming in C, C++, PHP, HTML, and JavaScript. The open-source IDE ships with multiple compilers, including GCC, Microsoft Visual C++, Digital Mars, amongst others.
+
+##### Features include:
+
+* Code refactoring
+* Syntax highlighting
+* Code folding
+* Auto code completion
+* Customizable – plugins and extension support available
+
+#### 15. Light Table
+
+Light table is a “new” IDE. It has a reactive work surface which enables the creation and exploration of apps and programs. With Light Table, you can move things around, delete clutter, and move information to places you need it the most. The unique IDE runs on Linux, Mac, and Windows.
+
+<img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/5877010.png" />
+
+##### Features include:
+
+* Embedding anything
+* Customizable
+* PrintIn Watches
+* Inline evaluation
+* Plugin manager
+* Language documentation pane
+* Autocomplete
