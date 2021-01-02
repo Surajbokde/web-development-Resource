@@ -108,6 +108,9 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 * Advanced code completion
 * Built-in static code analyzers
 
+- [Downloads](https://www.jetbrains.com/idea/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/help/idea/documentation-tool-window.html)
+
 #### 6. PHPStorm
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/webide.ico_HA9tBL0.png" />
