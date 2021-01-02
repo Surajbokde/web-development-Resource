@@ -175,6 +175,9 @@ NetBeans is a free, easy-to-use IDE that works well with JavaScript, HTML, PHP, 
 * Coding tips, templates, and generators available
 * Modifiable workspace
 
+- [Downloads](https://netbeans.org/images_www/v6/download/community/8.2/)
+- [Documentation](https://netbeans.org/kb/index.html)
+
 #### 9. Brackets
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/download%20(3).jpg" />
