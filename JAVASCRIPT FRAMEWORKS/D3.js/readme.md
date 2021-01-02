@@ -14,3 +14,4 @@
 * [TutorialsTeacher](https://www.tutorialsteacher.com/d3js/what-is-d3js)
 * [freeCodeCamp](https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/)
 * [D3 Tutorial(risingstack)](https://blog.risingstack.com/d3-js-tutorial-bar-charts-with-javascript/)
+* [INTRO TO D3.JS](https://square.github.io/intro-to-d3/)
