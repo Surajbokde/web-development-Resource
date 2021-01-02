@@ -68,6 +68,9 @@ Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports 
 * Instant project switch
 * Customizable key bindings, menus, snippets, and more
 
+- [Downloads](https://www.sublimetext.com/3)
+- [Documentation](https://www.sublimetext.com/docs/3/)
+
 #### 4. PyCharm
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/1200px-PyCharm_Logo.svg.png" />
