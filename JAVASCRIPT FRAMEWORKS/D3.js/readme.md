@@ -21,3 +21,4 @@
 * [freeCodeCamp.org](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 * [Let's learn D3.js](https://www.youtube.com/watch?v=C4t6qfHZ6Tw)
 * [Fullstack Academy](https://www.youtube.com/watch?v=_sqqxcRf9hw)
+* [Academind](https://www.youtube.com/watch?v=TOJ9yjvlapY)
