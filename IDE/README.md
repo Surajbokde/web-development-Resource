@@ -133,6 +133,9 @@ PHPStorm is a great coding environment for those who work with PHP frameworks li
 * Composer
 * Unit testing
 
+- [Downloads](https://www.jetbrains.com/phpstorm/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/phpstorm/documentation/)
+
 #### 7. Webstorm
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/download%20(2).jpg" />
