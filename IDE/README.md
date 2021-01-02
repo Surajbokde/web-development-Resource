@@ -17,6 +17,9 @@ An integrated development environment is a software application that provides co
 
 Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and voted the most popular in a 2018 survey by the State of JS, Visual Studio Code is a powerful source code editor that comes with a range of tools for JavaScript development. The IDE comes with built-in support for JavaScript, TypeScript, and Node.js. It also has plenty of extensions for other languages (such as C++, C#, Python, and PHP). Developed by Windows, Visual Studio Code is great for new programmers as it explains everything from HTML tags to syntax and error handling.
 
+- [Downloads](https://code.visualstudio.com/download)
+- [Documentation](https://code.visualstudio.com/docs)
+
 ##### Features include:
 
 * Syntax highlighting
@@ -44,6 +47,9 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 * Very customizable/hackable
 * Package manager
 
+- [Downloads](https://atom.io/)
+- [Documentation](https://atom.io/docs)
+
 #### 3. Sublime Text 3
 
 cc
@@ -62,6 +68,9 @@ Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports 
 * Instant project switch
 * Customizable key bindings, menus, snippets, and more
 
+- [Downloads](https://www.sublimetext.com/3)
+- [Documentation](https://www.sublimetext.com/docs/3/)
+
 #### 4. PyCharm
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/1200px-PyCharm_Logo.svg.png" />
@@ -74,6 +83,9 @@ PyCharm is a decent free IDE for web development in a number of languages, inclu
 * Customizable interface with VIM emulation
 * JavaScript, Python, and Django debuggers,
 * Supports Google App Engine
+
+- [Downloads](https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/pycharm/documentation/)
 
 #### 5. IntelliJ IDEA
 
@@ -95,6 +107,9 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 *Automates repetitive programming tasks
 * Advanced code completion
 * Built-in static code analyzers
+
+- [Downloads](https://www.jetbrains.com/idea/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/help/idea/documentation-tool-window.html)
 
 #### 6. PHPStorm
 
@@ -118,6 +133,9 @@ PHPStorm is a great coding environment for those who work with PHP frameworks li
 * Composer
 * Unit testing
 
+- [Downloads](https://www.jetbrains.com/phpstorm/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/phpstorm/documentation/)
+
 #### 7. Webstorm
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/download%20(2).jpg" />
@@ -139,6 +157,9 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 * Seamless tool integration
 * Git integration
 
+- [Downloads](https://www.jetbrains.com/webstorm/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/help/webstorm/viewing-javascript-reference.html)
+
 #### 8. NetBeans
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/download%20(3).png" />
@@ -153,6 +174,9 @@ NetBeans is a free, easy-to-use IDE that works well with JavaScript, HTML, PHP, 
 * Code refactoring
 * Coding tips, templates, and generators available
 * Modifiable workspace
+
+- [Downloads](https://netbeans.org/images_www/v6/download/community/8.2/)
+- [Documentation](https://netbeans.org/kb/index.html)
 
 #### 9. Brackets
 
@@ -171,6 +195,9 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 * Integration with Theseus (an open-source JavaScript debugger)
 * Fast automatic code completion feature
 * Plenty of useful extensions available (e.g Autoprefixer, code-folding, markdown preview, smart highlighting, and snippets)
+
+- [Downloads](http://brackets.io/#)
+- [Documentation](http://brackets.io/docs/current/modules/document/Document.html)
 
 #### 10. RJ TextEd
 
@@ -201,6 +228,8 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 * HTML validation, format, and repair.
 * Tools available like syntax editor, color picker, charmap
 
+- [Downloads](https://www.rj-texted.se/download.html)
+
 #### 11. AWS Cloud9
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/260px-Cloud9IDE.png" />
@@ -219,6 +248,7 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 * Variety of themes to customize the look of the IDE
 * Tabbed file management
 * Debugger
+
 
 #### 12. Bluefish
 
