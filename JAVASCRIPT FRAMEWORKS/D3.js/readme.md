@@ -41,3 +41,4 @@
 * [planetoftheweb/d3](https://github.com/planetoftheweb/d3)
 * [D3.js-Data-Visualization-Projects](https://github.com/PacktPublishing/D3.js-Data-Visualization-Projects)
 * [d3-analysis](https://github.com/BarboraDoslikova/d3-analysis)
+* [d3](https://github.com/d3/d3)
