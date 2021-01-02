@@ -23,3 +23,4 @@
 * [Fullstack Academy](https://www.youtube.com/watch?v=_sqqxcRf9hw)
 * [Academind](https://www.youtube.com/watch?v=TOJ9yjvlapY)
 * [d3Vienno](https://www.youtube.com/playlist?list=PL6il2r9i3BqH9PmbOf5wA5E1wOG3FT22p)
+* [Curran Kelleher](https://www.youtube.com/watch?v=8jvoTV54nXw)
