@@ -28,3 +28,4 @@
 #### Online Course
 
 * [D3.js Data Visualization Fundamentals - Hands On](https://www.udemy.com/course/d3jsbasics/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Yjy2kH2TZRHSf3vg0SwVFQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+* [Mastering data visualization in D3.js [2020 UPDATE]](https://www.udemy.com/course/masteringd3js/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-IKPh9lRNBdHgjZKCo1hZjw&utm_medium=udemyads&utm_source=aff-campaign)
