@@ -228,6 +228,8 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 * HTML validation, format, and repair.
 * Tools available like syntax editor, color picker, charmap
 
+- [Downloads](https://www.rj-texted.se/download.html)
+
 #### 11. AWS Cloud9
 
 <img align="center" alt="GIF" width="100px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/260px-Cloud9IDE.png" />
@@ -246,6 +248,7 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 * Variety of themes to customize the look of the IDE
 * Tabbed file management
 * Debugger
+
 
 #### 12. Bluefish
 
