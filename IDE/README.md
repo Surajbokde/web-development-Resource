@@ -84,6 +84,9 @@ PyCharm is a decent free IDE for web development in a number of languages, inclu
 * JavaScript, Python, and Django debuggers,
 * Supports Google App Engine
 
+- [Downloads](https://www.jetbrains.com/pycharm/download/#section=windows)
+- [Documentation](https://www.jetbrains.com/pycharm/documentation/)
+
 #### 5. IntelliJ IDEA
 
 <img align="center" alt="GIF" width="120px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/zl48EuhC.jpg" />
