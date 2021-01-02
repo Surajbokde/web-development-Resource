@@ -22,3 +22,4 @@
 * [Let's learn D3.js](https://www.youtube.com/watch?v=C4t6qfHZ6Tw)
 * [Fullstack Academy](https://www.youtube.com/watch?v=_sqqxcRf9hw)
 * [Academind](https://www.youtube.com/watch?v=TOJ9yjvlapY)
+* [d3Vienno](https://www.youtube.com/watch?v=n5NcCoa9dDU)
