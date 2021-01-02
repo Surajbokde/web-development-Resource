@@ -5,3 +5,4 @@
 * [D3.js - Data-Driven Documents](https://d3js.org/)
 * [d3.js](https://strongriley.github.io/d3/api/)
 * [D3.js 4 documentation — DevDocs](https://devdocs.io/d3~4/)
+* [d3: Documentation | Openbase](https://openbase.io/js/d3/documentation)
