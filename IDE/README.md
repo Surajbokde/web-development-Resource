@@ -266,8 +266,8 @@ Bluefish is a cross-platform, lightweight IDE that can be used with Windows, mac
 * Auto-recovery
 * Code folding
 
-- [Downloads]
-- [Documentation]
+- [Downloads](http://bluefish.openoffice.nl/download.html)
+- [Documentation](http://bluefish.openoffice.nl/manual/bk01-toc.html)
 
 #### 13. Komodo Edit
 
