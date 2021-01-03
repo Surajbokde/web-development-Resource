@@ -17,3 +17,8 @@
 - [Wirefy](https://getwirefy.com/)
 - [Style Tiles](http://styletil.es/)
 - [Gridset](https://www.monotype.com/)
+
+### YouTube Videos- 
+
+- [freeCodeCamp.org](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [CodeWithHarry](https://www.youtube.com/watch?v=GeykycZ4Ixs&t=4411s)
