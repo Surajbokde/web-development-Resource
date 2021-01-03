@@ -249,6 +249,9 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 * Tabbed file management
 * Debugger
 
+- [Downloads](https://aws.amazon.com/cloud9/)
+- [Documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
+
 
 #### 12. Bluefish
 
@@ -262,6 +265,9 @@ Bluefish is a cross-platform, lightweight IDE that can be used with Windows, mac
 * Code auto-completion
 * Auto-recovery
 * Code folding
+
+- [Downloads](http://bluefish.openoffice.nl/download.html)
+- [Documentation](http://bluefish.openoffice.nl/manual/bk01-toc.html)
 
 #### 13. Komodo Edit
 
@@ -278,6 +284,9 @@ Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is 
 * Refactoring
 * Many available add ons
 
+- [Downloads](https://www.activestate.com/products/komodo-ide/)
+- [Documentation](https://docs.activestate.com/komodo/12/)
+
 #### 14. Code::Blocks
 
 <img align="center" alt="GIF" width="300px" src="https://github.com/Ayush7614/web-development-Resource/blob/main/IDE/code-blocks.jpg" />
@@ -291,6 +300,9 @@ Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used
 * Code folding
 * Auto code completion
 * Customizable – plugins and extension support available
+
+- [Downloads](http://www.codeblocks.org/downloads)
+- [Documentation](http://wiki.codeblocks.org/index.php/User_documentation)
 
 #### 15. Light Table
 
@@ -307,3 +319,6 @@ Light table is a “new” IDE. It has a reactive work surface which enables the
 * Plugin manager
 * Language documentation pane
 * Autocomplete
+
+- [Downloads](http://lighttable.com/)
+- [Documentation](https://docs.lighttable.com/tutorials/full/)
