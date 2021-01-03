@@ -301,8 +301,8 @@ Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used
 * Auto code completion
 * Customizable – plugins and extension support available
 
-- [Downloads]
-- [Documentation]
+- [Downloads](http://www.codeblocks.org/downloads)
+- [Documentation](http://wiki.codeblocks.org/index.php/User_documentation)
 
 #### 15. Light Table
 
