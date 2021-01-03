@@ -320,5 +320,5 @@ Light table is a “new” IDE. It has a reactive work surface which enables the
 * Language documentation pane
 * Autocomplete
 
-- [Downloads]
-- [Documentation]
+- [Downloads](http://lighttable.com/)
+- [Documentation](https://docs.lighttable.com/tutorials/full/)
