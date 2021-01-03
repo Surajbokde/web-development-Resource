@@ -6,6 +6,12 @@
 - [freeCodeCamp.org](https://www.freecodecamp.org/news/learn-responsive-web-design-in-5-minutes/)
 - [Tutorialspoint](https://www.tutorialspoint.com/css/css_responsive.htm)
 
+### Paid courses-
+
+- [Udemy](https://www.udemy.com/topic/responsive-design/)
+- [Coursera](https://www.coursera.org/learn/responsive-web-design)
+- [Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
 ### Tools-
 
 - [Wirefy](https://getwirefy.com/)
