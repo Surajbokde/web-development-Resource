@@ -67,6 +67,9 @@ A well curated list of resources to help you getting started with Django
 * [Project ideas with source code](https://www.djangosites.org/with-source/)
 * [Free Projectz](https://www.freeprojectz.com/django-projects)
 
+## Projects-
+
+
 
 
 
