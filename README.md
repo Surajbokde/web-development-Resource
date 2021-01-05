@@ -58,7 +58,7 @@ You can refer to the following articles on the basics of Git and Github and also
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Write a meaningful description while making Pull Request. Add Screenshots to help us know your commits better.
 
-- Join [Slack](https://join.slack.com/t/kwocproject/shared_invite/zt-jky5lovn-qJa1czV569F6fnAsltds7g) here.
+- Join [Slack](https://join.slack.com/t/kwocproject/shared_invite/zt-kkkyt6sj-hjge52TCZcv4THEg0paZLg) here.
 <br>
 <br>
 
