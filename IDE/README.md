@@ -19,6 +19,7 @@ Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and 
 
 - [Downloads](https://code.visualstudio.com/download)
 - [Documentation](https://code.visualstudio.com/docs)
+- [Tutorials](https://www.youtube.com/watch?v=t90FMQr9WWc)
 
 ##### Features include:
 
@@ -49,6 +50,7 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 
 - [Downloads](https://atom.io/)
 - [Documentation](https://atom.io/docs)
+- [Tutorials](https://www.youtube.com/playlist?list=PLqEQ-n6mmw_OSKEmftTSOCxLjDyuAq4xC)
 
 #### 3. Sublime Text 3
 
@@ -70,6 +72,7 @@ Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports 
 
 - [Downloads](https://www.sublimetext.com/3)
 - [Documentation](https://www.sublimetext.com/docs/3/)
+- [Tutorials](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1RHzCgOc_YjaKC8BvWgZja)
 
 #### 4. PyCharm
 
@@ -86,6 +89,7 @@ PyCharm is a decent free IDE for web development in a number of languages, inclu
 
 - [Downloads](https://www.jetbrains.com/pycharm/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/pycharm/documentation/)
+- [Tutorials](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
 
 #### 5. IntelliJ IDEA
 
@@ -110,6 +114,7 @@ IntelliJ IDEA is a Java-centric IDE that is designed to maximize productivity. O
 
 - [Downloads](https://www.jetbrains.com/idea/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/help/idea/documentation-tool-window.html)
+- [Tutorials](https://www.youtube.com/watch?v=yefmcX57Eyg)
 
 #### 6. PHPStorm
 
@@ -135,6 +140,7 @@ PHPStorm is a great coding environment for those who work with PHP frameworks li
 
 - [Downloads](https://www.jetbrains.com/phpstorm/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/phpstorm/documentation/)
+- [Tutorials](https://www.youtube.com/playlist?list=PLQ176FUIyIUbfeFz-2EbDzwExRlD0Bc-w)
 
 #### 7. Webstorm
 
@@ -159,6 +165,7 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 
 - [Downloads](https://www.jetbrains.com/webstorm/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/help/webstorm/viewing-javascript-reference.html)
+- [Tutorials](https://www.youtube.com/watch?v=x8y_6Gg28GI)
 
 #### 8. NetBeans
 
@@ -177,6 +184,7 @@ NetBeans is a free, easy-to-use IDE that works well with JavaScript, HTML, PHP, 
 
 - [Downloads](https://netbeans.org/images_www/v6/download/community/8.2/)
 - [Documentation](https://netbeans.org/kb/index.html)
+- [Tutorials](https://www.youtube.com/watch?v=nhuUyqiBbTI)
 
 #### 9. Brackets
 
@@ -198,6 +206,7 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 
 - [Downloads](http://brackets.io/#)
 - [Documentation](http://brackets.io/docs/current/modules/document/Document.html)
+- [Tutorials](https://www.youtube.com/watch?v=_hnh1T-yzvA)
 
 #### 10. RJ TextEd
 
@@ -229,6 +238,7 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 * Tools available like syntax editor, color picker, charmap
 
 - [Downloads](https://www.rj-texted.se/download.html)
+- [Tutorials](https://www.youtube.com/watch?v=Pg38Ry0ggs0)
 
 #### 11. AWS Cloud9
 
@@ -251,6 +261,7 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 
 - [Downloads](https://aws.amazon.com/cloud9/)
 - [Documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
+- [Tutorials](https://www.youtube.com/watch?v=FvclLeg2vEQ)
 
 
 #### 12. Bluefish
@@ -268,6 +279,7 @@ Bluefish is a cross-platform, lightweight IDE that can be used with Windows, mac
 
 - [Downloads](http://bluefish.openoffice.nl/download.html)
 - [Documentation](http://bluefish.openoffice.nl/manual/bk01-toc.html)
+- [Tutorials](https://www.youtube.com/watch?v=-N88ozKpU-g)
 
 #### 13. Komodo Edit
 
@@ -286,6 +298,7 @@ Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is 
 
 - [Downloads](https://www.activestate.com/products/komodo-ide/)
 - [Documentation](https://docs.activestate.com/komodo/12/)
+- [Tutorials](https://www.youtube.com/watch?v=vnv0cRoKe2U)
 
 #### 14. Code::Blocks
 
@@ -303,6 +316,7 @@ Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used
 
 - [Downloads](http://www.codeblocks.org/downloads)
 - [Documentation](http://wiki.codeblocks.org/index.php/User_documentation)
+- [Tutorials](https://www.youtube.com/watch?v=GWJqsmitR2I)
 
 #### 15. Light Table
 
@@ -322,3 +336,4 @@ Light table is a “new” IDE. It has a reactive work surface which enables the
 
 - [Downloads](http://lighttable.com/)
 - [Documentation](https://docs.lighttable.com/tutorials/full/)
+- [Tutorials](https://www.youtube.com/watch?v=2HPsJN0_fno)
