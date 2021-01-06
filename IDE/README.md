@@ -50,6 +50,7 @@ Atom is a fantastic IDE for JavaScript programming. Because it’s created by Gi
 
 - [Downloads](https://atom.io/)
 - [Documentation](https://atom.io/docs)
+- [Tutorials](https://www.youtube.com/playlist?list=PLqEQ-n6mmw_OSKEmftTSOCxLjDyuAq4xC)
 
 #### 3. Sublime Text 3
 
