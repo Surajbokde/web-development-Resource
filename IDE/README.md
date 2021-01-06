@@ -261,6 +261,7 @@ Released in 2010, AWS Cloud9 is a proprietary IDE only available to those with a
 
 - [Downloads](https://aws.amazon.com/cloud9/)
 - [Documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
+- [Tutorials](https://www.youtube.com/watch?v=FvclLeg2vEQ)
 
 
 #### 12. Bluefish
