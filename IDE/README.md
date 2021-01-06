@@ -72,6 +72,7 @@ Sublime Text 3 is a flexible, free IDE for Windows, Mac, and Linux. It supports 
 
 - [Downloads](https://www.sublimetext.com/3)
 - [Documentation](https://www.sublimetext.com/docs/3/)
+- [Tutorials](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1RHzCgOc_YjaKC8BvWgZja)
 
 #### 4. PyCharm
 
