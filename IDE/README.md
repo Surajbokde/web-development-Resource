@@ -298,6 +298,7 @@ Komodo Edit is a free and open-source counterpart to the paid Komodo IDE. It is 
 
 - [Downloads](https://www.activestate.com/products/komodo-ide/)
 - [Documentation](https://docs.activestate.com/komodo/12/)
+- [Tutorials](https://www.youtube.com/watch?v=vnv0cRoKe2U)
 
 #### 14. Code::Blocks
 
