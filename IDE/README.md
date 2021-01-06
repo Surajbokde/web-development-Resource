@@ -335,3 +335,4 @@ Light table is a “new” IDE. It has a reactive work surface which enables the
 
 - [Downloads](http://lighttable.com/)
 - [Documentation](https://docs.lighttable.com/tutorials/full/)
+- [Tutorials](https://www.youtube.com/watch?v=2HPsJN0_fno)
