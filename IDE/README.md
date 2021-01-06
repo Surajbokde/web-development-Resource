@@ -19,6 +19,7 @@ Deemed the best JavaScript IDE for Windows, Mac, and Linux by TMS Outsource and 
 
 - [Downloads](https://code.visualstudio.com/download)
 - [Documentation](https://code.visualstudio.com/docs)
+- [Tutorials](https://www.youtube.com/watch?v=t90FMQr9WWc)
 
 ##### Features include:
 
