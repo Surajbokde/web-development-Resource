@@ -206,6 +206,7 @@ Created for web designers by web designers (FWDBWD?), Brackets is a powerful, bu
 
 - [Downloads](http://brackets.io/#)
 - [Documentation](http://brackets.io/docs/current/modules/document/Document.html)
+- [Tutorials](https://www.youtube.com/watch?v=_hnh1T-yzvA)
 
 #### 10. RJ TextEd
 
