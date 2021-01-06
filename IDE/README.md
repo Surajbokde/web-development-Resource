@@ -140,6 +140,7 @@ PHPStorm is a great coding environment for those who work with PHP frameworks li
 
 - [Downloads](https://www.jetbrains.com/phpstorm/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/phpstorm/documentation/)
+- [Tutorials](https://www.youtube.com/playlist?list=PLQ176FUIyIUbfeFz-2EbDzwExRlD0Bc-w)
 
 #### 7. Webstorm
 
