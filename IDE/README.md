@@ -89,6 +89,7 @@ PyCharm is a decent free IDE for web development in a number of languages, inclu
 
 - [Downloads](https://www.jetbrains.com/pycharm/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/pycharm/documentation/)
+- [Tutorials](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
 
 #### 5. IntelliJ IDEA
 
