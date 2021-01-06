@@ -316,6 +316,7 @@ Code::Blocks is a lightweight, yet powerful cross-platform IDE which can be used
 
 - [Downloads](http://www.codeblocks.org/downloads)
 - [Documentation](http://wiki.codeblocks.org/index.php/User_documentation)
+- [Tutorials](https://www.youtube.com/watch?v=GWJqsmitR2I)
 
 #### 15. Light Table
 
