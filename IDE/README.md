@@ -238,6 +238,7 @@ Released as freeware, RJ TextEd is a full-featured text and source editor with U
 * Tools available like syntax editor, color picker, charmap
 
 - [Downloads](https://www.rj-texted.se/download.html)
+- [Tutorials](https://www.youtube.com/watch?v=Pg38Ry0ggs0)
 
 #### 11. AWS Cloud9
 
