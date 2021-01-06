@@ -165,6 +165,7 @@ Webstorm is a slick IDE that’s feature-rich and user-friendly. It’s designed
 
 - [Downloads](https://www.jetbrains.com/webstorm/download/#section=windows)
 - [Documentation](https://www.jetbrains.com/help/webstorm/viewing-javascript-reference.html)
+- [Tutorials](https://www.youtube.com/watch?v=x8y_6Gg28GI)
 
 #### 8. NetBeans
 
