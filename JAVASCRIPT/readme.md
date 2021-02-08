@@ -6,7 +6,7 @@
 
 - [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 - [Backbone.js Testing](http://backbone-testing.com/) by Ryan Roemer
-- [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572
+- [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572)
 - [Backbone.js Blueprints](http://www.amazon.com/dp/1783286997/) by Andrew Burgess
 - [Recipes with Backbone](http://recipeswithbackbone.com/) by Nick Gauthier and Chris Strom
 - [Full Stack Web Development with Backbone.js](http://shop.oreilly.com/product/0636920030799.do) by Patrick Mulder
@@ -17,12 +17,12 @@
 
 ## Videos
 
+- [Namaste 🙏 JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) by Akshay Saini
 - [BackboneConf 2013](https://www.youtube.com/playlist?list=PLlgxAbM67lYLJm9_Ub3gStXa2vjb51aUX) - Youtube playlist
 - [BackboneConf 2014](https://www.youtube.com/playlist?list=PLlgxAbM67lYIGw8DnANC7VgREbzJRQged) - Youtube playlist
 - [Introduction to Backbone.js](https://www.youtube.com/playlist?list=PLCE344BDBD8FAC282) - Youtube playlist by Joseph Zimmerman
 - [Backbone App Walkthrough](https://www.youtube.com/playlist?list=PL0C57F698BD4766B1) - Youtube playlist by Joseph Zimmerman
 - [Backbone.js Tutorial](http://www.youtube.com/playlist?list=PLTjRvDozrdlwn9IsHWEs9IQv3HQob4bH3) - Youtube playlist by Mosh Hamedani
-- [Backbone-Require-Boilerplate Explained](http://gregfranko.com/blog/backbone-require-boilerplate-explained/) by Greg Franko
 
 ## Libraries
 
@@ -36,7 +36,7 @@
 - [Backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie)
 - [Backbone.Radio](https://github.com/marionettejs/backbone.radio)
 - [Backbone.BabySitter](https://github.com/marionettejs/backbone.babysitter)
-- [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill
+- [Backbone.History.Polyfill](https://github.com/FidelityInternational/BackboneHistoryPolyfill)
 
 ## Examples and boilerplates
 
@@ -50,6 +50,6 @@
 - [Anatomy of Backbone.js](https://www.codeschool.com/courses/anatomy-of-backbone-js)
 - [Advanced Backbone Patterns and Techniques](http://code.tutsplus.com/courses/advanced-backbone-patterns-and-techniques)
 - [Connected to the Backbone](http://code.tutsplus.com/courses/connected-to-the-backbone)
-- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone))
+- [Structuring Your Web Apps via Backbone.js](https://github.com/hegdeashwin/Backbone)
 - [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
 - [Backbone.js Fundamentals](http://www.pluralsight.com/courses/backbone-fundamentals)
