@@ -47,7 +47,7 @@ You can refer to the following articles on the basics of Git and Github and also
 
 <br>
 
-## ⭐ How to Contribute?
+## ⭐ What are the first steps?
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
